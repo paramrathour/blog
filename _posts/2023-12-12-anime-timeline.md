@@ -68,3 +68,5 @@ I probably overdid my explanations. Anyway, with no further ado, here's the time
     {% if forloop.last %}</ul>{% endif %}
   {% endfor %}
 </div>
+> I will keep updating this timeline whenever I watch more anime.
+{: .prompt-info }

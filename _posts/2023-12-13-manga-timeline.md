@@ -5,7 +5,8 @@ date: 2023-12-13
 categories: [Animanga, Timeline]
 tags: [manga, timeline, thoughts]
 ---
-I suggest reading [my anime timeline](/blog/anime-timeline) before this blog. Thus, there's no need to again go over the specifics here.
+> I suggest reading [my anime timeline](/blog/anime-timeline) before this blog. There's no need to go over the specifics again.
+{: .prompt-tip }
 
 ## Motivation
 I don't classify myself as an avid manga reader, my usual go-to is checking out the manga versions of ongoing anime that leave me itching to know what happens next.
@@ -53,3 +54,5 @@ Alright, let's dive right in!
     {% if forloop.last %}</ul>{% endif %}
   {% endfor %}
 </div>
+> I will keep updating this timeline whenever I read more manga.
+{: .prompt-info }
