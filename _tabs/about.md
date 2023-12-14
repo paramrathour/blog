@@ -3,6 +3,11 @@
 icon: fas fa-info-circle
 order: 1
 ---
+Hello! I am Wrath.
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I am a Geek by Numbers, an Otaku by Nature and a Philosopher at Heart. More details about me are [here](/about-me).
+
+This website serves as a platform for me to share the thoughts I've held onto for quite some time.
+Down the road, I might throw in some math/CS tutorials.
+
+Let's see how things unfold!
