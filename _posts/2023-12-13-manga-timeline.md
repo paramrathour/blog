@@ -11,7 +11,7 @@ I suggest reading [my anime timeline](/blog/anime-timeline) before this blog. Th
 I don't classify myself as an avid manga reader, my usual go-to is checking out the manga versions of ongoing anime that leave me itching to know what happens next.
 
 ## Personal Insights
-Like before, you can hover/click on the comments icon to uncover my thoughts (mostly spoiler-free) on each manga. Mobile users may need to rotate their device to landscape more to read comments for longer titles.
+Like before, you can hover/click on the comments icon to uncover my thoughts (mostly spoiler-free) on each manga. Mobile users may need to rotate their device to landscape mode to read comments for longer titles.
 
 ## Timeline
 Alright, let's dive right in!
