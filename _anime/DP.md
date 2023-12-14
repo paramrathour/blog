@@ -1,0 +1,6 @@
+---
+title: "Death Parade"
+date: 2022-10-02
+code: 28223
+---
+One of the best first episodes I have ever seen. Definitely had its flaws but liked its distinct take on morality.
