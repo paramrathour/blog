@@ -25,7 +25,7 @@ Determining the timeline for this anime journey poses another challenge -- dates
 Choose those dates when
 - I have finished watching a completed anime or
 - I am caught up with all existing material, with no new material airing at the time or
-- I have seen all I wanted to see ( ͡ ° ͜ʖ ͡ °)
+- I have seen everything that I wanted to see ( ͡ ° ͜ʖ ͡ °)
 
 ### The Forgotten Past
 Back in 2018, I didn't use to track these dates. Also while creating this timeline, I realised I have lost some random dates. To handle such cases, I have chosen the last day of the month I likely 'completed' the show.
