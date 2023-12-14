@@ -46,17 +46,13 @@ permalink: /feed.xml
   {% endif %}
 
   {% if post.subject %}
-    <subject>{{ post.subject | markdownify }}</subject>
-  {% endif %}
-
-  <!-- {% if post.summary %}
-    <summary>{{ post.summary | strip }}</summary>
+    <summary>{{ post.subject | strip_html }}</summary>
   {% else %}
     <summary>
       {% include no-linenos.html content=post.content %}
       {{ content  | strip_html | truncate: 400 }}
     </summary>
-  {% endif %} -->
+  {% endif %}
 
   </entry>
 {% endfor %}
