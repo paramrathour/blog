@@ -19,4 +19,6 @@ Season 4 Part 2: Peak! Thaw is the best AoT episode yet and Gabi is incredible
 <br>
 Honourable Mention: Night of the End
 <br><br>
-Season 4 Part 3: From everything making sense to almost everything making sense, I can see why people do not like the later parts. However, the reason I love AoT is its realistic portrayal of war and its diverse & intricate character cast.
+Season 4 Part 3: From everything making sense to almost everything making sense, I can see why people do not like the later parts.
+<br>
+However, the reason I love AoT is its realistic portrayal of war and its diverse & intricate character cast.
