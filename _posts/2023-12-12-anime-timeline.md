@@ -14,7 +14,7 @@ I want to keep things simple -- one entry, one franchise.
 ## Personal Insights
 I am no critic, but who doesn't like to share thoughts? To get a real deep dive into my experiences, I am sharing my two cents (mostly spoiler-free) on each anime.
 
-Hover over the names (or long-press for mobile users) to uncover these insights.
+Hover/Click on the comments icon to uncover these insights. Mobile users may need to rotate their device to landscape more to read comments for longer titles.
 
 These thoughts generally apply to the entirety of the anime, but in few cases, I have categorized my thoughts by seasons, especially where I felt a need due to varying opinions across each season.
 
@@ -36,7 +36,7 @@ I probably overdid my explanations. Anyway, with no further ado, here's the time
 <style>
   .tooltip-inner{
     font-size: 0.8rem;
-    max-width: 543px;o
+    max-width: 100%;
     text-align: left;
   }
 </style>
@@ -61,7 +61,8 @@ I probably overdid my explanations. Anyway, with no further ado, here's the time
       {% assign ts = post.date | date: '%s' %}
       <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
       <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">{{ post.date | date: df_strftime_m }}</span>
-      <a href="{{ 'https://myanimelist.net/anime/' | append: post.code }}" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-html="true" title = "{{ post.content }}">{{ post.title }}</a>
+      <a href="{{ 'https://myanimelist.net/anime/' | append: post.code }}">{{ post.title }}</a>
+      <span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" data-bs-trigger="hover focus" title = "{{ post.content }}"><i class="fa-fw fas fa-xs fa-comment"></i></span>
     </li>
 
     {% if forloop.last %}</ul>{% endif %}

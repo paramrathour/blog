@@ -10,6 +10,7 @@ Season 1 Part 2: Finally an ecchi anime which doesn't need its ecchi elements to
 Perfect example of worldbuilding done right. The work oozes the passion put up by the staff. Also, a shoutout to Yuiko Ōhara.
 <br><br>
 Season 2 Part 1: An ecchi protagonist who needs all the ecchi elements to stand up ( ͡ ° ͜ʖ ͡ °).
+<br>
 This cour feels like a setup for the next half, just like the first cour of S1. But it had its moments, nevertheless.
 <br>
 Excited to know what happens next.

@@ -11,7 +11,7 @@ I suggest reading [my anime timeline](/blog/anime-timeline) before this blog. Th
 I don't classify myself as an avid manga reader, my usual go-to is checking out the manga versions of ongoing anime that leave me itching to know what happens next.
 
 ## Personal Insights
-Like before, you can hover over the names (or long-press for mobile users) to uncover my thoughts (mostly spoiler-free) on each manga.
+Like before, you can hover/click on the comments icon to uncover my thoughts (mostly spoiler-free) on each manga. Mobile users may need to rotate their device to landscape more to read comments for longer titles.
 
 ## Timeline
 Alright, let's dive right in!
@@ -19,7 +19,7 @@ Alright, let's dive right in!
 <style>
   .tooltip-inner{
     font-size: 0.8rem;
-    max-width: 543px;o
+    max-width: 100%;
     text-align: left;
   }
 </style>
@@ -46,7 +46,8 @@ Alright, let's dive right in!
       {% assign ts = post.date | date: '%s' %}
       <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
       <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">{{ post.date | date: df_strftime_m }}</span>
-      <a href="{{ 'https://myanimelist.net/manga/' | append: post.code }}" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-html="true" title = "{{ post.content }}">{{ post.title }}</a>
+      <a href="{{ 'https://myanimelist.net/manga/' | append: post.code }}">{{ post.title }}</a>
+      <span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" data-bs-trigger="hover focus" title = "{{ post.content }}"><i class="fa-fw fas fa-xs fa-comment"></i></span>
     </li>
 
     {% if forloop.last %}</ul>{% endif %}
