@@ -48,7 +48,10 @@ Alright, let's dive right in!
       <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
       <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">{{ post.date | date: df_strftime_m }}</span>
       <a href="{{ 'https://myanimelist.net/manga/' | append: post.code }}">{{ post.title }}</a>
-      <span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" data-bs-trigger="hover focus" title = "{{ post.content }}"><i class="fa-fw fas fa-xs fa-comment"></i></span>
+      {% assign content = post.content | strip_newlines %}
+      {% if content != "" %}
+        <span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" data-bs-trigger="hover focus" title = "{{ post.content }}"><i class="fa-fw fas fa-xs fa-comment"></i></span>
+      {% endif %}
     </li>
 
     {% if forloop.last %}</ul>{% endif %}
