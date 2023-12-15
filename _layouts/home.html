@@ -80,7 +80,12 @@ refactor: true
 
             <div class="card-text content mt-0 mb-3">
               <p>
-                {{ post.subject | markdownify }}
+                {% if post.subject %}
+                  {{ post.subject | markdownify }}
+                {% else %}
+                  {% include no-linenos.html content=post.content %}
+                  {{ content | markdownify | strip_html | truncate: 200 | escape }}
+                {% endif %}
               </p>
             </div>
             <div class="post-meta flex-grow-1 d-flex align-items-end">
