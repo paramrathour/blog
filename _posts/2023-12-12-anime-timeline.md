@@ -52,15 +52,19 @@ I probably overdid my explanations. Anyway, with no further ado, here's the time
 
     {% if cur_year != last_year %}
       {% unless forloop.first %}</ul>{% endunless %}
+
       <time class="year lead d-block">{{ cur_year }}</time>
       {{ '<ul class="list-unstyled">' }}
 
       {% assign last_year = cur_year %}
     {% endif %}
+
     <li id="{{ cur_year }}">
       {% assign ts = post.date | date: '%s' %}
       <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
-      <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">{{ post.date | date: df_strftime_m }}</span>
+      <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
+        {{ post.date | date: df_strftime_m }}
+      </span>
       <a href="{{ 'https://myanimelist.net/anime/' | append: post.code }}">{{ post.title }}</a>
       {% assign content = post.content | strip_newlines %}
       {% if content != "" %}
