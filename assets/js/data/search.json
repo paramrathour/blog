@@ -12,8 +12,8 @@ swcache: true
     "date": "{{ post.date }}",
     {% include no-linenos.html content=post.content %}
     {% assign _content = content | strip_html | strip_newlines %}
-    {% if post.subject %}
-      {% assign _snippet = post.subject | strip_html | strip_newlines %}
+    {% if post.description %}
+      {% assign _snippet = post.description | strip_html | strip_newlines %}
     {% else %}
       {% assign _snippet = _content | truncate: 200 %}
     {% endif %}
