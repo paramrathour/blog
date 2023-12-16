@@ -1,7 +1,7 @@
 ---
 title: Manga Reading Timeline
 subject: "Unveiling my manga journey: thoughts and timeline"
-date: 2023-12-13
+date: 2023-12-14 07:59:05 +05:30
 categories: [Animanga, Timeline]
 tags: [manga, timeline, thoughts]
 ---
