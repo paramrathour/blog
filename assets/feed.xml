@@ -45,8 +45,8 @@ permalink: /feed.xml
     {% endfor %}
   {% endif %}
 
-  {% if post.subject %}
-    <summary>{{ post.subject | strip_html }}</summary>
+  {% if post.description %}
+    <summary>{{ post.description | strip_html }}</summary>
   {% else %}
     <summary>
       {% include no-linenos.html content=post.content %}
