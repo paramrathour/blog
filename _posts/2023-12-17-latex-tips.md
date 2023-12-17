@@ -9,7 +9,7 @@ pin: true
 date: 2023-12-17 08:21 +0530
 ---
 ## History
-While working on his magnum opus, 'The Art of Computer Programming', Donald Knuth was disappointed with the quality typesetting which led him to develop $$\TeX$$, a typesetting system intended for the creation of beautiful books that contain a lot of mathematics[^texbook]. With Leslie Lamport's modifications, $$\LaTeX$$ was born.
+While working on his magnum opus, 'The Art of Computer Programming', Donald Knuth was disappointed with the quality of typesetting which led him to develop $$\TeX$$, a typesetting system intended for the creation of beautiful books that contain a lot of mathematics[^texbook]. With Leslie Lamport's modifications, $$\LaTeX$$ was born.
 
 ## Features
 Unlike a <span data-bs-toggle="tooltip" data-bs-placement="top" title="What You See Is What You Get">WYSIWYG</span> software, here an individual writes code and the document is generated automatically. This allows users to focus on writing actual content while the software takes care of text formatting and document layout.
@@ -53,7 +53,7 @@ Once you get a good grasp with $$\LaTeX$$, go for an offline setup.
 I use Sublime Text with `LaTeXTools` and `LaTeXYZ` packages to speed up writing program.
 ![sublime-text-latex-math-render](/sublime-text-latex-math-render.gif){: w="100%"}
 _Gaussian function of a normally distributed random variable with expected value $$=\mu$$ and standard deviation $$=\sigma$$_
-### Features
+### Benefits
 - Keyboard Shortcuts
 - Autocompletions and Automatching
 - Equation and Image Preview
@@ -79,12 +79,12 @@ I have summarized the important points below.
 - Fix [new window open](https://github.com/SublimeText/LaTeXTools/issues/1506) and [autocomplete](https://github.com/SublimeText/LaTeXTools/issues/1506) problem if it occurs.
 - Optionally, install more [recommended packages](https://latextools.readthedocs.io/en/latest/recommended-packages/) designed for $$\LaTeX$$.
 
-> Interested in taking live notes with LaTeX? Check out [Evan's blog](https://ewpratten.com/blog/notetaking-with-latex/) is , but brace yourself – the setup gets crazier and it involves a fair bit of the learning curve.
+> Interested in taking live notes with LaTeX? Check out [Evan's blog](https://ewpratten.com/blog/notetaking-with-latex/), but brace yourself – the setup gets crazier and it involves a fair bit of the learning curve.
 {: .prompt-tip}
 
 And that's it! Thanks for reading this blog, I hope this will help you in your future $$\TeX$$nical adventures.
 I will wrap this up by showcasing some cool $$\LaTeX$$ applications, with source code.
-## LaTeX Gallery
+## $$\LaTeX$$ Gallery
 ### Math
 #### Givens Rotation
 
@@ -93,7 +93,7 @@ $$ { G(i,j,\theta )={\begin{bmatrix}1&\cdots &0&\cdots &0&\cdots &0\\\vdots &\dd
 <!-- <p style="text-align: center;">\( G(i,j,\theta )\mathbf{x}\) represents a counterclockwise rotation of the vector \(\mathbf{x}\) in the \((i,j)\) plane by \(\theta\) radians</p> -->
 <p style="text-align: center;">Apply \( G(i,j,\theta )\) to rotate a vector \( \mathbf{x} \) in the \((i,j)\) plane by \(\theta\) radians (counterclockwise)</p>
 
-```tex
+```latex
 \begin{equation}
   G(i,j,\theta )={
     \begin{bmatrix}
@@ -113,7 +113,7 @@ $$ { G(i,j,\theta )={\begin{bmatrix}1&\cdots &0&\cdots &0&\cdots &0\\\vdots &\dd
 
 $$ \sqrt{\frac{\pi e}{2}}= \cfrac{1}{1+{\cfrac{1}{1+{\cfrac{2}{1+{\cfrac{3}{1+{ {\cfrac{4}{1+{_{\ddots }}} }}}}}}}}} + \left\{1 + \dfrac{1}{1\cdot3}+\dfrac{1}{1\cdot3\cdot5}+\dfrac{1}{1\cdot3\cdot5\cdot7}+\dfrac{1}{1\cdot3\cdot5\cdot7\cdot9}+\cdots\right\} $$
 
-```tex
+```latex
 \begin{equation}
   \sqrt{\frac{\pi e}{2}}= \cfrac{1}{1+{\cfrac{1}{1+{\cfrac{2}{1+{\cfrac{3}{1+{ {\cfrac{4}{1+{_{\ddots }}} }}}}}}}}} + \left\{1 
   + 
@@ -124,7 +124,7 @@ $$ \sqrt{\frac{\pi e}{2}}= \cfrac{1}{1+{\cfrac{1}{1+{\cfrac{2}{1+{\cfrac{3}{1+{ 
 ![Random k-SAT problem generation](/random-k-sat-pseudocode-light.svg){: .light w="100%"}
 ![Random k-SAT problem generation](/random-k-sat-pseudocode-dark.svg){: .dark w="100%"}
 _Pseudocode to generate a random $$k$$-SAT problem using `SageMath`_
-```tex
+```latex
 \usepackage[linesnumbered,ruled,vlined]{algorithm2e}
 
 \begin{algorithm}[H]
@@ -172,7 +172,7 @@ Create $m$ clauses $C_1, C_2, \ldots, C_{m}$ as empty strings\;
 ![Principal Component Analysis](/principal-component-analysis-light.svg){: .light w="100%"}
 ![Principal Component Analysis](/principal-component-analysis-dark.svg){: .dark w="100%"}
 _Dimensionality Reduction using Principal Component Analysis in `python`_
-```tex
+```latex
 \usepackage{minted}
 
 \begin{minted}[frame = single, breaklines, linenos]{python}
@@ -197,7 +197,7 @@ def PCA(datapoints, PCA_THRESHOLD):
 ![Molecular Orbital Diagram](/molecular-orbital-diagram-light.svg){: .light w="100%"}
 ![Molecular Orbital Diagram](/molecular-orbital-diagram-dark.svg){: .dark w="100%"}
 _Molecular Orbital Diagram forr Nitric Oxide_
-```tex
+```latex
 \usepackage{modiagram}
 
 \begin{modiagram}[labels,names]
@@ -212,7 +212,7 @@ _Molecular Orbital Diagram forr Nitric Oxide_
 ![Parse Tree](/parse-tree-light.svg){: .light w="100%"}
 ![Parse Tree](/parse-tree-dark.svg){: .dark w="100%"}
 _Parse Tree for $$ \varphi = (r \rightarrow \neg s) \lor \neg(p \rightarrow (\neg q \lor (r \land (p \rightarrow (s \lor r)))))$$_
-```tex
+```latex
 \usepackage{tikz-qtree}
 \tikzset{edge from parent/.style={draw, edge from parent path={(\tikzparentnode) -- (\tikzchildnode)}}}
 
@@ -233,7 +233,7 @@ _Parse Tree for $$ \varphi = (r \rightarrow \neg s) \lor \neg(p \rightarrow (\ne
 ![npn transistor used as an amplifier](/npn-transistor-amplifier-light.svg){: .light w="100%"}
 ![npn transistor used as an amplifier](/npn-transistor-amplifier-dark.svg){: .dark w="100%"}
 _npn transistor used as an amplifier_
-```tex
+```latex
 \usepackage{circuitikz}
 
 \begin{circuitikz}[american voltages]
@@ -279,7 +279,7 @@ to [C,l_=$C_2$] (6,-3);
 ![Fitch Proofs for Propositional Logic](/fitch-proof-propositional-logic-light.svg){: .light w="100%"}
 ![Fitch Proofs for Propositional Logic](/fitch-proof-propositional-logic-dark.svg){: .dark w="100%"}
 _Fitch Proof of $$\vdash p \rightarrow (q \rightarrow p)$$_
-```tex
+```latex
 \usepackage{logicproof}
 
 \begin{logicproof}{4}
