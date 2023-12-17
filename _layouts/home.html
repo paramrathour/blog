@@ -7,37 +7,48 @@ refactor: true
 
 {% assign pinned = site.posts | where: 'pin', 'true' %}
 {% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
-
 {% assign posts = '' | split: '' %}
 
-<!-- Get pinned posts -->
+{% if site.paginator_enable %}
 
-{% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
-{% assign pinned_num = pinned.size | minus: offset %}
+  <!-- Get pinned posts -->
+  {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
+  {% assign pinned_num = pinned.size | minus: offset %}
 
-{% if pinned_num > 0 %}
-  {% for i in (offset..pinned.size) limit: pinned_num %}
+  {% if pinned_num > 0 %}
+    {% for i in (offset..pinned.size) limit: pinned_num %}
+      {% assign posts = posts | push: pinned[i] %}
+    {% endfor %}
+  {% else %}
+    {% assign pinned_num = 0 %}
+  {% endif %}
+
+  <!-- Get default posts -->
+
+  {% assign default_beg = offset | minus: pinned.size %}
+
+  {% if default_beg < 0 %}
+    {% assign default_beg = 0 %}
+  {% endif %}
+
+  {% assign default_num = paginator.posts | size | minus: pinned_num %}
+  {% assign default_end = default_beg | plus: default_num | minus: 1 %}
+
+  {% if default_num > 0 %}
+    {% for i in (default_beg..default_end) %}
+      {% assign posts = posts | push: default[i] %}
+    {% endfor %}
+  {% endif %}
+
+{% else %}
+
+  {% for i in (0..pinned.size) limit: pinned.size %}
     {% assign posts = posts | push: pinned[i] %}
   {% endfor %}
-{% else %}
-  {% assign pinned_num = 0 %}
-{% endif %}
-
-<!-- Get default posts -->
-
-{% assign default_beg = offset | minus: pinned.size %}
-
-{% if default_beg < 0 %}
-  {% assign default_beg = 0 %}
-{% endif %}
-
-{% assign default_num = paginator.posts | size | minus: pinned_num %}
-{% assign default_end = default_beg | plus: default_num | minus: 1 %}
-
-{% if default_num > 0 %}
-  {% for i in (default_beg..default_end) %}
+  {% for i in (0..default.size) limit: default.size %}
     {% assign posts = posts | push: default[i] %}
   {% endfor %}
+
 {% endif %}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
@@ -131,6 +142,8 @@ refactor: true
 </div>
 <!-- #post-list -->
 
-{% if paginator.total_pages > 1 %}
-  {% include post-paginator.html %}
+{% if site.paginator_enable %}
+  {% if paginator.total_pages > 1 %}
+    {% include post-paginator.html %}
+  {% endif %}
 {% endif %}
