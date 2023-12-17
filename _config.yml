@@ -75,7 +75,7 @@ theme_mode: # [light|dark]
 img_cdn: https://paramrathour.github.io/website-assets
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /blog/saitama.png
+avatar: /saitama.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
