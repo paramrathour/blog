@@ -19,14 +19,14 @@ Here are some of its advantages
 - Automatic numbering and generation of table of contents, citations and other lists 
 - Active open-source community has developed packages[^ctan] for pretty much everything
 
+You really don't need to know anything else about it, you will pick up things as you dive deeper. Now, let's begin.
 ## Getting Started
-You really don't need to know anything else about it.
 
 You can use [Overleaf](https://www.overleaf.com?r=8d4792b1&rm=d&rs=b) to start your $$\LaTeX$$ journey. The [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) blog will explain you the basics. And that's it! You can now use overleaf to work on any document.
 
 ### Resources
 - [LaTeX Course by Learner's Space, IIT Bombay](https://github.com/paramrathour/LaTeX) - A concise course that covers pretty much all the basics and gives you a flavour of advance stuff.
-- [LaTeX Tutorial](https://latex-tutorial.com/tutorials) - Short and sweet tutorials covering various $$\TeX$$nical concepts. This is from where I learnt but the [Overleaf tutorials](https://www.overleaf.com/learn) and guides are also good.
+- [LaTeX Tutorial](https://latex-tutorial.com/tutorials) - Short and sweet tutorials covering various $$\TeX$$nical concepts. This is from where I learnt but the [Overleaf tutorials and guides](https://www.overleaf.com/learn) are also good.
 - [$$\LaTeX$$ in 24 Hours](https://link.springer.com/book/10.1007/978-3-319-47831-9) - This book is an overkill, but this really shows off what $$\LaTeX$$ can do.
 - [The $$\TeX$$book](https://ctan.org/pkg/texbook?lang=en) - The book by the creator himself is like an overkill on steroids, if that makes sense.
 - [Comprehensive $$\TeX$$ Archive Network](https://ctan.org/) (CTAN) - The holy documentation, something everyone should read at some point in their life, right?
@@ -62,7 +62,7 @@ _Gaussian function of a normally distributed random variable with expected value
 - Custom Builders and many more
 
 For this, you need to follow the steps mentioned in this blog, [Set up Sublime Text as Your Ultimate LaTeX Editor](https://jdhao.github.io/2018/03/10/sublime-text-latextools-setup/).
-I have summarized important points below.
+I have summarized the important points below.
 
 ### Installation
 - LaTeX - either [TeX Live](https://www.tug.org/texlive/acquire.html) or [MikTeX](https://miktex.org/) works
@@ -83,7 +83,7 @@ I have summarized important points below.
 {: .prompt-tip}
 
 And that's it! Thanks for reading this blog, I hope this will help you in your future $$\TeX$$nical adventures.
-I will wrap this up with showcasing some cool $$\LaTeX$$ uses with code.
+I will wrap this up by showcasing some cool $$\LaTeX$$ applications, with source code.
 ## LaTeX Gallery
 ### Math
 #### Givens Rotation
@@ -120,7 +120,7 @@ $$ \sqrt{\frac{\pi e}{2}}= \cfrac{1}{1+{\cfrac{1}{1+{\cfrac{2}{1+{\cfrac{3}{1+{ 
   \dfrac{1}{1\cdot3}+\dfrac{1}{1\cdot3\cdot5}+\dfrac{1}{1\cdot3\cdot5\cdot7}+\dfrac{1}{1\cdot3\cdot5\cdot7\cdot9}+\cdots\right\}
 \end{equation}
 ```
-### Pseudocodes using `algorithm2e`
+### Pseudocode using `algorithm2e`
 ![Random k-SAT problem generation](/random-k-sat-pseudocode-light.svg){: .light w="100%"}
 ![Random k-SAT problem generation](/random-k-sat-pseudocode-dark.svg){: .dark w="100%"}
 _Pseudocode to generate a random $$k$$-SAT problem using `SageMath`_
