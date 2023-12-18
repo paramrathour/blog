@@ -139,7 +139,11 @@ kramdown:
 
 collections:
   anime:
+    output: true
   manga:
+    output: true
+  latex:
+    output: true
   tabs:
     output: true
     sort_by: order
