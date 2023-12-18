@@ -93,253 +93,68 @@ $$ { G(i,j,\theta )={\begin{bmatrix}1&\cdots &0&\cdots &0&\cdots &0\\\vdots &\dd
 <!-- <p style="text-align: center;">\( G(i,j,\theta )\mathbf{x}\) represents a counterclockwise rotation of the vector \(\mathbf{x}\) in the \((i,j)\) plane by \(\theta\) radians</p> -->
 <p style="text-align: center;">Apply \( G(i,j,\theta )\) to rotate a vector \( \mathbf{x} \) in the \((i,j)\) plane by \(\theta\) radians (counterclockwise)</p>
 
+{% assign temp_post = site.latex | where: 'name', 'givens-rotation.md' | first %}
 ```latex
-\begin{equation}
-  G(i,j,\theta )={
-    \begin{bmatrix}
-    1&\cdots &0&\cdots &0&\cdots &0\\
-    \vdots &\ddots &\vdots &&\vdots &&\vdots \\
-    0&\cdots &\cos{\theta}&\cdots &-\sin{\theta}&\cdots &0\\
-    \vdots &&\vdots &\ddots &\vdots &&\vdots \\
-    0&\cdots &\sin{\theta}&\cdots &\cos{\theta}&\cdots &0\\
-    \vdots &&\vdots &&\vdots &\ddots &\vdots \\
-    0&\cdots &0&\cdots &0&\cdots &1
-    \end{bmatrix}
-    }
-\end{equation}
+{{ temp_post.content }}
 ```
 
 #### A remarkable formula of Ramanujan
 
 $$ \sqrt{\frac{\pi e}{2}}= \cfrac{1}{1+{\cfrac{1}{1+{\cfrac{2}{1+{\cfrac{3}{1+{ {\cfrac{4}{1+{_{\ddots }}} }}}}}}}}} + \left\{1 + \dfrac{1}{1\cdot3}+\dfrac{1}{1\cdot3\cdot5}+\dfrac{1}{1\cdot3\cdot5\cdot7}+\dfrac{1}{1\cdot3\cdot5\cdot7\cdot9}+\cdots\right\} $$
 
+{% assign temp_post = site.latex | where: 'name', 'a-remarkable-formula-of-ramanujan.md' | first %}
 ```latex
-\begin{equation}
-  \sqrt{\frac{\pi e}{2}}= \cfrac{1}{1+{\cfrac{1}{1+{\cfrac{2}{1+{\cfrac{3}{1+{ {\cfrac{4}{1+{_{\ddots }}} }}}}}}}}} + \left\{1 
-  + 
-  \dfrac{1}{1\cdot3}+\dfrac{1}{1\cdot3\cdot5}+\dfrac{1}{1\cdot3\cdot5\cdot7}+\dfrac{1}{1\cdot3\cdot5\cdot7\cdot9}+\cdots\right\}
-\end{equation}
+{{ temp_post.content }}
 ```
 ### Pseudocode using `algorithm2e`
 ![Random k-SAT problem generation](/random-k-sat-pseudocode-light.svg){: .light w="100%"}
 ![Random k-SAT problem generation](/random-k-sat-pseudocode-dark.svg){: .dark w="100%"}
 _Pseudocode to generate a random $$k$$-SAT problem using `SageMath`_
+{% assign temp_post = site.latex | where: 'name', 'pseudocode-using-algorithm2e.md' | first %}
 ```latex
-\usepackage[linesnumbered,ruled,vlined]{algorithm2e}
-
-\begin{algorithm}[H]
-\SetArgSty{textrm}
-\SetCommentSty{emph}
-\SetKwInOut{Input}{Input}
-\SetKwInOut{Output}{Output}
-\underline{Function \texttt{random\_k\_SAT}} ($k$, $n$, $m$ (\texttt{NUMBER\_OF\_CLAUSES}))\;
-\Input{$n=$ number of variables and $m=$ number of clauses, $n\leq m$}
-\Output{$n$ variables, $m$ clauses in the generated $n$ variables}
-\caption{Generate random $k$-SAT}
-\Begin{
-Create $n$ variables $x_1, x_2,\ldots, x_n$ representing each as a string\;
-Create $m$ clauses $C_1, C_2, \ldots, C_{m}$ as empty strings\;
-\For{each clause $C_i$}{ %$i\in\{0,1,\ldots,m-1\}$
-    Sample $k$ random variables from $x_1,\ldots, x_{n}$ (and sort them)\;
-    These are called \texttt{chosen\_variables} $= [x_{i_1}, \ldots, x_{i_k}]$\ ($i_1 < \ldots < i_k$)\;
-    \While{True}{
-        Randomly generate $k$ \texttt{coefficients} = [$c_1,\ldots, c_k$] where each $c_i\in\{-1,0,1\}$\;
-        \tcp{where $c_i$ is the coefficient of $x_{i_k}$}
-        \tcp{Exclude the case when all coefficients are zero; i.e., the clause is empty}
-        \If{$\exists  i$ such that $c_i\neq 0$}{
-            break\;
-        }
-    }
-    \For{each non-empty coefficient $c_i$ in \texttt{coefficients}}{
-        \If{$c_i = -1$}{
-            Append `$\sim x_{i_k}$' to $C_i$\;
-        }
-        \If{$c_i = 1$}{
-            Append `$x_{i_k}$' to $C_i$\;
-        }
-        \If{there are more non-empty coefficients}{
-            Append `$\mid$' to $C_i$\;
-        }
-    }
-    \tcp{Finally, convert the clause into propositional formula using SageMath}
-    $C_i= $\texttt{ sage.logic.propcalc.formula}$(C_i)$\;
-}
-\Return [$x_1, x_2,\ldots, x_n$], [$C_1, C_2, \ldots, C_{m}$]
-}
-\end{algorithm}
+{{ temp_post.content }}
 ```
 ### Code Highlighting using `minted`
 ![Principal Component Analysis](/principal-component-analysis-light.svg){: .light w="100%"}
 ![Principal Component Analysis](/principal-component-analysis-dark.svg){: .dark w="100%"}
 _Dimensionality Reduction using Principal Component Analysis in `python`_
+{% assign temp_post = site.latex | where: 'name', 'code-highlighting-using-minted.md' | first %}
 ```latex
-\usepackage{minted}
-
-\begin{minted}[frame = single, breaklines, linenos]{python}
-import numpy as np
-
-def PCA(datapoints, PCA_THRESHOLD):
-    mean = np.mean(datapoints, axis = 1)
-    datapoints = datapoints - mean.reshape((datapoints.shape[0], 1))
-    L = datapoints.T @ datapoints
-    eigenvalues, eigenvectors = np.linalg.eigh(L)
-    eigenvalues = eigenvalues[::-1]
-    eigenvectors = eigenvectors[:, ::-1]
-    num_components = np.searchsorted(np.cumsum(eigenvalues) / np.sum(eigenvalues), PCA_THRESHOLD, side = "left") + 1
-    eigenvectors = datapoints @ eigenvectors[:,:num_components]
-    eigenvectors = eigenvectors / np.linalg.norm(eigenvectors, axis = 0)
-    eigenvalues = eigenvalues[:num_components]
-    return eigenvalues, eigenvectors, mean
-\end{minted}
+{{ temp_post.content }}
 ```
 ### `TikZ` applications
 #### Molecular Orbital Diagrams using `modiagram`
 ![Molecular Orbital Diagram](/molecular-orbital-diagram-light.svg){: .light w="100%"}
 ![Molecular Orbital Diagram](/molecular-orbital-diagram-dark.svg){: .dark w="100%"}
 _Molecular Orbital Diagram forr Nitric Oxide_
+{% assign temp_post = site.latex | where: 'name', 'molecular-orbital-diagrams-using-modiagram.md' | first %}
 ```latex
-\usepackage{modiagram}
-
-\begin{modiagram}[labels,names]
-  \atom[N]{left}{ 2p = {0;up,up,up} }
-  \atom[O]{right}{ 2p = {2;pair,up,up} }
-  \molecule[NO]{
-    2pMO = {1.8,.4;pair,pair,pair,up},
-  }
-\end{modiagram}
+{{ temp_post.content }}
 ```
 #### Parse Trees using `tikz-qtree`
 ![Parse Tree](/parse-tree-light.svg){: .light w="100%"}
 ![Parse Tree](/parse-tree-dark.svg){: .dark w="100%"}
 _Parse Tree for $$ \varphi = (r \rightarrow \neg s) \lor \neg(p \rightarrow (\neg q \lor (r \land (p \rightarrow (s \lor r)))))$$_
+{% assign temp_post = site.latex | where: 'name', 'parse-trees-using-tikz-qtree.md' | first %}
 ```latex
-\usepackage{tikz-qtree}
-\tikzset{edge from parent/.style={draw, edge from parent path={(\tikzparentnode) -- (\tikzchildnode)}}}
-
-\begin{tikzpicture}[every node/.style={draw,circle,minimum width={1em}},level distance=3.5em,sibling distance=3em]
-    \Tree
-     [.$\lor$
-        [.$\rightarrow$  $r$
-            [.$\neg$ $s$ ]] 
-        [.$\neg$ [.$\rightarrow$ $p$ [.$\lor$ [.$\neg$ $q$
-        ]
-        [.$\land$  $r$
-            [.$\rightarrow$ $p$ [.$\lor$ $s$ $r$ ]]] 
-         ] ]
-        ]]
-\end{tikzpicture}
+{{ temp_post.content }}
 ```
 #### Electrical Circuits using `circuitikz`
 ![npn transistor used as an amplifier](/npn-transistor-amplifier-light.svg){: .light w="100%"}
 ![npn transistor used as an amplifier](/npn-transistor-amplifier-dark.svg){: .dark w="100%"}
 _npn transistor used as an amplifier_
+{% assign temp_post = site.latex | where: 'name', 'electrical-circuits-using-circuitikz.md' | first %}
 ```latex
-\usepackage{circuitikz}
-
-\begin{circuitikz}[american voltages]
-\draw 
-(0,0) to [short,o-,C,l=$C_1$] (2,0)
-to [R, l_=$R_1$] (2,3)
-to [short,-o] (9,3)
-to [open,v^>=$V_{CC}$] (9,-3);
-\draw 
-(0,-3) to [short,o-*] (2,-3)
-to [short,-*] (4,-3)
-to [short,-*] (6,-3)
-to [short] (8,-3)
-to [short,o-o] (9,-3);
-\draw 
-(6,-3) to[short] node[ground] {} (6,-3.5);
-\draw 
-(2,0) to [R, l_=$R_2$] [v^>=$V_B$] (2,-3);
-\draw
-(0,0) to [open,v^>=$V_0\sin(\omega t)$] (0,-3);
-\draw 
-(4,0) node[npn](npn) {}
-(npn.base) node[anchor=north,xshift=0.5em] {B}
-(npn.collector) node[anchor=north,xshift=-0.5em,yshift=0.3em] {C}
-(npn.emitter) node[anchor=south,xshift=-0.5em,yshift=-0.4em] {E};
-\draw 
-(2,0) to [short,i=$i_B$] (3.2,0);
-\draw
-(4,3) to [R,l_=$R_L$,i=$i_C$,*-*] (4,0.8)
-to [short,-o] (8,0.8)
-to [open,v^>=$V_{out}$] (8,-3);
-\draw 
-(4,-0.75) to [short,i=$i_E$] (4,-1.5)
-to [R,l_=$R_E$] [v^>=$V_E$] (4,-3);
-\draw 
-(4,-1.5) to [short] (6,-1.5)
-to [C,l_=$C_2$] (6,-3);
-\draw 
-(4.4,0.8) to [open,v^>=$V_{CE}$] (4.4,-0.8);
-\end{circuitikz}
+{{ temp_post.content }}
 ```
 ### Fitch Proofs using `logicproof`
 ![Fitch Proofs for Propositional Logic](/fitch-proof-propositional-logic-light.svg){: .light w="100%"}
 ![Fitch Proofs for Propositional Logic](/fitch-proof-propositional-logic-dark.svg){: .dark w="100%"}
 _Fitch Proof of $$\vdash p \rightarrow (q \rightarrow p)$$_
-```latex
-\usepackage{logicproof}
 
-\begin{logicproof}{4}
-p \lor \neg p & LEM on $p$\\
-\begin{subproof}
-    p & assumption\\
-    q \lor \neg q & LEM on $q$\\
-    \begin{subproof}
-        q & assumption\\
-        \begin{subproof}
-            p & copy 2\\
-            \begin{subproof}
-                q & copy 4\\
-                p & copy 2
-            \end{subproof}
-            q \rightarrow p & $\rightarrow$i 6--7
-        \end{subproof}
-        p \rightarrow (q \rightarrow p) & $\rightarrow$i 5--8
-    \end{subproof}
-    \begin{subproof}
-        \neg q & assumption\\
-        \begin{subproof}
-            p & copy 2\\
-            \begin{subproof}
-                q & assumption\\
-                p & copy 2
-            \end{subproof}
-            q \rightarrow p & $\rightarrow$i 12--13
-        \end{subproof}
-        p \rightarrow (q \rightarrow p) & $\rightarrow$i 11--14
-    \end{subproof}
-    p \rightarrow (q \rightarrow p) & $\lor$e 3, 4--9, 8--15
-\end{subproof}
-\begin{subproof}
-    \neg p & assumption\\
-    q \lor \neg q & LEM on $q$\\
-    \begin{subproof}
-        q & assumption\\
-        \begin{subproof}
-            p & assumption\\
-            \neg p & copy 17\\
-            \bot & $\bot$i 20,21\\
-            q \rightarrow p & $\bot$e 22
-        \end{subproof}
-        p \rightarrow (q \rightarrow p) & $\rightarrow$i 20--23
-    \end{subproof}
-    \begin{subproof}
-        \neg q & assumption\\
-        \begin{subproof}
-            p & assumption\\
-            \neg p & copy 17\\
-            \bot & $\bot$i 26,27\\
-            q \rightarrow p & $\bot$e 28
-        \end{subproof}
-        p \rightarrow (q \rightarrow p) & $\rightarrow$i 26--29
-    \end{subproof}
-    p \rightarrow (q \rightarrow p) & $\lor$e 18, 19--24, 25--30
-\end{subproof}
-p \rightarrow (q \rightarrow p) & $\lor$e 1, 2--16, 17--31
-\end{logicproof}
+{% assign temp_post = site.latex | where: 'name', 'fitch-proofs-using-logicproof.md' | first %}
+```latex
+{{ temp_post.content }}
 ```
 ## Templates
 For the time being, here's my stuff. Feel free to use and tweak them however you like. Maybe I will convert them into templates *someday*.
