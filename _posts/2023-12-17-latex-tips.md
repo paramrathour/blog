@@ -50,7 +50,7 @@ and many more!
 ## Offline Setup
 Once you get a good grasp with $$\LaTeX$$, go for an offline setup.
 
-I use Sublime Text with `LaTeXTools` and `LaTeXYZ` packages to speed up writing program.
+I use Sublime Text with `LaTeXTools`, `LaTeXYZ` and `LaTeX-cwl` packages to speed up writing program.
 ![sublime-text-latex-math-render](/sublime-text-latex-math-render.gif){: w="100%"}
 _Gaussian function of a normally distributed random variable with expected value $$=\mu$$ and standard deviation $$=\sigma$$_
 ### Benefits
@@ -65,7 +65,7 @@ For this, you need to follow the steps mentioned in this blog, [Set up Sublime T
 I have summarized the important points below.
 
 ### Installation
-- LaTeX - either [TeX Live](https://www.tug.org/texlive/acquire.html) or [MikTeX](https://miktex.org/) works
+- LaTeX - Either [TeX Live](https://www.tug.org/texlive/acquire.html) or [MikTeX](https://miktex.org/) works.
 - [Sublime Text](https://www.sublimetext.com/download) - A light-weight but powerful text editor with support for many programming languages.
 	- [Package Control](https://packagecontrol.io/installation)
 		- [`LaTeXTools`](https://packagecontrol.io/packages/LaTeXTools)
@@ -73,13 +73,14 @@ I have summarized the important points below.
 		- [`LaTeX-cwl`](https://packagecontrol.io/packages/LaTeX-cwl)
 - [Sumatra PDF Viewer](https://www.sumatrapdfreader.org/download-free-pdf-viewer) - A superfast and light-weight `pdf` viewer which also supports `epub`, `djvu`, `mobi`, `cbz` and many other document formats with customizable [keyboard shortcuts](https://www.sumatrapdfreader.org/docs/SumatraPDF-documentation).
 
+
 ### Configuration Steps
 - [Configure Inverse Search](https://jdhao.github.io/2018/03/10/sublime-text-latextools-setup/#configure-inverse-search-for-pdf-files)
 - Check out keyboard shortcuts for [`LaTeXTools`](https://latextools.readthedocs.io/en/latest/keybindings/) and [`LaTeXYZ`](https://packagecontrol.io/packages/LaTeXYZ)
-- Fix [new window open](https://github.com/SublimeText/LaTeXTools/issues/1506) and [autocomplete](https://github.com/SublimeText/LaTeXTools/issues/1506) problem if it occurs.
+- Fix [new window open](https://github.com/SublimeText/LaTeXTools/issues/1530#issuecomment-880503345) and [autocomplete](https://github.com/SublimeText/LaTeXTools/issues/1506#issuecomment-775060589) problem if it occurs.
 - Optionally, install more [recommended packages](https://latextools.readthedocs.io/en/latest/recommended-packages/) designed for $$\LaTeX$$.
 
-> Interested in taking live notes with LaTeX? Check out [Evan's blog](https://ewpratten.com/blog/notetaking-with-latex/), but brace yourself – the setup gets crazier and it involves a fair bit of the learning curve.
+> Interested in taking live notes with LaTeX? Check out [Evan's blog](https://ewpratten.com/blog/notetaking-with-latex/), but brace yourself – the setup gets crazier and involves a fair bit of a learning curve.
 {: .prompt-tip}
 
 And that's it! Thanks for reading this blog, I hope this will help you in your future $$\TeX$$nical adventures.
@@ -170,7 +171,7 @@ For the time being, here's my stuff. Feel free to use and tweak them however you
 	<iframe src='{{ site.url | append: "/Groebner-Basis-and-Applications/Slides/main.pdf#view=fitH"}}' align="center" width="100%" height="500px"> </iframe> 
 </div>
 ### Resume
-[IIT Bombay theme](https://github.com/paramrathour/Resumes/blob/main/Two Page.tex), [Generic theme using `moderncv`](https://github.com/paramrathour/Resumes/blob/main/CV.tex)
+[IIT Bombay theme](https://github.com/paramrathour/Resumes/blob/main/Two%20Page.tex), [Generic theme using `moderncv`](https://github.com/paramrathour/Resumes/blob/main/CV.tex)
 <div align="center">
 	<iframe src='{{ site.url | append: "/Resumes/Two Page.pdf#view=fitV"}}' align="center" width="60%" height="500px"> </iframe>
 </div>
