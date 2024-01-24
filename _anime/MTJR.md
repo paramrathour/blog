@@ -14,3 +14,7 @@ Season 2 Part 1: An ecchi protagonist who needs all the ecchi elements to stand 
 This cour feels like a setup for the next half, just like the first cour of S1. But it had its moments, nevertheless.
 <br>
 Excited to know what happens next.
+<br><br>
+Season 2 Part 2: Nanahoshi and Norn-nee episodes were PEAK.
+<br>
+While I will continue to watch the series for the above moments, I have lost patience with some characters. Now, it feels like "those" situations were purposefully created so that we get more ecchi.

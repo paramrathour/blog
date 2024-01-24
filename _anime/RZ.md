@@ -12,4 +12,3 @@ Movie 2: Frozen Bond is a must-watch backstory
 Season 2 Part 1: Kinda getting used to the shock value
 <br><br>
 Season 2 Part 2: Okay, it hasn't lost its charm yet.
-<br><br>

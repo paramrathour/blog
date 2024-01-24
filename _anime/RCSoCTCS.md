@@ -5,4 +5,4 @@ code: 6114
 ---
 While I am not a big fan of some of its 'good person vs evil person' situations, it shines in its strongest moments with a beautiful display of the bond of friendship.
 <br>
-And I don't mind the thrill, even if that becomes predictable in lieu of idealism.
+And I don't mind the thrill, even if that becomes predictable as it consistently leans towards realism over lofty idealism.
