@@ -5,4 +5,6 @@ code: 52093
 ---
 My introduction to Trigun and they got me invested.
 <br>
-Though the story is yet to touch me; its insane 3D Animation is enough, well done Orange.
+The story, a fusion of familiar yet amazing themes, has yet to touch me.
+<br>
+But, its insane 3D Animation is enough, well done Orange.
