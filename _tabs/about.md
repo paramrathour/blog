@@ -3,6 +3,8 @@
 icon: fas fa-info-circle
 order: 1
 ---
+![](/thorfinn-dark.jpg){: .dark w="100%"}
+![](/thorfinn-light.jpg){: .light w="100%"}
 Hello! I am Wrath.
 
 I am a Geek by Numbers, an Otaku by Nature and a Philosopher at Heart. More details about me are [here]({{ site.url }}/about-me).
