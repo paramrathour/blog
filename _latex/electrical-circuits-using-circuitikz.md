@@ -21,7 +21,7 @@ to [short,o-o] (9,-3);
 \draw
 (0,0) to [open,v^>=$V_0\sin(\omega t)$] (0,-3);
 \draw 
-(4,0) node[npn](npn) {}
+(4,0) node[npn] (npn) {}
 (npn.base) node[anchor=north,xshift=0.5em] {B}
 (npn.collector) node[anchor=north,xshift=-0.5em,yshift=0.3em] {C}
 (npn.emitter) node[anchor=south,xshift=-0.5em,yshift=-0.4em] {E};

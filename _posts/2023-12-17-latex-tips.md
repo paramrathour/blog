@@ -39,7 +39,7 @@ These resources are handy, but if you ever get stuck, just Google it, and you'll
 Trust me, the [$$\TeX$$ - $$\LaTeX$$ Stack Exchange](https://tex.stackexchange.com/) is a lifesaver for literally any $$\TeX$$nical doubt.
 
 #### Online Tools
-- [Detexify](http://detexify.kirelabs.org/classify.html) - Recognises hand-drawn symbols and it provides the corresponding $$\LaTeX$$ command and packages to import if any.
+- [Detexify](https://detexify.kirelabs.org/classify.html) - Recognises hand-drawn symbols and it provides the corresponding $$\LaTeX$$ command and packages to import if any.
 
 Just to make it clear, if coding something gets too complex, you can always turn to online GUI tools such as
 - [Table Generator](https://www.tablesgenerator.com/) - Helpful for messy tables with merged cells and custom borders.
