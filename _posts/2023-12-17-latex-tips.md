@@ -3,7 +3,7 @@ layout: post
 title: LaTeX Tips
 description: "Newbie's roadmap: getting started with resources to the ultimate setup!"
 categories: [Programming, Tutorial]
-tags: [latex, programming, tutorial]
+tags: [latex, programming, tutorial, tips]
 math: true
 pin: true
 date: 2023-12-17 08:21 +0530
