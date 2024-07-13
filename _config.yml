@@ -184,9 +184,13 @@ collections:
     output: true
   latex:
     output: true
+  music:
+    output: true
+    sort_by: year
   tabs:
     output: true
     sort_by: order
+collections_dir: pages
 
 defaults:
   - scope:

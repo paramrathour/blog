@@ -9,7 +9,7 @@ tags: [anime, timeline, thoughts]
 ## Motivation
 While popular platforms like [Anilist](https://anilist.co/user/wrath3435/animelist) or [MyAnimeList](https://myanimelist.net/animelist/wrath3435) serve as valuable tools for anime tracking, they love to repeat stuff. There are seperate entries for each season, part, cour, movie, OVA, ... you name it.
 
-I want to keep things simple -- one entry, one franchise.
+I want to keep things simple -- one franchise, one entry.
 
 ## Personal Insights
 I am no critic, but who doesn't like to share thoughts? To get a real deep dive into my experiences, I am sharing my two cents (mostly spoiler-free) on each anime.

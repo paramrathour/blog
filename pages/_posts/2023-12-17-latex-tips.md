@@ -2,7 +2,7 @@
 layout: post
 title: LaTeX Tips
 description: "Newbie's roadmap: getting started with resources to the ultimate setup!"
-categories: [Programming, Tutorial]
+categories: [Programming]
 tags: [latex, programming, tutorial, tips]
 math: true
 pin: true
