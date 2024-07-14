@@ -53,7 +53,7 @@ I probably overdid my explanations. Anyway, with no further ado, here's the time
     {% if cur_year != last_year %}
       {% unless forloop.first %}</ul>{% endunless %}
 
-      <time class="year lead d-block">{{ cur_year }}</time>
+      <time id={{ cur_year }} class="year lead d-block">{{ cur_year }}</time>
       {{ '<ul class="list-unstyled">' }}
 
       {% assign last_year = cur_year %}
