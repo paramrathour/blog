@@ -17,16 +17,8 @@ Like before, you can hover/click on the comments icon to uncover my thoughts (mo
 ## Timeline
 Alright, let's dive right in!
 
-<style>
-  .tooltip-inner{
-    font-size: 0.8rem;
-    max-width: 100%;
-    text-align: left;
-  }
-</style>
-
 {% include lang.html %}
-
+{% include tooltip-style.html %}
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
 

@@ -33,16 +33,8 @@ Back in 2018, I didn't use to track these dates. Also while creating this timeli
 ## Timeline
 I probably overdid my explanations. Anyway, with no further ado, here's the timeline!
 
-<style>
-  .tooltip-inner{
-    font-size: 0.8rem;
-    max-width: 100%;
-    text-align: left;
-  }
-</style>
-
 {% include lang.html %}
-
+{% include tooltip-style.html %}
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
 
