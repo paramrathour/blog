@@ -32,6 +32,7 @@ Alright, let's dive right in!
 
 <div id="archives" class="pl-xl-3">
   {% for post in site.manga %}
+    {% assign abbreviation = post.slug %}
     {% assign cur_year = post.date | date: '%Y' %}
 
     {% if cur_year != last_year %}
@@ -43,7 +44,7 @@ Alright, let's dive right in!
       {% assign last_year = cur_year %}
     {% endif %}
 
-    <li id="{{ cur_year }}">
+    <li id={{ abbreviation }}>
       {% assign ts = post.date | date: '%s' %}
       <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
       <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">

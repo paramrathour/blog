@@ -30,13 +30,14 @@ Let's make some important announcements to ease your navigation.
 <div id="post-list" class="pl-xl-3">
 {% for post in site.music %}
 	{% if post.category == "OST" %}
+		{% assign abbreviation = post.slug %}
 		{% assign current_year = post.year %}
 		{% assign current_decade = current_year | divided_by: 10 | times: 10 %}
 		{% if current_decade != last_decade %}
-			<h3 id={{current_decade}} >{{ current_decade }}s</h3>
+			<h3 id="{{current_decade}}s" >{{ current_decade }}s</h3>
 			{% assign last_decade = current_decade %}
 		{% endif %}
-		<h4 id={{current_year}} >{{ current_year }}</h4>
+		<h4 id={{abbreviation}} >{{ current_year }}</h4>
 		{% include embed/youtube.html id=post.video_id %}	
 		<dl>
 			<dt>Anime Name</dt>
