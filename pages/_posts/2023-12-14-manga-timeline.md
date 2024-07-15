@@ -3,7 +3,7 @@ title: Manga Reading Timeline
 description: "Unveiling my manga journey: thoughts and timeline"
 date: 2023-12-14 07:59:05 +05:30
 categories: [Animanga, Timeline]
-tags: [manga, timeline, thoughts]
+tags: [manga, timeline]
 ---
 > I suggest reading [my anime timeline]({% post_url 2023-12-14-anime-timeline %}) before this blog. There's no need to go over the specifics again.
 {: .prompt-tip }

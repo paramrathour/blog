@@ -3,7 +3,7 @@ title: Anime Watching Timeline
 description: "Unveiling my anime journey: thoughts and timeline"
 date: 2023-12-14 07:59:05 +05:30
 categories: [Animanga, Timeline]
-tags: [anime, timeline, thoughts]
+tags: [anime, timeline]
 ---
 
 ## Motivation
