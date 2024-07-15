@@ -4,9 +4,9 @@ title: LaTeX Tips
 description: "Newbie's roadmap: getting started with resources to the ultimate setup!"
 categories: [Programming]
 tags: [latex, programming, tutorial, tips]
+date: 2023-12-17 08:21 +0530
 math: true
 pin: true
-date: 2023-12-17 08:21 +0530
 ---
 ## History
 While working on his magnum opus, 'The Art of Computer Programming', Donald Knuth was disappointed with the quality of typesetting which led him to develop $$\TeX$$, a typesetting system intended for the creation of beautiful books that contain a lot of mathematics[^texbook]. With Leslie Lamport's modifications, $$\LaTeX$$ was born.

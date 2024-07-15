@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hunter × Hunter × Little × Things
 description: "The little things that make H×H great"
 categories: [Animanga]

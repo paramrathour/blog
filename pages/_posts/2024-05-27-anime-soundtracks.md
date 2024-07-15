@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Celebrating 25 Years of Anime Soundtracks
 description: "Looking back on awesome composers and their amazing music"
 categories: [Animanga]
