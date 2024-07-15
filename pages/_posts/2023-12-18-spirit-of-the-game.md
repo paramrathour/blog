@@ -112,7 +112,7 @@ Opposition Captain's thought process
 ## Conclusion
 - One should be happy about such controversial scenarios, as it makes people think about the game they want to play and the rules they want to follow. Then the rules can be taken up for extermination, expungement, revision, or an amendment by the MCC Committee.
 - If the rules allow for situations not according to the spirit of the game then an effort must be made to align the rules and the spirit of the game as close as possible.
-- If such rules are impossible, then we have to learn to be content with current rules and change our interpretation of the game based on it.
+- If such rules changes are impossible, then we have to learn to be content with current rules and change our interpretation of the game based on it.
 
 
 ## External Links
