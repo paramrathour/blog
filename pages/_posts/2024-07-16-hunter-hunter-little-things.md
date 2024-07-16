@@ -28,9 +28,12 @@ It also helps that such ideas are not lost and in fact, many such ideas are cons
 So, let's start with my favourite example before delving into specifics
 ![](/hxh/048-12.jpg)
 _Episode [48](https://hunterxhunter.fandom.com/wiki/Episode_48_(2011))_
+<!-- | ![](/hxh/048-11-11.jpg) _Episode [48](https://hunterxhunter.fandom.com/wiki/Episode_48_(2011))_ | ![](/hxh/048-12-22.jpg) _Episode [48](https://hunterxhunter.fandom.com/wiki/Episode_48_(2011))_ | -->
 Gon and Killua stumble upon this "worthless" wooden statue in search of finding rare items to earn money, [Zepile](https://hunterxhunter.fandom.com/wiki/Zepile) an appraiser, helps them to avoid getting scammed and teaches them about a counterfeiting technique called _ostomy_ which is creating an opening from an area inside the body to the outside. Now, when the duo was stuck in a guarded room, look what the boys did :)
 ![](/hxh/050-18.jpg)
 _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_
+<!-- | ![](/hxh/050-18-11.jpg) _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_ | ![](/hxh/050-18-12.jpg) _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_ |
+| ![](/hxh/050-18-13.jpg) _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_ | ![](/hxh/050-18-22.jpg) _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_ | -->
 > Hereafter, unless otherwise stated, the relevant images are placed above the text that references it.
 {: .prompt-info}
 
