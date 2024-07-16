@@ -63,7 +63,7 @@ Cases with intentional usage of Nen by people
 ![](/hxh/003-004-005-010.jpg)
 _Episodes [3](https://hunterxhunter.fandom.com/wiki/Episode_3_(2011)), [4](https://hunterxhunter.fandom.com/wiki/Episode_4_(2011)), [5](https://hunterxhunter.fandom.com/wiki/Episode_5_(2011)), [10](https://hunterxhunter.fandom.com/wiki/Episode_10_(2011))_
 We see his <i>magic</i> in action, right from his first appearance. Clearly, his cards contain Nen, and [Satotz](https://hunterxhunter.fandom.com/wiki/Satotz) was quite skilled in catching them. Also, Hisoka was able to catch [Togari](https://hunterxhunter.fandom.com/wiki/Togari)'s dual blades using the then-unexplained _Bungee Gum_.
-> Did you know Bungee Gum has both the properties of rubber and gum?
+> Did you know Bungee Gum has the properties of both rubber and gum?
 {: .prompt-info}
 
 #### Bloodlust
