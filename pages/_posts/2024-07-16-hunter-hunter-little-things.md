@@ -29,13 +29,25 @@ So, let's start with my favourite example before delving into specifics
 ![](/hxh/048-12.jpg)
 _Episode [48](https://hunterxhunter.fandom.com/wiki/Episode_48_(2011))_
 <!-- | ![](/hxh/048-11-11.jpg) _Episode [48](https://hunterxhunter.fandom.com/wiki/Episode_48_(2011))_ | ![](/hxh/048-12-22.jpg) _Episode [48](https://hunterxhunter.fandom.com/wiki/Episode_48_(2011))_ | -->
-Gon and Killua stumble upon this "worthless" wooden statue in search of rare items to earn money. [Zepile](https://hunterxhunter.fandom.com/wiki/Zepile) an appraiser, helps them to avoid getting scammed and teaches them about a counterfeiting technique called _ostomy_ which is creating an opening from an area inside the body to the outside. Now, when the duo was stuck in a guarded room, look what the boys did :)
+[Gon](https://hunterxhunter.fandom.com/wiki/Gon_Freecss) and [Killua](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) stumble upon this "worthless" wooden statue in search of rare items to earn money. [Zepile](https://hunterxhunter.fandom.com/wiki/Zepile) an appraiser, helps them to avoid getting scammed and teaches them about a counterfeiting technique called _ostomy_ which is creating an opening from an area inside the body to the outside. Now, when the duo was stuck in a guarded room, look what the boys did :)
 ![](/hxh/050-18.jpg)
 _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_
 <!-- | ![](/hxh/050-18-11.jpg) _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_ | ![](/hxh/050-18-12.jpg) _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_ |
 | ![](/hxh/050-18-13.jpg) _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_ | ![](/hxh/050-18-22.jpg) _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_ | -->
 > Hereafter, unless otherwise stated, the relevant images are placed above the text that references it.
 {: .prompt-info}
+## Silhouettes
+![](/hxh/001-009-023-084.jpg)
+_Episodes [1](https://hunterxhunter.fandom.com/wiki/Episode_1_(2011)), [9](https://hunterxhunter.fandom.com/wiki/Episode_9_(2011)), [23](https://hunterxhunter.fandom.com/wiki/Episode_23_(2011)), [84](https://hunterxhunter.fandom.com/wiki/Episode_84_(2011))_
+A common theme before introducing a cast of characters is to share their silhouettes. From the shot of Hunters and the [Zoldycks](https://hunterxhunter.fandom.com/wiki/Zoldyck_Family) to the shot of [Troupe](https://hunterxhunter.fandom.com/wiki/Phantom_Troupe) and the [Royal Guards](https://hunterxhunter.fandom.com/wiki/Royal_Guards).
+
+Not only this introduces us to these characters way before they actually appear (such as Kite, Morel or Knuckle) but they also give subtle cues for the attentive observer such as
+- [Hisoka](https://hunterxhunter.fandom.com/wiki/Hisoka_Morow) at the right end of Troupe's picture adds more context to his presence in the Hunter exam and his final fight with [Kurapika](https://hunterxhunter.fandom.com/wiki/Kurapika).
+- Killua holding hands with someone signifying a close relationship with the later introduced [Alluka](https://hunterxhunter.fandom.com/wiki/Alluka_Zoldyck).
+
+![](/hxh/084-14-30.jpg)
+_Episode [84](https://hunterxhunter.fandom.com/wiki/Episode_84_(2011))_
+A shot of the King displaying his immense power before he is even born.
 
 ## Omnipresent × Nen
 [Nen](https://hunterxhunter.fandom.com/wiki/Nen) is the De facto power system of H×H. And arguably the best an anime has offered yet.
@@ -50,7 +62,7 @@ Cases with intentional usage of Nen by people
 ♦ Hisoka ♣ Morow ♥ the ♠ magician ★
 ![](/hxh/003-004-005-010.jpg)
 _Episodes [3](https://hunterxhunter.fandom.com/wiki/Episode_3_(2011)), [4](https://hunterxhunter.fandom.com/wiki/Episode_4_(2011)), [5](https://hunterxhunter.fandom.com/wiki/Episode_5_(2011)), [10](https://hunterxhunter.fandom.com/wiki/Episode_10_(2011))_
-We see his <i>magic</i> in action, right from his first appearance. Clearly, his cards contain Nen, and [Satotz](https://hunterxhunter.fandom.com/wiki/Satotz) was quite skilled in catching them. Also, [Hisoka](https://hunterxhunter.fandom.com/wiki/Hisoka_Morow) was able to catch [Togari](https://hunterxhunter.fandom.com/wiki/Togari)'s dual blades using the then-unexplained _Bungee Gum_.
+We see his <i>magic</i> in action, right from his first appearance. Clearly, his cards contain Nen, and [Satotz](https://hunterxhunter.fandom.com/wiki/Satotz) was quite skilled in catching them. Also, Hisoka was able to catch [Togari](https://hunterxhunter.fandom.com/wiki/Togari)'s dual blades using the then-unexplained _Bungee Gum_.
 > Did you know Bungee Gum has both the properties of rubber and gum?
 {: .prompt-info}
 
@@ -74,7 +86,7 @@ Cases of unintentional usage of Nen by people
 #### Gon
 ![](/hxh/015-06-25.jpg)
 _Episode [15](https://hunterxhunter.fandom.com/wiki/Episode_15_(2011))_
-[Gon](https://hunterxhunter.fandom.com/wiki/Gon_Freecss), with his sharp senses, had naturally learned to identify both moments with no presence of life and moments with intense presence of bloodlust. We learned this information while he was observing [Pokkle](https://hunterxhunter.fandom.com/wiki/Pokkle) and Hisoka, respectively. While spending his childhood in wildlife, he had already learned the technique to silence his presence called [Zetsu](https://hunterxhunter.fandom.com/wiki/Nen#Zetsu), one of the four major Nen principles.
+Gon, with his sharp senses, had naturally learned to identify both moments with no presence of life and moments with intense presence of bloodlust. We learned this information while he was observing [Pokkle](https://hunterxhunter.fandom.com/wiki/Pokkle) and Hisoka, respectively. While spending his childhood in wildlife, he had already learned the technique to silence his presence called [Zetsu](https://hunterxhunter.fandom.com/wiki/Nen#Zetsu), one of the four major Nen principles.
 > As a bonus, consider the below image where both Nen users are using some vision enhancement ability. The aura around [Netero](https://hunterxhunter.fandom.com/wiki/Isaac_Netero)'s fingers (right image) is clearly visible.
 ![](/hxh/015-21-086-16.jpg)
 _Episodes [15](https://hunterxhunter.fandom.com/wiki/Episode_15_(2011)), [86](https://hunterxhunter.fandom.com/wiki/Episode_86_(2011))_
@@ -84,7 +96,7 @@ Gon was able to locate the subjects like Hisoka in the left situation. It could 
 #### Kurapika
 ![](/hxh/010-02-036-04.jpg)
 _Episodes [10](https://hunterxhunter.fandom.com/wiki/Episode_10_(2011)), [36](https://hunterxhunter.fandom.com/wiki/Episode_36_(2011))_
-After his fight with [Majtani](https://hunterxhunter.fandom.com/wiki/Majtani), [Kurapika](https://hunterxhunter.fandom.com/wiki/Kurapika) described that even when he sees a real spider, his personality changes and he enters into a frenzy. This information, coupled with Hisoka's  personality-based Nen test, reveals that Kurapika's Nen type changes when his eyes turn red.
+After his fight with [Majtani](https://hunterxhunter.fandom.com/wiki/Majtani), Kurapika described that even when he sees a real spider, his personality changes and he enters into a frenzy. This information, coupled with Hisoka's  personality-based Nen test, reveals that Kurapika's Nen type changes _when his eyes turn red_.
 ![](/hxh/047-19-30.jpg)
 _Episode [47](https://hunterxhunter.fandom.com/wiki/Episode_47_(2011))_
 ## Battles
@@ -102,7 +114,7 @@ After being forced into fighting with guys in a ring, he develops a strategy whe
 #### Crazy × Hands
 ![](/hxh/025-032-034-082.jpg)
 _Episodes [25](https://hunterxhunter.fandom.com/wiki/Episode_25_(2011)), [32](https://hunterxhunter.fandom.com/wiki/Episode_32_(2011)), [34](https://hunterxhunter.fandom.com/wiki/Episode_34_(2011)), [82](https://hunterxhunter.fandom.com/wiki/Episode_82_(2011))_
-[Killua](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) is familiar with fast hand movements due to [Gotoh](https://hunterxhunter.fandom.com/wiki/Gotoh)'s coin games, which meant stopping [Riehlvelt](https://hunterxhunter.fandom.com/wiki/Riehlvelt)'s whips was super easy. In the last picture, we see how Killua, too uses similar skills to defeat [Mosquito](https://hunterxhunter.fandom.com/wiki/Mosquito).
+Killua is familiar with fast hand movements due to [Gotoh](https://hunterxhunter.fandom.com/wiki/Gotoh)'s coin games, which meant stopping [Riehlvelt](https://hunterxhunter.fandom.com/wiki/Riehlvelt)'s whips was super easy. In the last picture, we see how Killua, too uses similar skills to defeat [Mosquito](https://hunterxhunter.fandom.com/wiki/Mosquito).
 
 As a viewer, [Machi](https://hunterxhunter.fandom.com/wiki/Machi_Komacine)'s insane Nen stitching was another callback to enjoy.
 ### Gon
@@ -143,16 +155,16 @@ Also, an honourable mention for those puppets not intended for direct fights ft.
 ![](/hxh/135-00-33.jpg)
 _Episodes [52](https://hunterxhunter.fandom.com/wiki/Episode_52_(2011)), [106](https://hunterxhunter.fandom.com/wiki/Episode_106_(2011)), [135](https://hunterxhunter.fandom.com/wiki/Episode_135_(2011))_
 All the King-like personas share similar Nen abilities. Chrollo, the leader, steals abilities of others using his book; [Leol](https://hunterxhunter.fandom.com/wiki/Leol) rents the abilities in his Pod, whereas [Meruem](https://hunterxhunter.fandom.com/wiki/Meruem) not only learns the ability of people consumed but also improvises on it to leave us in awe.
-> This, I feel is one of the major evidence for Hisoka's personality-based Nen test. Then we can say that the Nen type and the abilities are not something arbitrary but instead closely linked with the personalities of characters.
+> This, I feel is one of the major evidence for Hisoka's personality-based Nen test. Thus, we can say that the Nen type and the abilities are not something arbitrary but instead closely linked with the personalities of characters.
 {: .prompt-tip}
 ![](/hxh/090-10-123-21.jpg)
 _Episodes [90](https://hunterxhunter.fandom.com/wiki/Episode_90_(2011)), [123](https://hunterxhunter.fandom.com/wiki/Episode_123_(2011))_
-On the other hand, there is [Pouf](https://hunterxhunter.fandom.com/wiki/Shaiapouf), whose ability is to bestow Nen abilities. There is also [Knuckle](https://hunterxhunter.fandom.com/wiki/Knuckle_Bine); he can give his aura for rent, and if the person fails to return it back, then they can't use Nen for a month. This is achieved using A.P.R., which is a Nen beast. So, this ability combines the above two techniques.
+On the other hand, there is [Pouf](https://hunterxhunter.fandom.com/wiki/Shaiapouf), whose ability is to bestow Nen abilities to others. There is also [Knuckle](https://hunterxhunter.fandom.com/wiki/Knuckle_Bine); he can give his aura for rent, and if the person fails to return it back, then they can't use Nen for a month. This is achieved using A.P.R., which is a Nen beast. So, this ability combines the above two techniques.
 > An interesting aspect of H×H's abilities is that they can be combined in unimaginable ways while effortlessly merging the basics.
 {: .prompt-tip}
 ![](/hxh/051-20-115-02.jpg)
 _Episodes [51](https://hunterxhunter.fandom.com/wiki/Episode_51_(2011)), Episode [115](https://hunterxhunter.fandom.com/wiki/Episode_115_(2011))_
-This Indoor Fish is a Nen beast which was stolen by Chrollo, while [Ikalgo](https://hunterxhunter.fandom.com/wiki/Ikalgo) acquired [Flutter](https://hunterxhunter.fandom.com/wiki/Flutter)'s Dragonflies, which ultimately gave way to Pouf's creative bugs.
+This Indoor Fish is an ability involving _Nen beast_ which was _stolen_ by Chrollo, while [Ikalgo](https://hunterxhunter.fandom.com/wiki/Ikalgo) acquired [Flutter](https://hunterxhunter.fandom.com/wiki/Flutter)'s Dragonflies, which ultimately gave way to Pouf's creative bugs.
 ![](/hxh/125-07-50.jpg)
 _Episode [125](https://hunterxhunter.fandom.com/wiki/Episode_125_(2011))_
 ### Storage
@@ -165,45 +177,32 @@ Meanwhile, [Knov](https://hunterxhunter.fandom.com/wiki/Knov) is chilling in ano
 This part mostly deals with examples that rely of implanting ideas upon viewer that are not necessarily about the technicalities of fighting.
 > An example would be to call out the one-sided nature of most major fights in H×H. Even then, it is not easy to figure out the winner, as Nen fights are not just about sheet strength. Think about it!
 {: .prompt-tip}
-### Silhouettes
-![](/hxh/001-009-023-084.jpg)
-_Episodes [1](https://hunterxhunter.fandom.com/wiki/Episode_1_(2011)), [9](https://hunterxhunter.fandom.com/wiki/Episode_9_(2011)), [23](https://hunterxhunter.fandom.com/wiki/Episode_23_(2011)), [84](https://hunterxhunter.fandom.com/wiki/Episode_84_(2011))_
-A common theme before introducing a cast of characters is to share their silhouettes. From the shot of Hunters and the [Zoldycks](https://hunterxhunter.fandom.com/wiki/Zoldyck_Family) to the shot of [Troupe](https://hunterxhunter.fandom.com/wiki/Phantom_Troupe) and the [Royal Guards](https://hunterxhunter.fandom.com/wiki/Royal_Guards).
-
-Not only this introduces us to these characters way before they actually appear (such as Kite, Morel or Knuckle) but they also give subtle cues for the attentive observer such as
-- Hisoka at the right end of Troupe's picture adds more context to his presence in the Hunter exam and his final fight with Kurapika.
-- Killua holding hands with someone signifying a close relationship with the later introduced [Alluka](https://hunterxhunter.fandom.com/wiki/Alluka_Zoldyck).
-
-![](/hxh/084-14-30.jpg)
-_Episode [84](https://hunterxhunter.fandom.com/wiki/Episode_84_(2011))_
-A shot of the King displaying his immense power before he is even born.
-### Similarities
-Usage of similar themes/shots throughout the show
-#### Netero's × Weakness
+It also includes usage of similar themes/shots throughout the show.
+### Netero's × Weakness
 ![](/hxh/007-17-122-05.jpg)
 _Episodes [7](https://hunterxhunter.fandom.com/wiki/Episode_7_(2011)), [122](https://hunterxhunter.fandom.com/wiki/Episode_122_(2011))_
 In the _Showdown × On × The airship_ episode, Netero challenges Gon and Killua for a small game to snatch the ball away from him, where they will be rewarded with hunter licenses if they pass. This episode has striking similarities with Netero's fight against Meruem hundred episodes later, where the reward for Meruem is his name bestowed by this mother.
 
 In the earlier episode, Netero avoided using his right hand and left leg, suggesting his possible preference towards them. Later, Meruem recognised this bias for his arms and exploited it by taking out his _weaker_ left hand and right leg.
-#### Unexpected × Teammates
+### Unexpected × Teammates
 ![](/hxh/008-10-071-03.jpg)
 _Episodes [8](https://hunterxhunter.fandom.com/wiki/Episode_8_(2011)), [71](https://hunterxhunter.fandom.com/wiki/Episode_71_(2011))_
 Teaming up with the villains is so cool, I wished more anime did this.
-#### Gon's × Agony
+### Gon's × Agony
 ![](/hxh/016-018-091-116.jpg)
 _Episodes [16](https://hunterxhunter.fandom.com/wiki/Episode_16_(2011)), [18](https://hunterxhunter.fandom.com/wiki/Episode_18_(2011)), [91](https://hunterxhunter.fandom.com/wiki/Episode_91_(2011)), [116](https://hunterxhunter.fandom.com/wiki/Episode_116_(2011))_
 We see the brutal display of Gon's emotions when he had to owe one to Hisoka or when he lost to Knuckle due to him being _weak_. He also had a similar stance to denote the feeling of anguish against Hisoka and Pitou. In the first case, Hisoka refused to accept take back his badge and in the second case, Pitou refused to fight Gon due to the [Komugi](https://hunterxhunter.fandom.com/wiki/Komugi) situation.
-#### Disguise
+### Disguise
 ![](/hxh/020-11-058-21.jpg)
 ![](/hxh/022-16-148-21.jpg)
 _Episodes [20](https://hunterxhunter.fandom.com/wiki/Episode_20_(2011)), [22](https://hunterxhunter.fandom.com/wiki/Episode_22_(2011)), [58](https://hunterxhunter.fandom.com/wiki/Episode_58_(2011)), [148](https://hunterxhunter.fandom.com/wiki/Episode_148_(2011))_
 [Kiriko](https://hunterxhunter.fandom.com/wiki/Kiriko)'s disguise was in action in the second episode and also in the last episode. And guess what, Kiriko replaces Gotoh, a butler of _Zoldyck_ family who stressed the importance of safety against threats involving disguise, to Gon. And, we see that Illumi _Zoldyck_ is quite skillful in changing his appearances to Gittarackur and Hisoka.
-#### Self-Destruction × Prevention
+### Self-Destruction × Prevention
 ![](/hxh/030-09-074-07.jpg)
 ![](/hxh/050-16-085-10.jpg)
 _Episodes [30](https://hunterxhunter.fandom.com/wiki/Episode_30_(2011)), [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011)), [74](https://hunterxhunter.fandom.com/wiki/Episode_74_(2011)), [85](https://hunterxhunter.fandom.com/wiki/Episode_85_(2011))_
-While Killua was mostly self-aware to avoid fighting with stronger opponents (thanks to [Illumi](https://hunterxhunter.fandom.com/wiki/Illumi_Zoldyck)), Gon wasn't, as we saw his careless fights against [Gido](https://hunterxhunter.fandom.com/wiki/Gido) and Genthru. So Killua prevented Gon's self-destruction during their first meeting with Pitou in a similar way to Gon beating him when they were trapped with [Nobunaga](https://hunterxhunter.fandom.com/wiki/Nobunaga_Hazama).
-#### Gungi × Palace Invasion
+While Killua was mostly self-aware to avoid fighting with stronger opponents (thanks to [Illumi](https://hunterxhunter.fandom.com/wiki/Illumi_Zoldyck)), Gon wasn't, as we saw in his careless fights against [Gido](https://hunterxhunter.fandom.com/wiki/Gido) and Genthru. So Killua prevented Gon's self-destruction during their first meeting with Pitou in a similar way to Gon beating him when they were trapped with [Nobunaga](https://hunterxhunter.fandom.com/wiki/Nobunaga_Hazama).
+### Gungi × Palace Invasion
 ![](/hxh/105-05-128-00.jpg)
 _Episodes [105](https://hunterxhunter.fandom.com/wiki/Episode_105_(2011)), [128](https://hunterxhunter.fandom.com/wiki/Episode_128_(2011))_
 Gungi can in fact, explain the entire chimera ant arc[^gungi]. But let's focus on the main theme of _Kokoriko_ which represents _Humanity_. It was the move developed by Komugi; it quickly became popular and one day was used against Komugi. So, she created a countermeasure to it and in a way killed her own development. But, later, she again used Kokoriko against Meruem stating that she has developed a _counter_ to a _counter_.
@@ -214,7 +213,7 @@ Similarly, Meruem was initially trapped by the Poor Man's Rose. But he was reviv
 _Episode [135](https://hunterxhunter.fandom.com/wiki/Episode_135_(2011))_
 {: .prompt-tip}
 ## Conclusion
-Hopefully, I delivered my point. There's a lot more to say about this series, from the story dynamics and the character development, to the themes of the show. But I believe there are people[^aleczandxr] who are better at this job.
+Hopefully, I delivered my point. There's a lot more to say about this series, from the story dynamics and the character development, to the foreshadowing and themes of the show. But I believe there are people[^aleczandxr] who are better at this job.
 
 _Anyway what am I saying, we've just gotten started!_
 ![](/hxh/135-20-00.jpg)
