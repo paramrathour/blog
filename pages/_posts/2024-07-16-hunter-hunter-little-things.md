@@ -122,7 +122,7 @@ He gets his fair share of crazy hands too!
 ![](/hxh/074-082-090-099.jpg)
 _Episodes [74](https://hunterxhunter.fandom.com/wiki/Episode_74_(2011)), [82](https://hunterxhunter.fandom.com/wiki/Episode_82_(2011)), [90](https://hunterxhunter.fandom.com/wiki/Episode_90_(2011)), [99](https://hunterxhunter.fandom.com/wiki/Episode_99_(2011))_
 But what else,
-#### Catching
+#### Catch
 ![](/hxh/069-21-083-15.jpg)
 _Episodes [69](https://hunterxhunter.fandom.com/wiki/Episode_69_(2011)), [83](https://hunterxhunter.fandom.com/wiki/Episode_83_(2011))_
 The speed of the rolling [armadilo](https://hunterxhunter.fandom.com/wiki/Baro) isn't even close to [Razor](https://hunterxhunter.fandom.com/wiki/Razor)'s ultra-fast dodgeball throws. And so, Gon made light work of poor Baro.
@@ -131,7 +131,7 @@ The speed of the rolling [armadilo](https://hunterxhunter.fandom.com/wiki/Baro) 
 ![](/hxh/073-10-083-19.jpg)
 _Episodes [73](https://hunterxhunter.fandom.com/wiki/Episode_73_(2011)), [83](https://hunterxhunter.fandom.com/wiki/Episode_83_(2011))_
 Gon's practice to count to exactly one minute helped him in not only knowing when the gasoline card will materialise in his fight against [Genthru](https://hunterxhunter.fandom.com/wiki/Genthru) but also helped him (and Killua) during [Kite](https://hunterxhunter.fandom.com/wiki/Kite)'s scythe assault, which required him to jump after exactly three seconds.
-#### Screaming
+#### Scream
 ![](/hxh/044-12-099-09.jpg)
 _Episodes [44](https://hunterxhunter.fandom.com/wiki/Episode_44_(2011)), [99](https://hunterxhunter.fandom.com/wiki/Episode_99_(2011))_
 Okay, this one is different because Gon didn't witness [Uvogin](https://hunterxhunter.fandom.com/wiki/Uvogin)'s scream, but both are ~~stupid~~ enhancers.
