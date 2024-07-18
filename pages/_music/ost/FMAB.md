@@ -7,4 +7,4 @@ composer_code: 7291
 video_id: "hBkh7DRNqw8"
 year: 2009
 ---
-Senju brought up a very different but still highly fascinating take on the music of this FMA readaptation.
+Senju brought up a very different but still fascinating take on the music of this FMA readaptation.
