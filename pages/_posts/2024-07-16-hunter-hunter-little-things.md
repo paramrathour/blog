@@ -14,13 +14,13 @@ image: "/hxh/logo.jpg"
 {: .prompt-info}
 
 ## Introduction 
-[Hunter × Hunter](https://myanimelist.net/anime/11061/) or shortly H×H, is easily my favorite anime ever. The list of things I love about it is infinite, from its childish beginnings to its unconventional endings to its story arcs; from its consistent animation to its <span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" data-bs-trigger="hover focus" title = "{{ hxh_ost.content | strip_html }}">[perfect music]({% post_url 2024-05-27-anime-soundtracks %}#HxH)</span>; from its interesting characters to its expressive power system, and beyond.
+[Hunter × Hunter](https://myanimelist.net/anime/11061/) or shortly H×H, is easily my favourite anime ever. The list of things I love about it is infinite, from its childish beginnings to its subversive endings to its story arcs; from its consistent animation to its <span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" data-bs-trigger="hover focus" title = "{{ hxh_ost.content | strip_html }}">[perfect music]({% post_url 2024-05-27-anime-soundtracks %}#HxH)</span>; from its interesting characters to its expressive power system, and beyond.
 
 The purpose of this post, however, is to elaborate upon an underrated aspect of storytelling mentioned in <span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" data-bs-trigger="hover focus" title = "{{ hxh_anime.content }}">[my HxH thoughts]({% post_url 2023-12-14-anime-timeline %}#HxH)</span>. And that is the recurring attention to detail put in by its author, Togashi-sensei. 
 
-Ideas are built up from seemingly mundane moments but are then reused at important moments on a much larger scale. This approach of consistent worldbuilding avoids an over-reliance on shock factors, making the story feel more natural. It also rewards attentive viewers with not only a better understanding of the ongoing moments but also the satisfaction of grasping the context of previous moments. While this anime is filled with information, there are still secondary details that it expects the audience to fill up by connecting the dots.
+Ideas are built up from seemingly mundane moments but are then reused at important moments on a much larger scale. This approach of consistent world-building avoids an over-reliance on shock factors, making the story feel more natural. It also rewards attentive viewers with not only a better understanding of the ongoing moments but also the satisfaction of grasping the context of previous moments. While this anime is filled with information, there are still secondary details that it expects the audience to fill up by connecting the dots.
 
-It also helps that such ideas are not lost and in fact, many such ideas are consisently utilised to make developments. Such consisent use of ideas is what I will highlight in this post.
+It also helps that such ideas are not lost and in fact, many such ideas are consistently utilised to make developments. Such consistent use of ideas is what I will highlight in this post.
 
 > From now onwards, this post will dive into spoiler territory. So, come back after watching 148 episodes of this anime. Just kidding :p, feel free to do what you want.
 {: .prompt-warning}
@@ -105,7 +105,7 @@ There is a sense of familiarity in the battles of this anime. Apart from usual s
 #### Assassin-mode × Kill
 ![](/hxh/011-18-051-15.jpg)
 _Episodes [11](https://hunterxhunter.fandom.com/wiki/Episode_11_(2011)), [51](https://hunterxhunter.fandom.com/wiki/Episode_51_(2011))_
-Killua rips out [Johness](https://hunterxhunter.fandom.com/wiki/Johness)'s heart without him noticing. But Killua isn't satisfied due to the presence of blood, he mentions how his _old man_ would have done it without a drop of blood. Then we see [Chrollo](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) doing the deed against [Neon](https://hunterxhunter.fandom.com/wiki/Neon_Nostrade), but there was a tiny amount of blood. And so, this establishes that Chrollo isn't as powerful as Killua's old man ([Zeno](https://hunterxhunter.fandom.com/wiki/Zeno_Zoldyck)) which ultimately, is confirmed by Zeno but he was't sure if Chrollo was serious about the fight.
+Killua rips out [Johness](https://hunterxhunter.fandom.com/wiki/Johness)'s heart without him noticing. But Killua isn't satisfied due to the presence of blood, he mentions how his _old man_ would have done it without a drop of blood. Then we see [Chrollo](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) doing the deed against [Neon](https://hunterxhunter.fandom.com/wiki/Neon_Nostrade), but there was a tiny amount of blood. And so, this establishes that Chrollo isn't as powerful as Killua's old man ([Zeno](https://hunterxhunter.fandom.com/wiki/Zeno_Zoldyck)) which ultimately, is confirmed by Zeno but he wasn't sure if Chrollo was serious about the fight.
 #### Ring × of × Fire
 ![](/hxh/050-14-068-02.jpg)
 ![](/hxh/129-18-00.jpg)
@@ -125,7 +125,7 @@ But what else,
 #### Catch
 ![](/hxh/069-21-083-15.jpg)
 _Episodes [69](https://hunterxhunter.fandom.com/wiki/Episode_69_(2011)), [83](https://hunterxhunter.fandom.com/wiki/Episode_83_(2011))_
-The speed of the rolling [armadilo](https://hunterxhunter.fandom.com/wiki/Baro) isn't even close to [Razor](https://hunterxhunter.fandom.com/wiki/Razor)'s ultra-fast dodgeball throws. And so, Gon made light work of poor Baro.
+The speed of the rolling [armadillo](https://hunterxhunter.fandom.com/wiki/Baro) isn't even close to [Razor](https://hunterxhunter.fandom.com/wiki/Razor)'s ultra-fast dodgeball throws. And so, Gon made light work of poor Baro.
 #### Internal × Clock
 ![](/hxh/073-00-16.jpg)
 ![](/hxh/073-10-083-19.jpg)
@@ -196,7 +196,7 @@ We see the brutal display of Gon's emotions when he had to owe one to Hisoka or 
 ![](/hxh/020-11-058-21.jpg)
 ![](/hxh/022-16-148-21.jpg)
 _Episodes [20](https://hunterxhunter.fandom.com/wiki/Episode_20_(2011)), [22](https://hunterxhunter.fandom.com/wiki/Episode_22_(2011)), [58](https://hunterxhunter.fandom.com/wiki/Episode_58_(2011)), [148](https://hunterxhunter.fandom.com/wiki/Episode_148_(2011))_
-[Kiriko](https://hunterxhunter.fandom.com/wiki/Kiriko)'s disguise was in action in the second episode and also in the last episode. And guess what, Kiriko replaces Gotoh, a butler of _Zoldyck_ family who stressed the importance of safety against threats involving disguise, to Gon. And, we see that Illumi _Zoldyck_ is quite skillful in changing his appearances to Gittarackur and Hisoka.
+[Kiriko](https://hunterxhunter.fandom.com/wiki/Kiriko)'s disguise was in action in the second episode and also in the last episode. And guess what, Kiriko replaces Gotoh, a butler of _Zoldyck_ family who stressed the importance of safety against threats involving disguise, to Gon. And, we see that Illumi _Zoldyck_ is quite skilful in changing his appearances to Gittarackur and Hisoka.
 ### Self-Destruction × Prevention
 ![](/hxh/030-09-074-07.jpg)
 ![](/hxh/050-16-085-10.jpg)
@@ -213,7 +213,9 @@ Similarly, Meruem was initially trapped by the Poor Man's Rose. But he was reviv
 _Episode [135](https://hunterxhunter.fandom.com/wiki/Episode_135_(2011))_
 {: .prompt-tip}
 ## Conclusion
-Hopefully, I delivered my point. There's a lot more to say about this series, from the story dynamics and the character development, to the foreshadowing and themes of the show. But I believe there are people[^aleczandxr] who are better at this job.
+Hopefully, I delivered my point. There's a lot more to say about this series, from the story dynamics and the character development, to the foreshadowing and the themes of the show. But I believe there are people[^aleczandxr] who are better at this job.
+
+Thanks to [Muse Asia](https://youtube.com/playlist?list=PLwLSw1_eDZl2SdSro00Nvg38MQUf-5ZL8), this anime is legally available on YouTube free of cost for most Asian countries. Also, [Muse India](https://www.youtube.com/playlist?list=PLaO_HkPtJoP3uVqIIpmviNjvUpNGUMM-b) has made the first six arcs as standalone videos to cater binge watchers. Check out their stuff if you plan to watch the show.
 
 _Anyway what am I saying, we've just gotten started!_
 ![](/hxh/135-20-00.jpg)
