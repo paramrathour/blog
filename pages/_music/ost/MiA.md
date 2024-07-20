@@ -7,7 +7,7 @@ composer_code: 40530
 video_id: "KlN0EAILYwA"
 year: 2022
 ---
-Speaking of <a href="https://myanimelist.net/anime/54492">The Apothecary Diaries</a>, alright, I won't try another segway :D.
+Speaking of <a href="https://myanimelist.net/anime/54492">The Apothecary Diaries</a>, alright, I won't try another segue :D.
 <br>
 Kevin Penkin introduces himself as <i>an Aussie bloke who occasionally produces beeps and boops</i>; even his song lyrics are <a href="https://youtu.be/mnRoh0lGxwM">gibberish</a> sometimes. But that's how I realised the power of music is not in the lyrics but in that <i>noise</i>.
 <br>

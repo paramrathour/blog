@@ -7,4 +7,4 @@ Original: Usually I don't like 'elitist' anime, but this one is an experience wo
 <br>
 From stunning visuals to amazing voice acting and the icing on the cake by Michiru Oshima
 <br><br>
-Spinoff: Fixed timeline done right.
+Spin-off: Fixed timeline done right.

@@ -9,7 +9,7 @@ But it makes you question about your life, your future and things we take for gr
 <br>
 After watching this show you will
 <ul>
-<li> Stop watching anime (or atleast there will be a reduction)</li>
+<li> Stop watching anime (or at least there will be a reduction)</li>
 <li> Go out and touch grass</li>
 <li> Understand that everyone faces problems</li>
 </ul>

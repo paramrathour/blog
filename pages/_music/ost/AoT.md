@@ -4,7 +4,7 @@ anime: "Attack on Titan"
 anime_code: 16498
 composer: Hiroyuki Sawano
 composer_code: 8509
-video_id: "QDyT9eICY4U"
+video_id: "jRIy7Z9Vr_M"
 year: 2013
 ---
 The Man, The Myth, The Legend; apart from his extremely well-received music, he is also popular for his "Sawano Drop" and peculiar track names. Like, do <a href="https://youtu.be/vy63u2hKoPE">YouSeeBIGGIRL/T:T</a>?

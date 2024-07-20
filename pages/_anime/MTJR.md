@@ -7,7 +7,7 @@ Season 1 Part 1: Rudeus is without a doubt an abominable human, but are you will
 <br><br>
 Season 1 Part 2: Finally an ecchi anime which doesn't need its ecchi elements to stand up.
 <br>
-Perfect example of worldbuilding done right. The work oozes the passion put up by the staff. Also, a shoutout to Yuiko Ōhara.
+Perfect example of world-building done right. The work oozes the passion put up by the staff. Also, a shout-out to Yuiko Ōhara.
 <br><br>
 Season 2 Part 1: An ecchi protagonist who needs all the ecchi elements to stand up ( ͡ ° ͜ʖ ͡ °).
 <br>
