@@ -96,7 +96,7 @@ Gon was able to locate the subjects like Hisoka in the left situation. It could 
 #### Kurapika
 ![](/hxh/010-02-036-04.jpg)
 _Episodes [10](https://hunterxhunter.fandom.com/wiki/Episode_10_(2011)), [36](https://hunterxhunter.fandom.com/wiki/Episode_36_(2011))_
-After his fight with [Majtani](https://hunterxhunter.fandom.com/wiki/Majtani), Kurapika described that even when he sees a real spider, his personality changes and he enters into a frenzy. This information, coupled with Hisoka's  personality-based Nen test, reveals that Kurapika's Nen type changes _when his eyes turn red_.
+After his fight with [Majtani](https://hunterxhunter.fandom.com/wiki/Majtani), Kurapika described that even when he sees a real spider, his personality changes and he enters into a frenzy. This information, coupled with Hisoka's  personality-based Nen test, reveals that Kurapika's Nen type changes _when his eyes turn red_. In fact, the types that fit Kurapika the most are Conjurer (high-strung) and Specialist (individualistic).
 ![](/hxh/047-19-30.jpg)
 _Episode [47](https://hunterxhunter.fandom.com/wiki/Episode_47_(2011))_
 ## Battles
@@ -217,9 +217,10 @@ Hopefully, I delivered my point. There's a lot more to say about this series, fr
 
 Thanks to [Muse Asia](https://youtube.com/playlist?list=PLwLSw1_eDZl2SdSro00Nvg38MQUf-5ZL8), this anime is legally available on YouTube free of cost for most Asian countries. Also, [Muse India](https://www.youtube.com/playlist?list=PLaO_HkPtJoP3uVqIIpmviNjvUpNGUMM-b) has made the first six arcs as standalone videos to cater binge watchers. Check out their stuff if you plan to watch the show.
 
-_Anyway what am I saying, we've just gotten started!_
+_Anyway what am I saying, we've just gotten started!_[^beginning]
 ![](/hxh/135-20-00.jpg)
 ## External Links
 [^wiki]: [Hunterpedia](https://hunterxhunter.fandom.com/wiki/Hunterpedia)
 [^gungi]: [Entire Chimera Ant Arc Explained through Gungi](https://youtu.be/ZsnlF_x4v8Y) by [Dougurasufilm](https://www.youtube.com/@Dougurasufilm)
 [^aleczandxr]: [Hunter × Hunter](https://www.youtube.com/playlist?list=PLf2MkVBhqRMirZyJvFG23q3ZTXLZ_KiYq) playlist by [Aleczandxr](https://www.youtube.com/@Aleczandxr), this guy was the reason (at least partly) I gave this 100+ episode series a shot.
+[^beginning]: Exactly, there's a lot more to say and I will keep updating this post :)
