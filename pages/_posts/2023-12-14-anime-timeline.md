@@ -7,7 +7,7 @@ date: 2023-12-14 07:59:05 +05:30
 ---
 
 ## Motivation
-While popular platforms like [Anilist](https://anilist.co/user/wrath3435/animelist) or [MyAnimeList](https://myanimelist.net/animelist/wrath3435) serve as valuable tools for anime tracking, they love to repeat stuff. There are seperate entries for each season, part, cour, movie, OVA, ... you name it.
+While popular platforms like [Anilist](https://anilist.co/user/wrath3435/animelist) or [MyAnimeList](https://myanimelist.net/animelist/wrath3435) serve as valuable tools for anime tracking, they love to repeat stuff. There are separate entries for each season, part, cour, movie, OVA, ... you name it.
 
 I want to keep things simple -- one franchise, one entry.
 
