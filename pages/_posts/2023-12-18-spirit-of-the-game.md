@@ -1,7 +1,7 @@
 ---
 title: Spirit of the Game
 description: "An objective viewpoint to an age old debate in Cricket"
-categories: [Philosophy]
+categories: [Uncategorised]
 tags: [cricket, philosophy]
 date: 2023-12-18 07:13 +0530
 ---
