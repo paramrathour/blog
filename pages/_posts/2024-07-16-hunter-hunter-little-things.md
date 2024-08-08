@@ -10,7 +10,7 @@ image: "/hxh/logo.jpg"
 {% assign hxh_ost = site.music | where: "slug", "HxH" | where: "category", "OST" | first %}
 {% include tooltip-style.html %}
 
-> The media attached on this page belongs to their respective owners, which are most likely [Yoshihiro Togashi](https://en.wikipedia.org/wiki/Yoshihiro_Togashi), [Shueisha](https://en.wikipedia.org/wiki/Shueisha), [Nippon Animation](https://en.wikipedia.org/wiki/Nippon_Animation) and [Madhouse](https://en.wikipedia.org/wiki/Madhouse,_Inc.).  Also, thanks to [Hunterpedia](https://hunterxhunter.fandom.com/wiki/Hunterpedia)[^wiki] wiki, for resolving my general doubts.
+> The media attached to this page belongs to their respective owners, which are most likely [Yoshihiro Togashi](https://en.wikipedia.org/wiki/Yoshihiro_Togashi), [Shueisha](https://en.wikipedia.org/wiki/Shueisha), [Nippon Animation](https://en.wikipedia.org/wiki/Nippon_Animation) and [Madhouse](https://en.wikipedia.org/wiki/Madhouse,_Inc.).  Also, thanks to [Hunterpedia](https://hunterxhunter.fandom.com/wiki/Hunterpedia)[^wiki] wiki, for resolving my general doubts.
 {: .prompt-info}
 
 ## Introduction 
@@ -32,6 +32,8 @@ _Episode [48](https://hunterxhunter.fandom.com/wiki/Episode_48_(2011))_
 [Gon](https://hunterxhunter.fandom.com/wiki/Gon_Freecss) and [Killua](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) stumble upon this "worthless" wooden statue in search of rare items to earn money. [Zepile](https://hunterxhunter.fandom.com/wiki/Zepile) an appraiser, helps them to avoid getting scammed and teaches them about a counterfeiting technique called _ostomy_ which is creating an opening from an area inside the body to the outside. Now, when the duo was stuck in a guarded room, look what the boys did :)
 ![](/hxh/050-18.jpg)
 _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_
+<!-- AND this was similar to the time in hunter exam when they made their own entrances -->
+<!-- during both times, a piece of wall broke which gave gon the idea -->
 <!-- | ![](/hxh/050-18-11.jpg) _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_ | ![](/hxh/050-18-12.jpg) _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_ |
 | ![](/hxh/050-18-13.jpg) _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_ | ![](/hxh/050-18-22.jpg) _Episode [50](https://hunterxhunter.fandom.com/wiki/Episode_50_(2011))_ | -->
 > Hereafter, unless otherwise stated, the relevant images are placed above the text that references it.
@@ -167,6 +169,8 @@ _Episodes [51](https://hunterxhunter.fandom.com/wiki/Episode_51_(2011)), Episode
 This Indoor Fish is an ability involving _Nen beast_ which was _stolen_ by Chrollo, while [Ikalgo](https://hunterxhunter.fandom.com/wiki/Ikalgo) acquired [Flutter](https://hunterxhunter.fandom.com/wiki/Flutter)'s Dragonflies, which ultimately gave way to Pouf's creative bugs.
 ![](/hxh/125-07-50.jpg)
 _Episode [125](https://hunterxhunter.fandom.com/wiki/Episode_125_(2011))_
+
+<!-- speaking of Pouf's abilities, hisaAnother ability was mentioned before "You can determine the speaker's height, weight, gender, age, facial features, chronic diseases, and **state of wind**. I wouldn't be surprised if there were a Nen user somewhere who could analyse data better than a machine. Someone who would know everything about a person just from hearing their voice." Melody!! -->
 ### Storage
 ![](/hxh/043-06-043-14.jpg)
 ![](/hxh/104-04-30.jpg)
@@ -215,7 +219,7 @@ _Episode [135](https://hunterxhunter.fandom.com/wiki/Episode_135_(2011))_
 ## Conclusion
 Hopefully, I delivered my point. There's a lot more to say about this series, from the story dynamics and the character development, to the foreshadowing and the themes of the show. But I believe there are people[^aleczandxr] who are better at this job.
 
-Thanks to [Muse Asia](https://youtube.com/playlist?list=PLwLSw1_eDZl2SdSro00Nvg38MQUf-5ZL8), this anime is legally available on YouTube free of cost for most Asian countries. Also, [Muse India](https://www.youtube.com/playlist?list=PLaO_HkPtJoP3uVqIIpmviNjvUpNGUMM-b) has made the first six arcs as standalone videos to cater binge watchers. Check out their stuff if you plan to watch the show.
+Thanks to [Muse Asia](https://youtube.com/playlist?list=PLwLSw1_eDZl2SdSro00Nvg38MQUf-5ZL8), this anime is legally available on YouTube free of cost for most Asian countries. Also, they have made the first six arcs as [standalone videos](https://www.youtube.com/playlist?list=PLaO_HkPtJoP3uVqIIpmviNjvUpNGUMM-b) to cater binge watchers. Check out their stuff if you plan to watch the show.
 
 _Anyway what am I saying, we've just gotten started!_[^beginning]
 ![](/hxh/135-20-00.jpg)
