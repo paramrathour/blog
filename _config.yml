@@ -153,6 +153,21 @@ paginator_enable: false
 # The base URL of your site
 baseurl: "/blog"
 
+url_prefixes:
+  github:
+    home: "https://github.com/paramrathour"
+    param: "https://github.com/paramrathour"
+  youtube:
+    home: "https://youtube.com"
+    video: "https://youtu.be"
+    playlist: "https://youtube.com/playlist?list="
+  wikipedia: "https://en.wikipedia.org/wiki"
+  myanimelist:
+    anime: "https://myanimelist.net/anime"
+    manga: "https://myanimelist.net/manga"
+    people: "https://myanimelist.net/people"
+    stacks: "https://myanimelist.net/stacks"
+
 jekyll_compose:
   default_front_matter:
     drafts:

@@ -7,4 +7,4 @@ composer_code: 5172
 video_id: "GNtzmOliIos"
 year: 2010
 ---
-<a href="https://myanimelist.net/anime/20507">Noragami</a>, <a href="https://myanimelist.net/anime/2001">Gurren Lagann</a> and <a href="https://myanimelist.net/anime/14719">JoJo Part 2</a>? This man is all about hype.
+[Noragami]({{ site.url_prefixes.myanimelist.anime }}/20507), [Gurren Lagann]({{ site.url_prefixes.myanimelist.anime }}/2001) and [JoJo Part 2]({{ site.url_prefixes.myanimelist.anime }}/14719)? This man is all about hype.

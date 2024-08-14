@@ -7,5 +7,5 @@ composer_code: 7221
 video_id: "LooOkvPQQ2Y"
 year: 2011
 ---
-H×H has a perfect soundtrack. From its <a href="https://youtu.be/hllGJbb0Knw">light-hearted</a> themes to <a href="https://youtu.be/r0zB4_dM5K8">shιt just got real</a> tracks, there is a theme for everything. And <a href="https://youtu.be/kdEe8RkKqwU">Understanding</a> is the most beautiful piece ever to exist.
-The composer also co-composed for <a href="https://myanimelist.net/anime/1535">Death Note</a>, taking care of the <a href="https://youtu.be/tAMhUyLwD4k">orchestral</a> side.
+H×H has a perfect soundtrack. From its [light-hearted]({{ site.url_prefixes.youtube.video }}/hllGJbb0Knw) themes to [shιt just got real]({{ site.url_prefixes.youtube.video }}/r0zB4_dM5K8) tracks, there is a theme for everything. And [Understanding]({{ site.url_prefixes.youtube.video }}/kdEe8RkKqwU) is the most beautiful piece ever to exist.
+The composer also co-composed for [Death Note]({{ site.url_prefixes.myanimelist.anime }}/1535), taking care of the [orchestral]({{ site.url_prefixes.youtube.video }}/tAMhUyLwD4k) side.

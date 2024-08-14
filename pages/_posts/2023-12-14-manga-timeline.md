@@ -18,13 +18,13 @@ Like before, you can hover/click on the comments icon to uncover my thoughts (mo
 Alright, let's dive right in!
 
 {% include lang.html %}
-{% include tooltip-style.html %}
+{% include tooltip/style.html %}
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
 
 <div id="archives" class="pl-xl-3">
   {% for post in site.manga %}
-    {% assign abbreviation = post.slug %}
+    {% assign abbreviation = post.slug | slugify %}
     {% assign cur_year = post.date | date: '%Y' %}
 
     {% if cur_year != last_year %}
@@ -42,10 +42,11 @@ Alright, let's dive right in!
       <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
         {{ post.date | date: df_strftime_m }}
       </span>
-      <a href="{{ 'https://myanimelist.net/manga/' | append: post.code }}">{{ post.title }}</a>
+      <a href="{{ site.url_prefixes.myanimelist.manga | append: "/" | append: post.code }}">{{ post.title }}</a>
       {% assign content = post.content | strip_newlines %}
+      {% include tooltip/filter-animanga.html thoughts = post.content %}
       {% if content != "" %}
-        <span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" data-bs-trigger="hover focus" title = "{{ post.content }}"><i class="fa-fw fas fa-xs fa-comment"></i></span>
+        <span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" data-bs-trigger="hover focus" title = "{{ tooltip_title_animanga }}" ><i class="fa-fw fas fa-xs fa-comment"></i></span>
       {% endif %}
     </li>
 

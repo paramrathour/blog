@@ -25,7 +25,7 @@ You really don't need to know anything else about it; you will pick up things as
 You can use [Overleaf](https://www.overleaf.com?r=8d4792b1&rm=d&rs=b) to start your $$\LaTeX$$ journey. The [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) blog will explain the basics. And that's it! You can now use Overleaf to work on any document.
 
 ### Resources
-- [LaTeX Course by Learner's Space, IIT Bombay](https://github.com/paramrathour/LaTeX) - A concise course that covers pretty much all the basics and gives you a flavour of advanced stuff.
+- [LaTeX Course by Learner's Space, IIT Bombay]({{ site.url_prefixes.github.param }}/LaTeX) - A concise course that covers pretty much all the basics and gives you a flavour of advanced stuff.
 - [LaTeX Tutorial](https://latex-tutorial.com/tutorials) - Short and sweet tutorials covering various $$\TeX$$nical concepts. This is where I learned but the [Overleaf tutorials and guides](https://www.overleaf.com/learn) are also good.
 - [$$\LaTeX$$ in 24 Hours](https://link.springer.com/book/10.1007/978-3-319-47831-9) - This book is an overkill, but it really shows off what $$\LaTeX$$ can do.
 - [The $$\TeX$$book](https://ctan.org/pkg/texbook?lang=en) - The book by the creator himself is like an overkill on steroids, if that makes sense.
@@ -160,18 +160,18 @@ _Fitch Proof of $$\vdash p \rightarrow (q \rightarrow p)$$_
 ## Templates
 For the time being, here's my stuff. Feel free to use and tweak them however you like. Maybe I will convert them into templates *someday*.
 ### Report
-[source code](https://github.com/paramrathour/Groebner-Basis-and-Applications/tree/main/Report), [title page](https://tex.stackexchange.com/a/85989)[^showcase]
+[source code]({{ site.url_prefixes.github.param }}/Groebner-Basis-and-Applications/tree/main/Report), [title page](https://tex.stackexchange.com/a/85989)[^showcase]
 <div align="center">
 	<iframe src='{{ site.url | append: "/Groebner-Basis-and-Applications/Report/main.pdf#view=fitV"}}' align="center" width="60%" height="500px"> </iframe>
 </div>
 
 ### Slides using `Beamer`
-[source code](https://github.com/paramrathour/Groebner-Basis-and-Applications/tree/main/Slides)
+[source code]({{ site.url_prefixes.github.param }}/Groebner-Basis-and-Applications/tree/main/Slides)
 <div align="center">
 	<iframe src='{{ site.url | append: "/Groebner-Basis-and-Applications/Slides/main.pdf#view=fitH"}}' align="center" width="100%" height="500px"> </iframe> 
 </div>
 ### Resume
-[IIT Bombay theme](https://github.com/paramrathour/Resumes/blob/main/Two%20Page.tex), [Generic theme using `moderncv`](https://github.com/paramrathour/Resumes/blob/main/CV.tex)
+[IIT Bombay theme]({{ site.url_prefixes.github.param }}/Resumes/blob/main/Two%20Page.tex), [Generic theme using `moderncv`]({{ site.url_prefixes.github.param }}/Resumes/blob/main/CV.tex)
 <div align="center">
 	<iframe src='{{ site.url | append: "/Resumes/Two Page.pdf#view=fitV"}}' align="center" width="60%" height="500px"> </iframe>
 </div>

@@ -7,4 +7,4 @@ composer_code: 7411
 video_id: "OH1TVnW--XU"
 year: 2008
 ---
-I would say he is <a href="https://youtu.be/0kSzP8syBt0">the master</a> of intense songs. He made an anime like <a href="https://myanimelist.net/anime/30240">Prison School</a> exponentially more <a href="https://youtu.be/ZplY6prNhSQ">epic</a>.
+I would say he is [The Master]({{ site.url_prefixes.youtube.video }}/0kSzP8syBt0) of intense songs. He made an anime like [Prison School]({{ site.url_prefixes.myanimelist.anime }}/30240) exponentially more [epic]({{ site.url_prefixes.youtube.video }}/ZplY6prNhSQ).

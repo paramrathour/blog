@@ -32,8 +32,8 @@ Let's start with the philosophy of Makoto Yukimura, the author of Vinland Saga (
 
 To explore his theme of violence, the author decided that the _Viking Age_ and its culture would be the most appropriate setting based on its defining feature: the _glorification of war_. The author took inspiration from real-life historical figures and events and filled in the unknown using his creative ideas. 
 
-The saga derives its purpose from _Utopianism_, a constant search for a [_Utopia_](https://en.wikipedia.org/wiki/Utopia).\
-[Valhalla](https://en.wikipedia.org/wiki/Valhalla) is a place that every warrior dreams to reach. But the story also explores other locations, such as **Vinland**, a place _free from war and slavery_, and **Avalon**, an island of everlasting spring free from death and old age. The story portrays contrasting routes taken by its characters to create such a near-perfect world.
+The saga derives its purpose from _Utopianism_, a constant search for a [_Utopia_]({{ site.url_prefixes.wikipedia }}/Utopia).\
+[Valhalla]({{ site.url_prefixes.wikipedia }}/Valhalla) is a place that every warrior dreams to reach. But the story also explores other locations, such as **Vinland**, a place _free from war and slavery_, and **Avalon**, an island of everlasting spring free from death and old age. The story portrays contrasting routes taken by its characters to create such a near-perfect world.
 
 #### Pacifism
 > Far to the west...\
@@ -45,7 +45,7 @@ and the flames of the war\
 Let's go there together\
 --- Thorfinn Karlsefni
 
-The story[^vinlandsagawiki] follows Thors, an incredible Viking who grew tired of the constant battles and decided to surrender his warrior lifestyle. He faked his death and settled down in a peaceful village in Iceland. He taught his child [Thorfinn](https://en.wikipedia.org/wiki/Thorfinn_Karlsefni) two important lessons
+The story[^vinlandsagawiki] follows Thors, an incredible Viking who grew tired of the constant battles and decided to surrender his warrior lifestyle. He faked his death and settled down in a peaceful village in Iceland. He taught his child [Thorfinn]({{ site.url_prefixes.wikipedia }}/Thorfinn_Karlsefni) two important lessons
 - a true warrior needs no sword
 - nobody has any enemies
 
@@ -57,7 +57,7 @@ A place of peace and prosperity. An ideal country for those who live in sufferin
 Perhaps the work will not be finished in my generation. But I will be the one to take that first bold step.\
 ---	Canute
 
-Prince [Canute](https://en.wikipedia.org/wiki/Cnut) initially turned to God for salvation, but after observing the Hell created by the constant fighting, he realises that there is no _love_[^loveisdiscrimination] in the hearts of these warriors, that these men can't achieve salvation and enter heaven. So, Canute vows to create a paradise on Earth itself. But he soon realises the unfavourable circumstances against him that force him to **use any means possible**, rather than strictly moral or ethical methods to achieve and maintain his power. He probably learnt such trickery from [Askeladd](https://en.wikipedia.org/wiki/Lucius_Artorius_Castus).
+Prince [Canute]({{ site.url_prefixes.wikipedia }}/Cnut) initially turned to God for salvation, but after observing the Hell created by the constant fighting, he realises that there is no _love_[^loveisdiscrimination] in the hearts of these warriors, that these men can't achieve salvation and enter heaven. So, Canute vows to create a paradise on Earth itself. But he soon realises the unfavourable circumstances against him that force him to **use any means possible**, rather than strictly moral or ethical methods to achieve and maintain his power. He probably learnt such trickery from [Askeladd]({{ site.url_prefixes.wikipedia }}/Lucius_Artorius_Castus).
 
 Vinland Saga is thus the journey of Thorfinn and Canute to _Utopianism_, and the challenges faced by them that necessitate a reflection on their ideals.
 ### Fate/Zero
@@ -198,7 +198,7 @@ The story also tackles loneliness and its strong psychological impact on our pro
 They're all part of my life, even the failures.\
 --- Kurisu Makise
 
-Another aspect discussed is the Philosophy of identity. Consider the thought experiment of the [Teletransportation Paradox](https://en.m.wikipedia.org/wiki/Teletransportation_paradox), where a hypothetical machine records one's molecular composition and re-creates them exactly using the same composition. Now, does the re-created person have the same [personal identity](https://en.wikipedia.org/wiki/Personal_identity)? Steins;Gate uses a similar concept but uses memories of the person and Steins;Gate 0 goes further into its _Ethics_ by feeding these memories into a conscious self-aware artificial intelligence (AI). More on this in the [coming section](#beyond-anthropocentrism), which is all about identity.
+Another aspect discussed is the Philosophy of identity. Consider the thought experiment of the [Teletransportation Paradox](https://en.m.wikipedia.org/wiki/Teletransportation_paradox), where a hypothetical machine records one's molecular composition and re-creates them exactly using the same composition. Now, does the re-created person have the same [personal identity]({{ site.url_prefixes.wikipedia }}/Personal_identity)? Steins;Gate uses a similar concept but uses memories of the person and Steins;Gate 0 goes further into its _Ethics_ by feeding these memories into a conscious self-aware artificial intelligence (AI). More on this in the [coming section](#beyond-anthropocentrism), which is all about identity.
 
 ## Beyond Anthropocentrism
 _Anthropocentrism_ is the belief that human beings are the most important entity on the planet and that they are superior to other living and non-living entities.
@@ -210,9 +210,9 @@ The anime present in this section challenges this worldview in various ways.
 > To the Lunarians, I look like a gem, and, to them, I look like a Lunarian...What am I?\
 --- Phosphophyllite
 
-The [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) is a thought experiment exploring the nature of identity. It poses the scenario where the damaged parts of a ship are gradually replaced with new ones until none of the original parts remain. This leads to the central question of [Mereology](https://en.wikipedia.org/wiki/Mereology): Is it still the same ship?
+The [Ship of Theseus]({{ site.url_prefixes.wikipedia }}/Ship_of_Theseus) is a thought experiment exploring the nature of identity. It poses the scenario where the damaged parts of a ship are gradually replaced with new ones until none of the original parts remain. This leads to the central question of [Mereology]({{ site.url_prefixes.wikipedia }}/Mereology): Is it still the same ship?
 - If yes, then imagine we took all those damaged parts and reconstructed the ship using them. Shouldn't this reconstructed ship be considered as the true original?
-- If not, then where is the boundary? i.e., as we remove parts one by one, when does the ship cease to be the original? This is the [Sorites Paradox](https://en.wikipedia.org/wiki/Sorites_paradox) -- the problem of vague boundaries.
+- If not, then where is the boundary? i.e., as we remove parts one by one, when does the ship cease to be the original? This is the [Sorites Paradox]({{ site.url_prefixes.wikipedia }}/Sorites_paradox) -- the problem of vague boundaries.
 
 > Someone like you, who is beloved even on the moon...\
 couldn't understand what it feels like to be lonely.\
@@ -222,7 +222,7 @@ Land of the Lustrous is set in the far future, where humanity has gone extinct a
 
 The anime draws strong parallels with __Buddhism__[^buddhismideas], both thematically and visually, using its teachings to explore the aforementioned issues. Through the story of different lifeforms and our main character Phosphophyllite (Phos), it deconstructs the human nature using the _three marks of existence:_ __Anicca__ (Impermanence), __Dukkha__ (Dissatisfaction), __Anatta__ (No-self). It also references the idea of the _Seven Treasures of the Treasure Tower_, the possession of which ensures a purposeful life.
 ### Posthumanism
-[Posthumanism](https://en.wikipedia.org/wiki/Posthumanism) is a critical response to anthropocentrism, in which entities other than 'natural' human beings are also included in the societal structures. We have already seen the example of [Psycho-Pass](#psycho-pass), where [AI plays](https://en.wikipedia.org/wiki/AI_takeover) an integral part in the society and [From the New World](#from-the-new-world), where [Superhumanism](https://en.wikipedia.org/wiki/Superhuman) is present.
+[Posthumanism]({{ site.url_prefixes.wikipedia }}/Posthumanism) is a critical response to anthropocentrism, in which entities other than 'natural' human beings are also included in the societal structures. We have already seen the example of [Psycho-Pass](#psycho-pass), where [AI plays]({{ site.url_prefixes.wikipedia }}/AI_takeover) an integral part in the society and [From the New World](#from-the-new-world), where [Superhumanism]({{ site.url_prefixes.wikipedia }}/Superhuman) is present.
 
 This section presents three more anime with superhumans.
 #### Devilman Crybaby | Parasyte | Elfen Lied
@@ -263,7 +263,7 @@ Mushi[^mushishiwiki] are a mythic lifeform that is _life in its purest form_. Mu
 Unlike other Mushi-shi who merely exterminate Mushi, Ginko goes beyond what is necessary to understand the Mushi, how they fit into the cycle of life to arrive to a solution that helps not only people but also Mushi.
 The story goes further beyond by acknowledging the role of nature and its elements in sustaining life, through the ideas of [The River of Light](https://mushishi.fandom.com/wiki/The_River_of_Light) and the [Mountain Lord](https://mushishi.fandom.com/wiki/Master). These ideas reinforce the interconnectedness of all living things, blurring the line between the living and non-living.
 
-This approach, likely inspired by the Japanese religion of [Shintoism](https://en.wikipedia.org/wiki/Shinto), aligns well with the theme of Ecocentrism, a nature-centered approach to environmental philosophy.
+This approach, likely inspired by the Japanese religion of [Shintoism]({{ site.url_prefixes.wikipedia }}/Shinto), aligns well with the theme of Ecocentrism, a nature-centered approach to environmental philosophy.
 
 Though, this section hasn't even discussed the surreal portrayal of human emotions and struggles, which represents another significant theme of the story.
 > If you could see everything but couldn't change any of it, or\
@@ -288,7 +288,7 @@ Cows, pigs, and chickens have a much higher rate of survival in captivity, more 
 So you see, the relationship is mutually beneficial for both parties.\
 --- Kyubey
 
-On the surface level, Madoka★Magica[^madokamagica] is a show about magical girls battling 'witches' who bring upon people despair. It features young girls who gain extraordinary powers from Kyubey in exchange for a single wish. However, it is later revealed that Kyubey is a member of an advanced alien species known as the Incubators, whose ulterior motive is to delay the [heat death of the universe](https://en.wikipedia.org/wiki/Heat_death_of_the_universe) by harnessing the emotions of these magical girls. To the Incubators, humans are not unique; they are merely tools to achieve a greater cosmic purpose, much like how we utilise livestock.
+On the surface level, Madoka★Magica[^madokamagica] is a show about magical girls battling 'witches' who bring upon people despair. It features young girls who gain extraordinary powers from Kyubey in exchange for a single wish. However, it is later revealed that Kyubey is a member of an advanced alien species known as the Incubators, whose ulterior motive is to delay the [heat death of the universe]({{ site.url_prefixes.wikipedia }}/Heat_death_of_the_universe) by harnessing the emotions of these magical girls. To the Incubators, humans are not unique; they are merely tools to achieve a greater cosmic purpose, much like how we utilise livestock.
 This is ultimately a noble cause, but we see how humanity _struggles to accept its own insignificance_ in the grand scheme of things and how it antagonises the idea of anti-anthropocentrism that humans are just one of many forms of life, who are all subject to the same indifferent forces like _entropy_ that govern the entire universe.
 ## Conclusion
 The purpose of this blog was to highlight through anime, the idea of thinking more deeply about life and what it all means. Additionally, it serves as a recommendation list of some highly entertaining shows. I hope you had a fun time reading this stupidly long post and got something valuable from it.

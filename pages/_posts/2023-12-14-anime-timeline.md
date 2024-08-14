@@ -34,13 +34,13 @@ Back in 2018, I didn't use to track these dates. Also while creating this timeli
 I probably overdid my explanations. Anyway, with no further ado, here's the timeline!
 
 {% include lang.html %}
-{% include tooltip-style.html %}
+{% include tooltip/style.html %}
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
 
 <div id="archives" class="pl-xl-3">
   {% for post in site.anime %}
-    {% assign abbreviation = post.slug %}
+    {% assign abbreviation = post.slug | slugify %}
     {% assign cur_year = post.date | date: '%Y' %}
 
     {% if cur_year != last_year %}
@@ -58,10 +58,11 @@ I probably overdid my explanations. Anyway, with no further ado, here's the time
       <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
         {{ post.date | date: df_strftime_m }}
       </span>
-      <a href="{{ 'https://myanimelist.net/anime/' | append: post.code }}">{{ post.title }}</a>
+      <a href="{{ site.url_prefixes.myanimelist.anime | append: "/" | append: post.code }}">{{ post.title }}</a>
       {% assign content = post.content | strip_newlines %}
+      {% include tooltip/filter-animanga.html thoughts = post.content %}
       {% if content != "" %}
-        <span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" data-bs-trigger="hover focus" title = "{{ post.content }}"><i class="fa-fw fas fa-xs fa-comment"></i></span>
+        <span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" data-bs-trigger="hover focus" title = "{{ tooltip_title_animanga }}" ><i class="fa-fw fas fa-xs fa-comment"></i></span>
       {% endif %}
     </li>
 

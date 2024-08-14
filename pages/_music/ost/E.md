@@ -7,4 +7,4 @@ composer_code: 5077
 video_id: "xc74Bm__cP8"
 year: 2016
 ---
-My first love for anime music. It was with this anime I realised that background music can be <i>cinematic</i>. She has made a name for herself by working on <a href="https://myanimelist.net/anime/9756">Madoka Magica</a>, <a href="https://myanimelist.net/anime/11757">Sword Art Online</a>, <a href="https://myanimelist.net/anime/38000">Demon Slayer</a> and the <a href="https://myanimelist.net/anime/10087">Fate</a> franchises, utilising her <a href="https://youtu.be/bzlHPlq8hIs">made-up language</a> to create lyrics.
+My first love for anime music. It was with this anime I realised that background music can be _cinematic_. She has made a name for herself by working on [Madoka Magica]({{ site.url_prefixes.myanimelist.anime }}/9756), [Sword Art Online]({{ site.url_prefixes.myanimelist.anime }}/11757), [Demon Slayer]({{ site.url_prefixes.myanimelist.anime }}/38000) and the [Fate]({{ site.url_prefixes.myanimelist.anime }}/10087) franchises, utilising her [made-up language]({{ site.url_prefixes.youtube.video }}/bzlHPlq8hIs) to create lyrics.

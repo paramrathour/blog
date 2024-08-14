@@ -7,9 +7,9 @@ date: 2024-05-27 20:51 +0530
 ---
 ## Introduction
 Anime soundtracks hold a special place in my heart. A _soundtrack_ (aka OST) for me, is a fancy term for denoting background music. However, in principle, a soundtrack is much more than that; it includes all the audio elements and not just the music.
-You may refer to my OST playlist, [paramrathour.github.io/anime-osts](https://paramrathour.github.io/anime-osts), to get an idea of the concept.
+You may refer to my OST playlist, [paramrathour.github.io/anime-osts]({{ site.url }}/anime-osts), to get an idea of the concept. I also maintain an [interest stack]({{ site.url_prefixes.myanimelist.stacks }}/9687) for some of my favourite anime soundtracks.
 
-I recently made this <a href="https://docs.google.com/presentation/d/1_kR1Gy2ggiaWxK3tw-FMauAW1uJaz6yyYHpFhBzSYvc">anime OST quiz</a>. Its objective was to guess the anime and the composer by listening to the OSTs of some anime. The quiz contained OSTs of anime from the last two decades (2001-2010, 2011-2020). In total, there were 20 anime from unique years and composed by unique composers. It was my first time hosting an anime-related quiz, but it turned out to be quite fun. As I had already done my research for the quiz, I thought I would expand upon it in this blog post. I have also added some _juicy_ tidbits that I mentioned during the quiz.
+I recently made this [anime OST quiz](https://docs.google.com/presentation/d/1_kR1Gy2ggiaWxK3tw-FMauAW1uJaz6yyYHpFhBzSYvc). Its objective was to guess the anime and the composer by listening to the OSTs of some anime. The quiz contained OSTs of anime from the last two decades (2001-2010, 2011-2020). In total, there were 20 anime from unique years and composed by unique composers. It was my first time hosting an anime-related quiz, but it turned out to be quite fun. As I had already done my research for the quiz, I thought I would expand upon it in this blog post. I have also added some _juicy_ tidbits that I mentioned during the quiz.
 
 As a result, this blog will cover anime OSTs from the first quarter of the 21st century (2001-2025)[^rip2025] -- **one per year, per composer, per franchise**.
 
@@ -19,17 +19,16 @@ This gives rise to the problem of determining the _year_ an OST belongs to -- ma
 
 ### Hold on
 Let's make some important announcements to ease your navigation.
-- Creators can block embedded YouTube video playback on external sites. To accommodate for such cases, you can either click on video links to open it within the YouTube interface or simply refer to this <a href="https://youtube.com/playlist?list=PLaO_HkPtJoP0pM9ZfMenDhoOGun_ilLA9">playlist</a> containing the OST from each year.
-- While providing my insights on each composer, I have added many other YouTube videos as a plain hyperlink. I have added such videos to this <a href="https://youtube.com/playlist?list=PLaO_HkPtJoP1fdEAxZxd5VczOJLzRjc0C">playlist</a> in the order they are mentioned in this post.
+- Creators can block embedded YouTube video playback on external sites. To accommodate for such cases, you can either click on video links to open it within the YouTube interface or simply refer to this [playlist]({{ site.url_prefixes.youtube.playlist }}PLaO_HkPtJoP0pM9ZfMenDhoOGun_ilLA9) containing the OST from each year.
+- While providing my insights on each composer, I have added many other YouTube videos as a plain hyperlink. I have added such videos to this [playlist]({{ site.url_prefixes.youtube.playlist }}PLaO_HkPtJoP1fdEAxZxd5VczOJLzRjc0C) in the order they are mentioned in this post.
 
 > The media attached on this page belongs to their respective owners. I have tried my best to include official releases but only some tracks are available in my country.
 {: .prompt-info}
-<!-- ## 2000s -->
 ## Timeline
 <div id="post-list" class="pl-xl-3">
 {% for post in site.music %}
 	{% if post.category == "OST" %}
-		{% assign abbreviation = post.slug %}
+		{% assign abbreviation = post.slug | slugify %}
 		{% assign current_year = post.year %}
 		{% assign current_decade = current_year | divided_by: 10 | times: 10 %}
 		{% if current_decade != last_decade %}
@@ -40,11 +39,11 @@ Let's make some important announcements to ease your navigation.
 		{% include embed/youtube.html id=post.video_id %}	
 		<dl>
 			<dt>Anime Name</dt>
-				<dd><a href="{{ 'https://myanimelist.net/anime/' | append: post.anime_code }}">{{ post.anime }}</a></dd>
+				<dd><a href="{{ site.url_prefixes.myanimelist.anime | append: '/' | append: post.anime_code }}">{{ post.anime }}</a></dd>
 			<dt>Composer Name</dt>
-				<dd><a href="{{ 'https://myanimelist.net/people/' | append: post.composer_code }}">{{ post.composer }}</a></dd>
+				<dd><a href="{{ site.url_prefixes.myanimelist.people | append: '/' | append: post.composer_code }}">{{ post.composer }}</a></dd>
 		</dl>
-		{{ post.content }}
+		{{ post.content | flatify | markdownify}}
 	{% endif %}
 {% endfor %}
 </div>

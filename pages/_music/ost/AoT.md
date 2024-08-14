@@ -7,6 +7,5 @@ composer_code: 8509
 video_id: "jRIy7Z9Vr_M"
 year: 2013
 ---
-The Man, The Myth, The Legend; apart from his extremely well-received music, he is also popular for his "Sawano Drop" and peculiar track names. Like, do <a href="https://youtu.be/vy63u2hKoPE">YouSeeBIGGIRL/T:T</a>?
-<br>
-A few of his notable works are <a href="https://myanimelist.net/anime/41457">86</a>, <a href="https://myanimelist.net/anime/18679">Kill la Kill</a>, <a href="https://myanimelist.net/anime/10793">Guilty Crown</a>, and <a href="https://myanimelist.net/anime/34561">Re Creators</a>.
+The Man, The Myth, The Legend; apart from his extremely well-received music, he is also popular for his 'Sawano Drop' and peculiar track names. Like, do [YouSeeBIGGIRL/T:T]({{ site.url_prefixes.youtube.video }}/vy63u2hKoPE)?\
+A few of his notable works are [86]({{ site.url_prefixes.myanimelist.anime }}/41457), [Kill la Kill]({{ site.url_prefixes.myanimelist.anime }}/18679), [Guilty Crown]({{ site.url_prefixes.myanimelist.anime }}/10793), and [Re:Creators]({{ site.url_prefixes.myanimelist.anime }}/34561).
