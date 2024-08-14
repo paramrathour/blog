@@ -14,7 +14,7 @@ url_fandom_hxh: https://hunterxhunter.fandom.com/wiki
 {% include tooltip/filter-animanga.html thoughts = hxh_anime.content %}
 {% include tooltip/filter-ost.html thoughts = hxh_ost.content %}
 
-> The media attached to this page belongs to their respective owners, which are most likely [Yoshihiro Togashi]({{ site.url_prefixes.wikipedia }}/Yoshihiro_Togashi), [Shueisha]({{ site.url_prefixes.wikipedia }}/Shueisha), [Nippon Animation]({{ site.url_prefixes.wikipedia }}/Nippon_Animation) and [Madhouse]({{ site.url_prefixes.wikipedia }}/Madhouse,_Inc.).  Also, thanks to [Hunterpedia]({{ page.url_fandom_hxh }}/Hunterpedia)[^wiki] wiki, for resolving my general doubts.
+> The media attached to this page belongs to their respective owners, who are most likely [Yoshihiro Togashi]({{ site.url_prefixes.wikipedia }}/Yoshihiro_Togashi), [Shueisha]({{ site.url_prefixes.wikipedia }}/Shueisha), [Nippon Animation]({{ site.url_prefixes.wikipedia }}/Nippon_Animation) and [Madhouse]({{ site.url_prefixes.wikipedia }}/Madhouse,_Inc.).  Also, thanks to [Hunterpedia]({{ page.url_fandom_hxh }}/Hunterpedia)[^wiki] wiki for resolving my general doubts.
 {: .prompt-info}
 
 ## Introduction 
@@ -22,22 +22,24 @@ url_fandom_hxh: https://hunterxhunter.fandom.com/wiki
 
 The purpose of this post, however, is to elaborate upon an underrated aspect of storytelling mentioned in <span data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" data-bs-trigger="hover focus" title = "{{ tooltip_title_animanga }}">[my HxH thoughts]({% post_url 2023-12-14-anime-timeline %}#hxh)</span>. And that is the recurring attention to detail put in by its author, Togashi-sensei.
 
-Ideas are built up from seemingly mundane moments but are then reused at important moments on a much larger scale. This approach of consistent world-building avoids an over-reliance on shock factors, making the story feel more natural. It also rewards attentive viewers with not only a better understanding of the ongoing moments but also the satisfaction of grasping the context of previous moments. While this anime is filled with information, there are still secondary details that it expects the audience to fill up by connecting the dots.
+Ideas are built up from seemingly mundane moments but are then reused at important moments on a much larger scale. This approach of _consistent world-building_ avoids an over-reliance on shock factors, making the story feel more natural. It also rewards attentive viewers with not only a better understanding of the ongoing moments but also the satisfaction of grasping better context of previous moments. While this anime is filled with information, there are still [secondary details](#ideas) that it expects the audience to fill up by connecting the dots.
 
 It also helps that such ideas are not lost and in fact, many such ideas are consistently utilised to make developments. Such consistent use of ideas is what I will highlight in this post.
 
 > From now onwards, this post will dive into spoiler territory. So, come back after watching 148 episodes of this anime. Just kidding :p, feel free to do what you want.
 {: .prompt-warning}
 
-So, let's start with my favourite example before delving into specifics
+So before delving into specifics, let's start with my favourite example which actually comes from one of the lowest rated episodes of H×H on [IMDb](https://www.imdb.com/title/tt2098220/episodes).
 ![](/048-12.jpg)
 _Episode [48]({{ page.url_fandom_hxh }}/Episode_48_(2011))_
 <!-- | ![](/048-11-11.jpg) _Episode [48]({{ page.url_fandom_hxh }}/Episode_48_(2011))_ | ![](/048-12-22.jpg) _Episode [48]({{ page.url_fandom_hxh }}/Episode_48_(2011))_ | -->
-[Gon]({{ page.url_fandom_hxh }}/Gon_Freecss) and [Killua]({{ page.url_fandom_hxh }}/Killua_Zoldyck) stumble upon this "worthless" wooden statue in search of rare items to earn money. [Zepile]({{ page.url_fandom_hxh }}/Zepile) an appraiser, helps them to avoid getting scammed and teaches them about a counterfeiting technique called _ostomy_ which is creating an opening from an area inside the body to the outside. Now, when the duo was stuck in a guarded room, look what the boys did :)
+[Gon]({{ page.url_fandom_hxh }}/Gon_Freecss) and [Killua]({{ page.url_fandom_hxh }}/Killua_Zoldyck) stumble upon this "worthless" wooden statue in search of rare items to earn money. [Zepile]({{ page.url_fandom_hxh }}/Zepile) an appraiser, helps them to avoid getting scammed and teaches them about a counterfeiting technique called _ostomy_, which is creating an opening from an area inside the body to the outside. Now, when the duo was stuck in a guarded room, look what the boys did :)
 ![](/050-18.jpg)
 _Episode [50]({{ page.url_fandom_hxh }}/Episode_50_(2011))_
-<!-- AND this was similar to the time in hunter exam when they made their own entrances -->
-<!-- during both times, a piece of wall broke which gave gon the idea -->
+But not only that, a similar situation had occurred earlier during the Hunter exam where Gon noticed that the wall could be broken and then proceeded to make his own entrance.
+![](/012-18-050-18.jpg)
+_Episodes [12]({{ page.url_fandom_hxh }}/Episode_12_(2011)), [50]({{ page.url_fandom_hxh }}/Episode_50_(2011))_
+And not only that, but this [episode 48]({{ page.url_fandom_hxh }}/Episode_48_(2011)) also establishes a key point regarding Nen, which will be explained in a [coming section](#after--exam).
 <!-- | ![](/050-18-11.jpg) _Episode [50]({{ page.url_fandom_hxh }}/Episode_50_(2011))_ | ![](/050-18-12.jpg) _Episode [50]({{ page.url_fandom_hxh }}/Episode_50_(2011))_ |
 | ![](/050-18-13.jpg) _Episode [50]({{ page.url_fandom_hxh }}/Episode_50_(2011))_ | ![](/050-18-22.jpg) _Episode [50]({{ page.url_fandom_hxh }}/Episode_50_(2011))_ | -->
 > Hereafter, unless otherwise stated, the relevant images are placed above the text that references it.
@@ -48,9 +50,9 @@ _Episode [50]({{ page.url_fandom_hxh }}/Episode_50_(2011))_
 _Episodes [1]({{ page.url_fandom_hxh }}/Episode_1_(2011)), [9]({{ page.url_fandom_hxh }}/Episode_9_(2011)), [23]({{ page.url_fandom_hxh }}/Episode_23_(2011)), [29]({{ page.url_fandom_hxh }}/Episode_29_(2011)), [84]({{ page.url_fandom_hxh }}/Episode_84_(2011))_
 A common theme before introducing a cast of characters is to share their silhouettes. From the shot of Hunters, the [Zoldycks]({{ page.url_fandom_hxh }}/Zoldyck_Family) and the [Heavens Arena]({{ page.url_fandom_hxh }}/Heavens_Arena) contestants to the shot of the [Troupe]({{ page.url_fandom_hxh }}/Phantom_Troupe), and the [Royal Guards]({{ page.url_fandom_hxh }}/Royal_Guards).
 
-Not only this introduces us to these characters way before they actually appear (such as Kite, Morel or Knuckle) but they also give subtle cues for the attentive observer such as
+Not only does this introduces us to these characters way before they actually appear (such as Kite, Morel or Knuckle) but they also give subtle cues for the attentive observer such as
 - [Hisoka]({{ page.url_fandom_hxh }}/Hisoka_Morow) at the right end of Troupe's picture adds more context to his presence in the Hunter exam and his final fight with [Kurapika]({{ page.url_fandom_hxh }}/Kurapika).
-- Killua holding hands with someone signifying a close relationship with the later introduced [Alluka]({{ page.url_fandom_hxh }}/Alluka_Zoldyck).
+- Killua holding hands with someone signifies a close relationship with the later introduced [Alluka]({{ page.url_fandom_hxh }}/Alluka_Zoldyck).
 
 ![](/084-14-30.jpg)
 _Episode [84]({{ page.url_fandom_hxh }}/Episode_84_(2011))_
@@ -73,7 +75,7 @@ _Episodes [31]({{ page.url_fandom_hxh }}/Episode_31_(2011)), [43]({{ page.url_fa
 Whether it is Gon's usual exercise or Uvogin's massacre or Killua's brutal kill, we see the camera roll with an uncomfortable view.
 ## Omnipresent × Nen
 [Nen]({{ page.url_fandom_hxh }}/Nen) is the De facto power system of H×H. And arguably the best an anime has offered yet.
-Though it is officially introduced to the protagonists in [episode 28]({{ page.url_fandom_hxh }}/Episode_28_(2011)), Nen was always present in the series, even before this introduction. Of course this makes sense, after all Nen wasn't invented for the protagonists.
+Though it is officially introduced to the protagonists in [episode 28]({{ page.url_fandom_hxh }}/Episode_28_(2011)), Nen was always present in the series, even before this introduction. Of course this makes sense, after all _Nen wasn't invented for the protagonists_.
 > I won't be delving into explaining the specifics of Nen, nor is it required for this blog, but if you are interested, refer to the [wiki]({{ page.url_fandom_hxh }}/Nen).
 {: .prompt-info}
 
@@ -99,15 +101,17 @@ _Episode [86]({{ page.url_fandom_hxh }}/Episode_86_(2011))_
 _Episode [22]({{ page.url_fandom_hxh }}/Episode_22_(2011))_
 Even the Zoldyck family's janitor was aware of Nen, as can be seen from the aura around him and a suspiciously similar procedure as below.
 
+<span id="wing">
 As it happens, Master [Wing]({{ page.url_fandom_hxh }}/Wing) did similar routines to confirm the above cases as valid Nen uses.
 ![](/028-04-028-09-028-21.jpg)
 _Episode [28]({{ page.url_fandom_hxh }}/Episode_28_(2011))_
+</span>
 ### Unintentional × Usage
 Cases of unintentional usage of Nen by people
 #### Gon
 ![](/015-06-25.jpg)
 _Episode [15]({{ page.url_fandom_hxh }}/Episode_15_(2011))_
-Gon, with his sharp senses, had naturally learned to identify both moments with no presence of life and moments with intense presence of bloodlust. We learned this information while he was observing [Pokkle]({{ page.url_fandom_hxh }}/Pokkle) and Hisoka, respectively. While spending his childhood in wildlife, he had already learned the technique to silence his presence called [Zetsu]({{ page.url_fandom_hxh }}/Nen#Zetsu), one of the four major Nen principles.
+Gon, with his _sharp senses_, had naturally learned to identify both moments with no presence of life and moments with intense presence of bloodlust. We learned this information while he was observing [Pokkle]({{ page.url_fandom_hxh }}/Pokkle) and Hisoka, respectively. While spending his childhood in wildlife, he had already learned the technique to silence his presence called [Zetsu]({{ page.url_fandom_hxh }}/Nen#Zetsu), one of the four major Nen principles.
 > As a bonus, consider the below image where both Nen users are using some vision enhancement ability. The aura around [Netero]({{ page.url_fandom_hxh }}/Isaac_Netero)'s fingers (right image) is clearly visible.
 ![](/015-21-086-16.jpg)
 _Episodes [15]({{ page.url_fandom_hxh }}/Episode_15_(2011)), [86]({{ page.url_fandom_hxh }}/Episode_86_(2011))_
@@ -117,33 +121,40 @@ Gon was able to locate the subjects like Hisoka in the left situation. It could 
 #### Kurapika
 ![](/010-02-036-04.jpg)
 _Episodes [10]({{ page.url_fandom_hxh }}/Episode_10_(2011)), [36]({{ page.url_fandom_hxh }}/Episode_36_(2011))_
-After his fight with [Majtani]({{ page.url_fandom_hxh }}/Majtani), Kurapika described that even when he sees a real spider, his personality changes and he enters into a frenzy. This information, coupled with Hisoka's  personality-based Nen test, reveals that Kurapika's Nen type changes _when his eyes turn red_. In fact, the types that fit Kurapika the most are Conjurer (high-strung) and Specialist (individualistic).
+After his fight with [Majtani]({{ page.url_fandom_hxh }}/Majtani), Kurapika described that even when he sees a real spider, his personality changes and he enters into a frenzy. This information, coupled with Hisoka's _personality-based Nen test_, reveals that Kurapika's Nen type changes _when his eyes turn red_. In fact, the types that fit Kurapika the most are _Conjurer (high-strung)_ and _Specialist (individualistic)_.
 ![](/047-19-30.jpg)
 _Episode [47]({{ page.url_fandom_hxh }}/Episode_47_(2011))_
+
+#### After × Exam
+![](/029-04-033-08.png)
+_Episodes [29]({{ page.url_fandom_hxh }}/Episode_29_(2011)), [33]({{ page.url_fandom_hxh }}/Episode_33_(2011))_
+The unintentional uses don't stop even after the exam; I mean, why should they stop? :p\
+Continuing our Master Wing's [lesson](#wing), we also learnt that only a few people are capable of using Nen; these people are _geniuses_, leaders, _psychics_, and superhumans. But, observe that the background includes chefs and pianists, who can be considered as a type of _artist_. This clearly laid the foundation for future arcs as shown below for [Neon]({{ page.url_fandom_hxh }}/Neon_Nostrade), Zepile and [Komugi]({{ page.url_fandom_hxh }}/Komugi).
+![](/041-13-048-05-108-12.jpg)
+_Episodes [41]({{ page.url_fandom_hxh }}/Episode_41_(2011)), [48]({{ page.url_fandom_hxh }}/Episode_48_(2011)), [108]({{ page.url_fandom_hxh }}/Episode_108_(2011))_
+Here, we also witness the curious case of [Ben's knife]({{ page.url_fandom_hxh }}/Ben's%20knives), which is later seen during Chrollo's fight. It also hinted at the possibility of Nen being attached to objects even after the user's death, nicely setting up plot points for [the next arc]({{ page.url_fandom_hxh }}/Greed_Island).
+![](/048-03-052-16.jpg)
+_Episodes [48]({{ page.url_fandom_hxh }}/Episode_48_(2011)), [52]({{ page.url_fandom_hxh }}/Episode_52_(2011))_
 ## Battles
-There is a sense of familiarity in the battles of this anime. Apart from usual scale in abilities, a constant theme is a recurring use of skills in fights.
-### Killua
-#### Assassin-mode × Kill
-![](/011-18-043-07-051-15.png)
-_Episodes [11]({{ page.url_fandom_hxh }}/Episode_11_(2011)), [43]({{ page.url_fandom_hxh }}/Episode_43_(2011)), [51]({{ page.url_fandom_hxh }}/Episode_51_(2011))_
-Killua rips out [Johness]({{ page.url_fandom_hxh }}/Johness)'s heart without him noticing. But Killua isn't satisfied due to the presence of blood, he mentions how his _old man_ would have done it without a drop of blood. Then we see [Chrollo]({{ page.url_fandom_hxh }}/Chrollo_Lucilfer) doing the deed against [Neon]({{ page.url_fandom_hxh }}/Neon_Nostrade), but there was a tiny amount of blood. And so, this establishes that Chrollo isn't as powerful as Killua's old man ([Zeno]({{ page.url_fandom_hxh }}/Zeno_Zoldyck)) which ultimately, is confirmed by Zeno but he wasn't sure if Chrollo was serious about the fight.
+There is a sense of familiarity in the battles of this anime. Apart from usual scale in abilities, a constant theme is a recurring use of skills in fights. Again, let's start with my favourite example.
+### Duel × Duels
+We are talking about two of the most important fights in the anime: Gon vs Hisoka and Uvogin vs Kurapika and the common strategies used.
+![](/035-21-047-07.jpg)
+_Episodes [35]({{ page.url_fandom_hxh }}/Episode_35_(2011)), [47]({{ page.url_fandom_hxh }}/Episode_47_(2011))_
+Gon and Uvo try to distract the opponent and utilise it for a surprise attack by inflicting a powerful punch.
+![](/036-11-047-15.jpg)
+_Episodes [36]({{ page.url_fandom_hxh }}/Episode_36_(2011)), [47]({{ page.url_fandom_hxh }}/Episode_47_(2011))_
+And both the winners use their ultimate ability, which is concealing with [In]({{ page.url_fandom_hxh }}/Nen#In) by distracting their opponents in their own way. Hisoka attached his _Bungee Gum_ while explaining his personality test, while Kurapika's visible chains deceived Uvogin by making him believe that he was a manipulator.
+> Don't let this distract you from the fact that Bungee Gum has the properties of both rubber and gum.
+{: .prompt-info}
 
-In between, we also see [Feitan]({{ page.url_fandom_hxh }}/Feitan_Portor) performing a similar act, which suggests his Assassin's Origins.
-#### Ring × of × Fire
-![](/050-14-068-02-129-18.jpg)
-_Episodes [50]({{ page.url_fandom_hxh }}/Episode_50_(2011)), [68]({{ page.url_fandom_hxh }}/Episode_68_(2011)), [129]({{ page.url_fandom_hxh }}/Episode_129_(2011))_
-After being forced into fighting with guys in a ring, he develops a strategy where someone will literally burn if they enter his ring.
-#### Crazy × Hands
-![](/025-032-034-082.jpg)
-_Episodes [25]({{ page.url_fandom_hxh }}/Episode_25_(2011)), [32]({{ page.url_fandom_hxh }}/Episode_32_(2011)), [34]({{ page.url_fandom_hxh }}/Episode_34_(2011)), [82]({{ page.url_fandom_hxh }}/Episode_82_(2011))_
-Killua is familiar with fast hand movements due to [Gotoh]({{ page.url_fandom_hxh }}/Gotoh)'s coin games, which meant stopping [Riehlvelt]({{ page.url_fandom_hxh }}/Riehlvelt)'s whips was super easy. In the last picture, we see how Killua, too uses similar skills to defeat [Mosquito]({{ page.url_fandom_hxh }}/Mosquito).
+The characters of Gon and Uvogin (the eventual losers) share so much in common, from their personalities (both are ~~stupid~~ enhancers) to their abilities (like [screams](#scream)), but exploring this will be an overkill for this post. Likewise, the dynamics between the winners is just as interesting.
 
-As a viewer, [Machi]({{ page.url_fandom_hxh }}/Machi_Komacine)'s insane Nen stitching was another callback to enjoy.
+Now, let's see character-specific recurring fight techniques.
 ### Gon
-He gets his fair share of crazy hands too!
-![](/074-082-090-099.jpg)
-_Episodes [74]({{ page.url_fandom_hxh }}/Episode_74_(2011)), [82]({{ page.url_fandom_hxh }}/Episode_82_(2011)), [90]({{ page.url_fandom_hxh }}/Episode_90_(2011)), [99]({{ page.url_fandom_hxh }}/Episode_99_(2011))_
-But what else,
+#### Scream
+![](/044-12-099-09.jpg)
+_Episodes [44]({{ page.url_fandom_hxh }}/Episode_44_(2011)), [99]({{ page.url_fandom_hxh }}/Episode_99_(2011))_
 #### Catch
 ![](/069-21-083-15.jpg)
 _Episodes [69]({{ page.url_fandom_hxh }}/Episode_69_(2011)), [83]({{ page.url_fandom_hxh }}/Episode_83_(2011))_
@@ -152,20 +163,38 @@ The speed of the rolling [armadillo]({{ page.url_fandom_hxh }}/Baro) isn't even 
 ![](/073-00-073-10-083-19.jpg)
 _Episodes [73]({{ page.url_fandom_hxh }}/Episode_73_(2011)), [83]({{ page.url_fandom_hxh }}/Episode_83_(2011))_
 Gon's practice to count to exactly one minute helped him in not only knowing when the gasoline card will materialise in his fight against [Genthru]({{ page.url_fandom_hxh }}/Genthru) but also helped him (and Killua) during Kite's scythe assault, which required him to jump after exactly three seconds.
-#### Scream
-![](/044-12-099-09.jpg)
-_Episodes [44]({{ page.url_fandom_hxh }}/Episode_44_(2011)), [99]({{ page.url_fandom_hxh }}/Episode_99_(2011))_
-Okay, this one is different because Gon didn't witness Uvogin's scream, but both are ~~stupid~~ enhancers.
+#### Crazy × Hands
+![](/074-082-090-099.jpg)
+_Episodes [74]({{ page.url_fandom_hxh }}/Episode_74_(2011)), [82]({{ page.url_fandom_hxh }}/Episode_82_(2011)), [90]({{ page.url_fandom_hxh }}/Episode_90_(2011)), [99]({{ page.url_fandom_hxh }}/Episode_99_(2011))_
+Fast moving hands, is this really a big deal?
+### Killua
+#### Crazy × Hands
+Killua gets his fair share of crazy hands too!
+![](/025-032-034-082.jpg)
+_Episodes [25]({{ page.url_fandom_hxh }}/Episode_25_(2011)), [32]({{ page.url_fandom_hxh }}/Episode_32_(2011)), [34]({{ page.url_fandom_hxh }}/Episode_34_(2011)), [82]({{ page.url_fandom_hxh }}/Episode_82_(2011))_
+As he is familiar with these hand movements due to [Gotoh]({{ page.url_fandom_hxh }}/Gotoh)'s coin games, which meant stopping [Riehlvelt]({{ page.url_fandom_hxh }}/Riehlvelt)'s whips was super easy. In the last picture, we see how Killua, too uses similar skills to defeat [Mosquito]({{ page.url_fandom_hxh }}/Mosquito).
+
+As a viewer, [Machi]({{ page.url_fandom_hxh }}/Machi_Komacine)'s insane Nen stitching was another callback to enjoy. But what else?
+#### Assassin-mode × Kill
+![](/011-18-043-07-051-15.png)
+_Episodes [11]({{ page.url_fandom_hxh }}/Episode_11_(2011)), [43]({{ page.url_fandom_hxh }}/Episode_43_(2011)), [51]({{ page.url_fandom_hxh }}/Episode_51_(2011))_
+Killua rips out [Johness]({{ page.url_fandom_hxh }}/Johness)'s heart without him noticing. But Killua isn't satisfied due to the presence of blood; he mentions how his _old man_ would have done it without a drop of blood. Then we see [Chrollo]({{ page.url_fandom_hxh }}/Chrollo_Lucilfer) doing the deed against Neon, but there was a tiny amount of blood. And so this establishes that Chrollo isn't as powerful as Killua's old man ([Zeno]({{ page.url_fandom_hxh }}/Zeno_Zoldyck)), which ultimately is confirmed by Zeno, but he wasn't sure if Chrollo was serious about the fight.
+
+In between, we also see [Feitan]({{ page.url_fandom_hxh }}/Feitan_Portor) performing a similar act, which suggests his Assassin's Origins.
+#### Ring × of × Fire
+![](/050-14-068-02-129-18.jpg)
+_Episodes [50]({{ page.url_fandom_hxh }}/Episode_50_(2011)), [68]({{ page.url_fandom_hxh }}/Episode_68_(2011)), [129]({{ page.url_fandom_hxh }}/Episode_129_(2011))_
+After being forced into fighting with guys in a ring, he develops a strategy where someone will literally burn if they enter his ring.
 ## Abilities
-Yes, an obvious scaling is involved but repetition of ideas increases comfort while understanding the details. 
+Yes, an obvious scaling is involved, but repetition of ideas increases comfort in understanding the details. And this scaling is often preceded by intense physical exercise and Nen training.
 - There is [En]({{ page.url_fandom_hxh }}/Nen#En), where we see its detection range varying from [four meters]({{ page.url_fandom_hxh }}/Nobunaga_Hazama) to a [couple of kilometres]({{ page.url_fandom_hxh }}/Neferpitou).
-- [Condition strengthening]({{ page.url_fandom_hxh }}/Nen#Conditions) is also a prominent theme to increase the powers of Nen attacks, while people with extreme resolve have also utilised the life-threatening Nen contracts such as Kurapika with his Chain Jail, Kite with his Crazy Slots or Gon :( 
+- [Condition strengthening]({{ page.url_fandom_hxh }}/Nen#Conditions) is also a prominent theme to increase the powers of Nen attacks. It can also be seen as a trade-off to use exceeding skilled abilities. [Vows]({{ page.url_fandom_hxh }}/Nen#Vows_and_Limitations) are a stronger case where people with extreme resolve have utilised the life-threatening Nen contracts such as Kurapika with his Chain Jail, Kite with his Crazy Slots or Gon :( 
 
 In this section, we will focus on some non-basic techniques and their constant usage.
 ### Promise × Thread
 ![](/030-13-037-19-104-04.jpg)
 _Episodes [30]({{ page.url_fandom_hxh }}/Episode_30_(2011)), [37]({{ page.url_fandom_hxh }}/Episode_37_(2011)), [104]({{ page.url_fandom_hxh }}/Episode_104_(2011))_
-Master Wing introduced the concept of promise thread with strange designs which breaks using aura. Later, we see its application in breaking the box given by Ging. These designs are even found on [Knov]({{ page.url_fandom_hxh }}/Knov)'s handcuffs but their purpose isn't clear.
+Master Wing introduced the concept of promise thread with strange designs that breaks using aura. Later, we see its application in breaking the box given by Ging. These designs are even found on [Knov]({{ page.url_fandom_hxh }}/Knov)'s handcuffs but their purpose isn't clear.
 ### Puppets
 ![](/032-040-069-104-095-120.jpg)
 _Episodes [32]({{ page.url_fandom_hxh }}/Episode_32_(2011)), [40]({{ page.url_fandom_hxh }}/Episode_40_(2011)), [69]({{ page.url_fandom_hxh }}/Episode_69_(2011)), [95]({{ page.url_fandom_hxh }}/Episode_95_(2011)), [104]({{ page.url_fandom_hxh }}/Episode_104_(2011)), [120]({{ page.url_fandom_hxh }}/Episode_120_(2011))_
@@ -192,10 +221,10 @@ _Episode [125]({{ page.url_fandom_hxh }}/Episode_125_(2011))_
 ### Behavioural × Analysis 
 ![](/038-07-10.jpg)
 _Episode [38]({{ page.url_fandom_hxh }}/Episode_38_(2011))_
-Speaking of Pouf's abilities, remember the conversation of Gon and Killua after the tape self-erased when they stopped hearing Ging's message. Killua said, "Using data you can determine the speaker's height, weight, gender, age, facial features, chronic diseases, and **state of mind**. I wouldn't be surprised if there were a Nen user somewhere who could analyse data better than a machine. Someone who would know everything about a person just from hearing their _voice_."
+Speaking of Pouf's abilities, remember the conversation between Gon and Killua after the tape self-erased when they stopped hearing Ging's message. Killua said, "Using data you can determine the speaker's height, weight, gender, age, facial features, chronic diseases, and **state of mind**. I wouldn't be surprised if there were a Nen user somewhere who could analyse data better than a machine. Someone who would know everything about a person just from hearing their _voice_."
 ![](/044-15-113-20.jpg)
 _Episodes [44]({{ page.url_fandom_hxh }}/Episode_44_(2011)), [113]({{ page.url_fandom_hxh }}/Episode_113_(2011))_
-We then met melody with extraordinary hearing capabilities who can also influence the listener by playing various songs. This gives rise to Pouf's ability 'Spiritual Message', which allows him to determine psychological state of the opponent while also creating a hypnotic effect.
+We then met melody with extraordinary hearing capabilities that can also influence the listener by playing various songs. This gives rise to Pouf's ability 'Spiritual Message', which allows him to determine the psychological state of the opponent while also creating a hypnotic effect.
 <!-- speaking of Pouf's abilities, hisaAnother ability was mentioned before "You can determine the speaker's height, weight, gender, age, facial features, chronic diseases, and **state of wind**. I wouldn't be surprised if there were a Nen user somewhere who could analyse data better than a machine. Someone who would know everything about a person just from hearing their voice." Melody!! -->
 ### Storage
 ![](/043-06-043-14-104-04.jpg)
@@ -203,53 +232,67 @@ _Episodes [43]({{ page.url_fandom_hxh }}/Episode_43_(2011)), [104]({{ page.url_f
 [Owl]({{ page.url_fandom_hxh }}/Owl) had a cloth to shrink items. [Shizuku]({{ page.url_fandom_hxh }}/Shizuku_Murasaki)'s vacuum cleaner sucks any non-living objects, though only the last item can be regurgitated. 
 Meanwhile, Knov is chilling in another Nen dimension with his four-floor building with 21 rooms.
 ## Ideas
-This part mostly deals with examples that rely of implanting ideas upon viewer that are not necessarily about the technicalities of fighting.
-> An example would be to call out the one-sided nature of most major fights in H×H. Even then, it is not easy to figure out the winner, as Nen fights are not just about sheet strength. Think about it!
+This part mostly deals with examples that rely on implanting ideas upon viewers that are not necessarily about the technicalities of fighting.
+> An example would be to call out the one-sided nature of most major fights in H×H. Even then, it is not easy to figure out the winner, as Nen fights are not just about sheer strength. Think about it!
 {: .prompt-tip}
-It also includes usage of similar themes/shots throughout the show.
+It also includes the usage of some brilliant shots that convey similar themes throughout the show.
+### Ging's × Fishing Rod
+![](/001-04-034-11-037-12.jpg)
+_Episodes [1]({{ page.url_fandom_hxh }}/Episode_1_(2011)), [34]({{ page.url_fandom_hxh }}/Episode_34_(2011)), [37]({{ page.url_fandom_hxh }}/Episode_37_(2011))_
+That fishing rod is unrealistically strong, but as the portrait suggests, Ging might have played a role in this.
 ### Netero's × Weakness
 ![](/007-17-122-05.jpg)
 _Episodes [7]({{ page.url_fandom_hxh }}/Episode_7_(2011)), [122]({{ page.url_fandom_hxh }}/Episode_122_(2011))_
 In the _Showdown × On × The airship_ episode, Netero challenges Gon and Killua for a small game to snatch the ball away from him, where they will be rewarded with hunter licenses if they pass. This episode has striking similarities with Netero's fight against Meruem hundred episodes later, where the reward for Meruem is his name bestowed by this mother.
 
 In the earlier episode, Netero avoided using his right hand and left leg, suggesting his possible preference towards them. Later, Meruem recognised this bias for his arms and exploited it by taking out his _weaker_ left hand and right leg.
+### Hisoka × Card Tower
+![](/07-07-036-14.jpg)
+_Episodes [7]({{ page.url_fandom_hxh }}/Episode_7_(2011)), [36]({{ page.url_fandom_hxh }}/Episode_36_(2011))_
+This episode also had a mundane moment with Hisoka patiently building a tower (> insert waiting for Gon to ripen); the height of which skyrockets during his fight with Gon at Heavens Arena, signifying Gon's immense growth.
 ### Unexpected × Teammates
 ![](/008-10-071-03.jpg)
 _Episodes [8]({{ page.url_fandom_hxh }}/Episode_8_(2011)), [71]({{ page.url_fandom_hxh }}/Episode_71_(2011))_
+From the card tower to another [tower full of tricks]({{ page.url_fandom_hxh }}/Trick_Tower).
 Teaming up with the villains is so cool, I wished more anime did this.
 ### Gon's × Agony
 ![](/016-018-091-116.jpg)
 _Episodes [16]({{ page.url_fandom_hxh }}/Episode_16_(2011)), [18]({{ page.url_fandom_hxh }}/Episode_18_(2011)), [91]({{ page.url_fandom_hxh }}/Episode_91_(2011)), [116]({{ page.url_fandom_hxh }}/Episode_116_(2011))_
-We see the brutal display of Gon's emotions when he had to owe one to Hisoka or when he lost to Knuckle due to him being _weak_. He also had a similar stance to denote the feeling of anguish against Hisoka and Pitou. In the first case, Hisoka refused to accept take back his badge and in the second case, Pitou refused to fight Gon due to the [Komugi]({{ page.url_fandom_hxh }}/Komugi) situation.
+We see the brutal display of Gon's emotions when he had to owe one to Hisoka or when he lost to Knuckle due to him being _weak_. He also had a similar stance to denote the feeling of anguish against Hisoka and Pitou. In the first case, Hisoka refused to accept take back his badge and in the second case, Pitou refused to fight Gon due to the Komugi situation.
 ### Disguise
 ![](/020-11-058-21.jpg)
 ![](/022-16-148-21.jpg)
 _Episodes [20]({{ page.url_fandom_hxh }}/Episode_20_(2011)), [22]({{ page.url_fandom_hxh }}/Episode_22_(2011)), [58]({{ page.url_fandom_hxh }}/Episode_58_(2011)), [148]({{ page.url_fandom_hxh }}/Episode_148_(2011))_
-[Kiriko]({{ page.url_fandom_hxh }}/Kiriko)'s disguise was in action in the second episode and also in the last episode. And guess what, Kiriko replaces Gotoh, a butler of _Zoldyck_ family who stressed the importance of safety against threats involving disguise, to Gon. And, we see that Illumi _Zoldyck_ is quite skilful in changing his appearances to Gittarackur and Hisoka.
+[Kiriko]({{ page.url_fandom_hxh }}/Kiriko)'s disguise was in action in the second episode and also in the last episode. And guess what, Kiriko replaces Gotoh, a butler of the _Zoldyck_ family who stressed the importance of safety against threats involving disguise, to Gon. And, we see that Illumi _Zoldyck_ is quite skilful in changing his appearances to Gittarackur and Hisoka.
 ### Self-Destruction × Prevention
 ![](/030-09-074-07.jpg)
 ![](/050-16-085-10.jpg)
 _Episodes [30]({{ page.url_fandom_hxh }}/Episode_30_(2011)), [50]({{ page.url_fandom_hxh }}/Episode_50_(2011)), [74]({{ page.url_fandom_hxh }}/Episode_74_(2011)), [85]({{ page.url_fandom_hxh }}/Episode_85_(2011))_
 While Killua was mostly self-aware to avoid fighting with stronger opponents (thanks to [Illumi]({{ page.url_fandom_hxh }}/Illumi_Zoldyck)), Gon wasn't, as we saw in his careless fights against [Gido]({{ page.url_fandom_hxh }}/Gido) and Genthru. So Killua prevented Gon's self-destruction during their first meeting with Pitou in a similar way to Gon beating him when they were trapped with [Nobunaga]({{ page.url_fandom_hxh }}/Nobunaga_Hazama).
+### Walking × Between × Opponents
+![](/034-05-112-21.jpg)
+_Episodes [34]({{ page.url_fandom_hxh }}/Episode_34_(2011)), [112]({{ page.url_fandom_hxh }}/Episode_112_(2011))_
+While everyone remembers the badass Meruem's walk, Killua did it first against the Greed Island contestants :)
 ### Gungi × Palace Invasion
 ![](/105-05-128-00.jpg)
 _Episodes [105]({{ page.url_fandom_hxh }}/Episode_105_(2011)), [128]({{ page.url_fandom_hxh }}/Episode_128_(2011))_
-Gungi can in fact, explain the entire chimera ant arc[^gungi]. But let's focus on the main theme of _Kokoriko_ which represents _Humanity_. It was the move developed by Komugi; it quickly became popular and one day was used against Komugi. So, she created a countermeasure to it and in a way killed her own development. But, later, she again used Kokoriko against Meruem stating that she has developed a _counter_ to a _counter_.
+Gungi can in fact, explain the entire chimera ant arc[^gungi]. But let's focus on the main theme of _Kokoriko_ which represents _Humanity_. It was a move developed by Komugi, which quickly became popular and one day was used against Komugi. So, she created a countermeasure to it and, in a way, killed her own development. But, later, she again used Kokoriko against Meruem stating that she has developed a _counter_ to a _counter_.
 
 Similarly, Meruem was initially trapped by the Poor Man's Rose. But he was revived by his guards and became stronger than ever. But, the Rose contained Poison, dealing a final blow to the King and _victory_ to humans.
-> Throughout the series, we see Meruem stating "do not make me repeat myself" to various characters such as [Peggy]({{ page.url_fandom_hxh }}/Peggy), [Turtle]({{ page.url_fandom_hxh }}/Turtle), **Shaiapouf**, **[Menthuthuyoupi]({{ page.url_fandom_hxh }}/Menthuthuyoupi)**, the national shogi champion and even the chairman **Netero** wasn't given the respect. And then, he actually proceeds to not repeat his words in front of them. But these were his words spoken to [Palm]({{ page.url_fandom_hxh }}/Palm_Siberia) for Komugi, "You need further explanation? It seems you doubt what you've just heard. I shall repeat myself."
+> Throughout the series, we see Meruem stating "Do not make me repeat myself" to various characters such as [Peggy]({{ page.url_fandom_hxh }}/Peggy), [Turtle]({{ page.url_fandom_hxh }}/Turtle), **Shaiapouf**, **[Menthuthuyoupi]({{ page.url_fandom_hxh }}/Menthuthuyoupi)**, the national shogi champion and even the chairman **Netero** wasn't given respect. And then, he actually proceeds to not repeat his words in front of them. But these were his words spoken to [Palm]({{ page.url_fandom_hxh }}/Palm_Siberia) for Komugi, "You need further explanation? It seems you doubt what you've just heard. I shall repeat myself."
 ![](/135-02-03.jpg)
 _Episode [135]({{ page.url_fandom_hxh }}/Episode_135_(2011))_
 {: .prompt-tip}
 ## Conclusion
-Hopefully, I delivered my point. There's a lot more to say about this series, from the story dynamics and the character development, to the foreshadowing and the themes of the show. But I believe there are people[^aleczandxr] who are better at this job.
+Hopefully, I delivered my point. There's a lot more to say about this series, from the story dynamics and the character development, to the foreshadowing[^filmbuff] and the themes[^aleczandxr] of the show. But I believe there are people who are better at this job.
 
 Thanks to [Muse Asia]({{ site.url_prefixes.youtube.playlist }}PLwLSw1_eDZl2SdSro00Nvg38MQUf-5ZL8), this anime is legally available on YouTube free of cost for most Asian countries. Also, they have made the first six arcs as [standalone videos]({{ site.url_prefixes.youtube.playlist }}PLaO_HkPtJoP3uVqIIpmviNjvUpNGUMM-b) to cater binge watchers. Check out their stuff if you plan to watch the show.
 
-_Anyway what am I saying, we've just gotten started!_[^beginning]
+_Anyway, what am I saying, we've just gotten started!_[^beginning]
 ![](/135-20-00.jpg)
 ## External Links
 [^wiki]: [Hunterpedia]({{ page.url_fandom_hxh }}/Hunterpedia)
 [^gungi]: [Entire Chimera Ant Arc Explained through Gungi](https://youtu.be/ZsnlF_x4v8Y) by [Dougurasufilm]({{ site.url_prefixes.youtube.home }}/@Dougurasufilm)
-[^aleczandxr]: [Hunter × Hunter]({{ site.url_prefixes.youtube.playlist }}PLf2MkVBhqRMirZyJvFG23q3ZTXLZ_KiYq) playlist by [Aleczandxr]({{ site.url_prefixes.youtube.home }}/@Aleczandxr), this guy was the reason (at least partly) I gave this 100+ episode series a shot.
+[^aleczandxr]: [Hunter × Hunter analysis playlist]({{ site.url_prefixes.youtube.playlist }}PLf2MkVBhqRMirZyJvFG23q3ZTXLZ_KiYq) by [Aleczandxr]({{ site.url_prefixes.youtube.home }}/@Aleczandxr), this guy was the reason (at least partly) I gave this 100+ episode series a shot.
+[^filmbuff]: [Hunter × Hunter reaction playlist]({{ site.url_prefixes.youtube.playlist }}PLe_IwMmqzegQAleOCVq4r86tmcnFWlIqx) by [FILMBuFF]({{ site.url_prefixes.youtube.home }}/@_FILMBuFF_), rewatching the series with his reactions inspired me to make this post.
 [^beginning]: Exactly, there's a lot more to say and I will keep updating this post :)
