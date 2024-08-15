@@ -39,7 +39,7 @@ _Episode [50]({{ page.url_fandom_hxh }}/Episode_50_(2011))_
 But not only that, a similar situation had occurred earlier during the Hunter exam where Gon noticed that the wall could be broken and then proceeded to make his own entrance.
 ![](/012-18-050-18.jpg)
 _Episodes [12]({{ page.url_fandom_hxh }}/Episode_12_(2011)), [50]({{ page.url_fandom_hxh }}/Episode_50_(2011))_
-And not only that, but this [episode 48]({{ page.url_fandom_hxh }}/Episode_48_(2011)) also establishes a key point regarding Nen, which will be explained in a [coming section](#after--exam).
+And there's more, this [episode 48]({{ page.url_fandom_hxh }}/Episode_48_(2011)) also establishes a key point regarding Nen, which will be explained in a [coming section](#after--exam).
 <!-- | ![](/050-18-11.jpg) _Episode [50]({{ page.url_fandom_hxh }}/Episode_50_(2011))_ | ![](/050-18-12.jpg) _Episode [50]({{ page.url_fandom_hxh }}/Episode_50_(2011))_ |
 | ![](/050-18-13.jpg) _Episode [50]({{ page.url_fandom_hxh }}/Episode_50_(2011))_ | ![](/050-18-22.jpg) _Episode [50]({{ page.url_fandom_hxh }}/Episode_50_(2011))_ | -->
 > Hereafter, unless otherwise stated, the relevant images are placed above the text that references it.
@@ -172,7 +172,7 @@ Fast moving hands, is this really a big deal?
 Killua gets his fair share of crazy hands too!
 ![](/025-032-034-082.jpg)
 _Episodes [25]({{ page.url_fandom_hxh }}/Episode_25_(2011)), [32]({{ page.url_fandom_hxh }}/Episode_32_(2011)), [34]({{ page.url_fandom_hxh }}/Episode_34_(2011)), [82]({{ page.url_fandom_hxh }}/Episode_82_(2011))_
-As he is familiar with these hand movements due to [Gotoh]({{ page.url_fandom_hxh }}/Gotoh)'s coin games, which meant stopping [Riehlvelt]({{ page.url_fandom_hxh }}/Riehlvelt)'s whips was super easy. In the last picture, we see how Killua, too uses similar skills to defeat [Mosquito]({{ page.url_fandom_hxh }}/Mosquito).
+He is familiar with these hand movements due to [Gotoh]({{ page.url_fandom_hxh }}/Gotoh)'s coin games, which meant stopping [Riehlvelt]({{ page.url_fandom_hxh }}/Riehlvelt)'s whips was super easy. In the last picture, we see how Killua, too uses similar skills to defeat [Mosquito]({{ page.url_fandom_hxh }}/Mosquito).
 
 As a viewer, [Machi]({{ page.url_fandom_hxh }}/Machi_Komacine)'s insane Nen stitching was another callback to enjoy. But what else?
 #### Assassin-mode × Kill
@@ -246,7 +246,7 @@ _Episodes [7]({{ page.url_fandom_hxh }}/Episode_7_(2011)), [122]({{ page.url_fan
 In the _Showdown × On × The airship_ episode, Netero challenges Gon and Killua for a small game to snatch the ball away from him, where they will be rewarded with hunter licenses if they pass. This episode has striking similarities with Netero's fight against Meruem hundred episodes later, where the reward for Meruem is his name bestowed by this mother.
 
 In the earlier episode, Netero avoided using his right hand and left leg, suggesting his possible preference towards them. Later, Meruem recognised this bias for his arms and exploited it by taking out his _weaker_ left hand and right leg.
-### Hisoka × Card Tower
+### Hisoka's × Card Tower
 ![](/07-07-036-14.jpg)
 _Episodes [7]({{ page.url_fandom_hxh }}/Episode_7_(2011)), [36]({{ page.url_fandom_hxh }}/Episode_36_(2011))_
 This episode also had a mundane moment with Hisoka patiently building a tower (> insert waiting for Gon to ripen); the height of which skyrockets during his fight with Gon at Heavens Arena, signifying Gon's immense growth.
@@ -268,11 +268,11 @@ _Episodes [20]({{ page.url_fandom_hxh }}/Episode_20_(2011)), [22]({{ page.url_fa
 ![](/030-09-074-07.jpg)
 ![](/050-16-085-10.jpg)
 _Episodes [30]({{ page.url_fandom_hxh }}/Episode_30_(2011)), [50]({{ page.url_fandom_hxh }}/Episode_50_(2011)), [74]({{ page.url_fandom_hxh }}/Episode_74_(2011)), [85]({{ page.url_fandom_hxh }}/Episode_85_(2011))_
-While Killua was mostly self-aware to avoid fighting with stronger opponents (thanks to [Illumi]({{ page.url_fandom_hxh }}/Illumi_Zoldyck)), Gon wasn't, as we saw in his careless fights against [Gido]({{ page.url_fandom_hxh }}/Gido) and Genthru. So Killua prevented Gon's self-destruction during their first meeting with Pitou in a similar way to Gon beating him when they were trapped with [Nobunaga]({{ page.url_fandom_hxh }}/Nobunaga_Hazama).
+While Killua was mostly self-aware to avoid fighting with stronger opponents (thanks to [Illumi]({{ page.url_fandom_hxh }}/Illumi_Zoldyck)), Gon wasn't, as we saw in his careless fights against [Gido]({{ page.url_fandom_hxh }}/Gido) and Genthru. So, Killua prevented Gon's self-destruction during their first meeting with Pitou in a similar way to Gon beating him when they were trapped with [Nobunaga]({{ page.url_fandom_hxh }}/Nobunaga_Hazama).
 ### Walking × Between × Opponents
 ![](/034-05-112-21.jpg)
 _Episodes [34]({{ page.url_fandom_hxh }}/Episode_34_(2011)), [112]({{ page.url_fandom_hxh }}/Episode_112_(2011))_
-While everyone remembers the badass Meruem's walk, Killua did it first against the Greed Island contestants :)
+While everyone remembers the badass Meruem's walk, Killua did it first against the Heavens Arena contestants :)
 ### Gungi × Palace Invasion
 ![](/105-05-128-00.jpg)
 _Episodes [105]({{ page.url_fandom_hxh }}/Episode_105_(2011)), [128]({{ page.url_fandom_hxh }}/Episode_128_(2011))_
@@ -286,7 +286,7 @@ _Episode [135]({{ page.url_fandom_hxh }}/Episode_135_(2011))_
 ## Conclusion
 Hopefully, I delivered my point. There's a lot more to say about this series, from the story dynamics and the character development, to the foreshadowing[^filmbuff] and the themes[^aleczandxr] of the show. But I believe there are people who are better at this job.
 
-Thanks to [Muse Asia]({{ site.url_prefixes.youtube.playlist }}PLwLSw1_eDZl2SdSro00Nvg38MQUf-5ZL8), this anime is legally available on YouTube free of cost for most Asian countries. Also, they have made the first six arcs as [standalone videos]({{ site.url_prefixes.youtube.playlist }}PLaO_HkPtJoP3uVqIIpmviNjvUpNGUMM-b) to cater binge watchers. Check out their stuff if you plan to watch the show.
+Thanks to [Muse Asia]({{ site.url_prefixes.youtube.playlist }}PLwLSw1_eDZl2SdSro00Nvg38MQUf-5ZL8), this anime is legally available on YouTube free of cost for most Asian countries. Also, they have made the first six arcs as [standalone videos]({{ site.url_prefixes.youtube.playlist }}PLaO_HkPtJoP3uVqIIpmviNjvUpNGUMM-b) to cater binge watchers. Check out their stuff if you plan to ~~re~~watch the show.
 
 _Anyway, what am I saying, we've just gotten started!_[^beginning]
 ![](/135-20-00.jpg)
