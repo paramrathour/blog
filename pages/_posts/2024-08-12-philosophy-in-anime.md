@@ -33,7 +33,7 @@ Let's start with the philosophy of Makoto Yukimura, the author of Vinland Saga (
 To explore his theme of violence, the author decided that the _Viking Age_ and its culture would be the most appropriate setting based on its defining feature: the _glorification of war_. The author took inspiration from real-life historical figures and events and filled in the unknown using his creative ideas. 
 
 The saga derives its purpose from _Utopianism_, a constant search for a [_Utopia_]({{ site.url_prefixes.wikipedia }}/Utopia).\
-[Valhalla]({{ site.url_prefixes.wikipedia }}/Valhalla) is a place that every warrior dreams to reach. But the story also explores other locations, such as **Vinland**, a place _free from war and slavery_, and **Avalon**, an island of everlasting spring free from death and old age. The story portrays contrasting routes taken by its characters to create such a near-perfect world.
+[Valhalla]({{ site.url_prefixes.wikipedia }}/Valhalla) is a place that every warrior dreams to reach. But the story also explores other locations, such as **Vinland**, a place _free from war and slavery_, and **Avalon**, an island of everlasting spring _free from death and old age_. The story portrays contrasting routes taken by its characters to create such a near-perfect world.
 
 #### Pacifism
 > Far to the west...\
@@ -235,7 +235,7 @@ This section presents three more anime with superhumans.
 		</a>
 	</div>
 	<div id="nsfw-1" class="collapse" aria-expanded="false">
-		<a href="{{site.cdn}}/posthumanism-anime.jpg" class="popup img-link"><img src="{{site.cdn}}/posthumanism-anime.jpg" alt="posthumanism-anime" loading="lazy"></a>
+		<a href="{{ site.cdn }}/posthumanism-anime.jpg" class="popup img-link"><img src="{{ site.cdn }}/posthumanism-anime.jpg" alt="posthumanism-anime" loading="lazy"></a>
 	</div>
 </div>
 > Someone please like me as I am...\
