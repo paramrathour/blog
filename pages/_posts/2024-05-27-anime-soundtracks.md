@@ -39,7 +39,7 @@ Let's make some important announcements to ease your navigation.
 		{% include embed/youtube.html id=post.video_id %}	
 		<dl>
 			<dt>Anime Name</dt>
-				<dd><a href="{{ site.url_prefixes.myanimelist.anime | append: '/' | append: post.anime_code }}">{{ post.anime }}</a></dd>
+				<dd><a href="{{ site.url_prefixes.myanimelist.anime | append: '/' | append: post.anime_code }}">{{ post.title }}</a></dd>
 			<dt>Composer Name</dt>
 				<dd><a href="{{ site.url_prefixes.myanimelist.people | append: '/' | append: post.composer_code }}">{{ post.composer }}</a></dd>
 		</dl>
