@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Attack on Titan"
+title: "Attack on Titan"
 anime_code: 16498
 composer: Hiroyuki Sawano
 composer_code: 8509

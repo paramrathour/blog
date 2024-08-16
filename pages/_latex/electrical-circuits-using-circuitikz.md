@@ -1,4 +1,5 @@
 ---
+title: "Electrical Circuits using 'circuitikz'"
 ---
 \usepackage{circuitikz}
 

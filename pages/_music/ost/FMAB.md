@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Fullmetal Alchemist: Brotherhood"
+title: "Fullmetal Alchemist: Brotherhood"
 anime_code: 5114
 composer: Akira Senju
 composer_code: 7291

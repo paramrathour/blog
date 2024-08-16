@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Kaiji"
+title: "Kaiji"
 anime_code: 3002
 composer: Hideki Taniuchi
 composer_code: 6009

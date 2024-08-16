@@ -1,4 +1,5 @@
 ---
+title: "Parse Trees using 'tikz-qtree'"
 ---
 \usepackage{tikz-qtree}
 \tikzset{edge from parent/.style={draw, edge from parent path={(\tikzparentnode) -- (\tikzchildnode)}}}

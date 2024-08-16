@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Land of the Lustrous"
+title: "Land of the Lustrous"
 anime_code: 35557
 composer: Yoshiaki Fujisawa
 composer_code: 21505

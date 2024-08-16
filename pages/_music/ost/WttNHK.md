@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Welcome to the N.H.K."
+title: "Welcome to the N.H.K."
 anime_code: 1210
 composer: Pearl Brothers
 composer_code: 11682

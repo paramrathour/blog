@@ -1,4 +1,5 @@
 ---
+title: "Fitch Proofs using 'logicproof'"
 ---
 \usepackage{logicproof}
 

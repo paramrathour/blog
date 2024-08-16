@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Steins;Gate"
+title: "Steins;Gate"
 anime_code: 9253
 composer: Takeshi Abo
 composer_code: 12130

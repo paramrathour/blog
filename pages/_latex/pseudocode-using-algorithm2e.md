@@ -1,4 +1,5 @@
 ---
+title: "Pseudocode using 'algorithm2e'"
 ---
 \usepackage[linesnumbered,ruled,vlined]{algorithm2e}
 

@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Mushi-Shi"
+title: "Mushi-Shi"
 anime_code: 457
 composer: Toshio Masuda
 composer_code: 5358

@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Erased"
+title: "Erased"
 anime_code: 31043
 composer: Yuki Kajiura
 composer_code: 5077

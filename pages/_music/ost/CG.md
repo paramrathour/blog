@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Code Geass: Lelouch of the Rebellion"
+title: "Code Geass: Lelouch of the Rebellion"
 anime_code: 1575
 composer: Koutarou Nakagawa
 composer_code: 7411

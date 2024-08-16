@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Frieren: Beyond Journey's End"
+title: "Frieren: Beyond Journey's End"
 anime_code: 52991
 composer: Evan Call
 composer_code: 32281

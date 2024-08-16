@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Katanagatari"
+title: "Katanagatari"
 anime_code: 6594
 composer: Taku Iwasaki
 composer_code: 5172

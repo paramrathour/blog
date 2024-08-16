@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Kaguya-sama: Love is War"
+title: "Kaguya-sama: Love is War"
 anime_code: 37999
 composer: Kei Haneoka
 composer_code: 7153

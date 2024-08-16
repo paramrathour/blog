@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Howl's Moving Castle"
+title: "Howl's Moving Castle"
 anime_code: 431
 composer: Joe Hisaishi
 composer_code: 5738

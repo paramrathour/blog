@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Vivy -Fluorite Eye's Song-"
+title: "Vivy -Fluorite Eye's Song-"
 anime_code: 46095
 composer: Satoru Kousaki
 composer_code: 6555

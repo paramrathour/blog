@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Vinland Saga"
+title: "Vinland Saga"
 anime_code: 37521
 composer: Yutaka Yamada
 composer_code: 34211

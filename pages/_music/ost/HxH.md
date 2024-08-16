@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Hunter × Hunter"
+title: "Hunter × Hunter"
 anime_code: 11061
 composer: Yoshihisa Hirano
 composer_code: 7221

@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Death Parade"
+title: "Death Parade"
 anime_code: 28223
 composer: Yuuki Hayashi
 composer_code: 21495

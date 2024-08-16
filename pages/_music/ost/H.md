@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Hyouka"
+title: "Hyouka"
 anime_code: 12189
 composer: Kouhei Tanaka
 composer_code: 6055

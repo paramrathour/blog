@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Arjuna"
+title: "Arjuna"
 anime_code: 812
 composer: Yoko Kanno
 composer_code: 508

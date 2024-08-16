@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Millennium Actress"
+title: "Millennium Actress"
 anime_code: 1033
 composer: Susumu Hirasawa
 composer_code: 5750

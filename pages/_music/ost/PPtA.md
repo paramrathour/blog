@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Ping Pong the Animation"
+title: "Ping Pong the Animation"
 anime_code: 22135
 composer: Kensuke Ushio
 composer_code: 34079

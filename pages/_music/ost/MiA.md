@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Made in Abyss"
+title: "Made in Abyss"
 anime_code: 34599
 composer: Kevin Penkin
 composer_code: 40530

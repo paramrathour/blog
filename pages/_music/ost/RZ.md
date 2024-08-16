@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Re:ZERO -Starting Life in Another World-"
+title: "Re:ZERO -Starting Life in Another World-"
 anime_code: 31240
 composer: Kenichiro Suehiro
 composer_code: 39642

@@ -1,4 +1,5 @@
 ---
+title: "Code Highlighting using 'minted'"
 ---
 \usepackage{minted}
 

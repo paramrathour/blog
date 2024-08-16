@@ -1,6 +1,6 @@
 ---
 category: OST
-anime: "Fullmetal Alchemist"
+title: "Fullmetal Alchemist"
 anime_code: 121
 composer: Michiru Oshima
 composer_code: 5951

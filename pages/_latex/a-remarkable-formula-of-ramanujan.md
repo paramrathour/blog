@@ -1,4 +1,5 @@
 ---
+title: A remarkable formula of Ramanujan
 ---
 \begin{equation}
   \sqrt{\frac{\pi e}{2}}= \cfrac{1}{1+{\cfrac{1}{1+{\cfrac{2}{1+{\cfrac{3}{1+{ {\cfrac{4}{1+{_{\ddots }}} }}}}}}}}}
