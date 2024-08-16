@@ -94,7 +94,7 @@ $$ { G(i,j,\theta )={\begin{bmatrix}1&\cdots &0&\cdots &0&\cdots &0\\\vdots &\dd
 <!-- <p style="text-align: center;">\( G(i,j,\theta )\mathbf{x}\) represents a counter-clockwise rotation of the vector \(\mathbf{x}\) in the \((i,j)\) plane by \(\theta\) radians</p> -->
 <p style="text-align: center;">Apply \( G(i,j,\theta )\) to rotate a vector \( \mathbf{x} \) in the \((i,j)\) plane by \(\theta\) radians (counter-clockwise)</p>
 
-{% assign temp_post = site.latex | where: 'name', 'givens-rotation.md' | first %}
+{% assign temp_post = site.latex | where: 'slug', 'givens-rotation' | first %}
 ```latex
 {{ temp_post.content }}
 ```
@@ -103,7 +103,7 @@ $$ { G(i,j,\theta )={\begin{bmatrix}1&\cdots &0&\cdots &0&\cdots &0\\\vdots &\dd
 
 $$ \sqrt{\frac{\pi e}{2}}= \cfrac{1}{1+{\cfrac{1}{1+{\cfrac{2}{1+{\cfrac{3}{1+{ {\cfrac{4}{1+{_{\ddots }}} }}}}}}}}} + \left\{1 + \dfrac{1}{1\cdot3}+\dfrac{1}{1\cdot3\cdot5}+\dfrac{1}{1\cdot3\cdot5\cdot7}+\dfrac{1}{1\cdot3\cdot5\cdot7\cdot9}+\cdots\right\} $$
 
-{% assign temp_post = site.latex | where: 'name', 'a-remarkable-formula-of-ramanujan.md' | first %}
+{% assign temp_post = site.latex | where: 'slug', 'a-remarkable-formula-of-ramanujan' | first %}
 ```latex
 {{ temp_post.content }}
 ```
@@ -111,7 +111,7 @@ $$ \sqrt{\frac{\pi e}{2}}= \cfrac{1}{1+{\cfrac{1}{1+{\cfrac{2}{1+{\cfrac{3}{1+{ 
 ![Random k-SAT problem generation](/random-k-sat-pseudocode-light.svg){: .light w="100%"}
 ![Random k-SAT problem generation](/random-k-sat-pseudocode-dark.svg){: .dark w="100%"}
 _Pseudocode to generate a random $$k$$-SAT problem using `SageMath`_
-{% assign temp_post = site.latex | where: 'name', 'pseudocode-using-algorithm2e.md' | first %}
+{% assign temp_post = site.latex | where: 'slug', 'pseudocode-using-algorithm2e' | first %}
 ```latex
 {{ temp_post.content }}
 ```
@@ -119,7 +119,7 @@ _Pseudocode to generate a random $$k$$-SAT problem using `SageMath`_
 ![Principal Component Analysis](/principal-component-analysis-light.svg){: .light w="100%"}
 ![Principal Component Analysis](/principal-component-analysis-dark.svg){: .dark w="100%"}
 _Dimensionality Reduction using Principal Component Analysis in `python`_
-{% assign temp_post = site.latex | where: 'name', 'code-highlighting-using-minted.md' | first %}
+{% assign temp_post = site.latex | where: 'slug', 'code-highlighting-using-minted' | first %}
 ```latex
 {{ temp_post.content }}
 ```
@@ -128,7 +128,7 @@ _Dimensionality Reduction using Principal Component Analysis in `python`_
 ![Molecular Orbital Diagram](/molecular-orbital-diagram-light.svg){: .light w="100%"}
 ![Molecular Orbital Diagram](/molecular-orbital-diagram-dark.svg){: .dark w="100%"}
 _Molecular Orbital Diagram for Nitric Oxide_
-{% assign temp_post = site.latex | where: 'name', 'molecular-orbital-diagrams-using-modiagram.md' | first %}
+{% assign temp_post = site.latex | where: 'slug', 'molecular-orbital-diagrams-using-modiagram' | first %}
 ```latex
 {{ temp_post.content }}
 ```
@@ -136,7 +136,7 @@ _Molecular Orbital Diagram for Nitric Oxide_
 ![Parse Tree](/parse-tree-light.svg){: .light w="100%"}
 ![Parse Tree](/parse-tree-dark.svg){: .dark w="100%"}
 _Parse Tree for $$ \varphi = (r \rightarrow \neg s) \lor \neg(p \rightarrow (\neg q \lor (r \land (p \rightarrow (s \lor r)))))$$_
-{% assign temp_post = site.latex | where: 'name', 'parse-trees-using-tikz-qtree.md' | first %}
+{% assign temp_post = site.latex | where: 'slug', 'parse-trees-using-tikz-qtree' | first %}
 ```latex
 {{ temp_post.content }}
 ```
@@ -144,7 +144,7 @@ _Parse Tree for $$ \varphi = (r \rightarrow \neg s) \lor \neg(p \rightarrow (\ne
 ![npn transistor used as an amplifier](/npn-transistor-amplifier-light.svg){: .light w="100%"}
 ![npn transistor used as an amplifier](/npn-transistor-amplifier-dark.svg){: .dark w="100%"}
 _npn transistor used as an amplifier_
-{% assign temp_post = site.latex | where: 'name', 'electrical-circuits-using-circuitikz.md' | first %}
+{% assign temp_post = site.latex | where: 'slug', 'electrical-circuits-using-circuitikz' | first %}
 ```latex
 {{ temp_post.content }}
 ```
@@ -153,7 +153,7 @@ _npn transistor used as an amplifier_
 ![Fitch Proofs for Propositional Logic](/fitch-proof-propositional-logic-dark.svg){: .dark w="100%"}
 _Fitch Proof of $$\vdash p \rightarrow (q \rightarrow p)$$_
 
-{% assign temp_post = site.latex | where: 'name', 'fitch-proofs-using-logicproof.md' | first %}
+{% assign temp_post = site.latex | where: 'slug', 'fitch-proofs-using-logicproof' | first %}
 ```latex
 {{ temp_post.content }}
 ```
