@@ -1,7 +1,7 @@
 ---
 title: Philosophy in Anime
 description: "Exploring deep themes through the world of anime"
-categories: [Animanga]
+categories: [Philosophy]
 tags: [anime, philosophy, featured-content]
 date: 2024-08-12 20:19 +0530
 ---
