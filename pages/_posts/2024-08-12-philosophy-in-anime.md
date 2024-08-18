@@ -82,9 +82,9 @@ But if that just means your name gets passed down for two thousand years and not
 --- Iskander
 
 <!-- Idealism is an unrealistic belief in perfection. -->
-Saber embodies the ideals of a perfect king who serves their people with _selfless dedication_, whereas Lancer is driven by _chivalry_ and _loyalty_. There is also Tokiomi Tohsaka, who believes in upholding the noble ideals of the _aristocracy_. The unwavering idealistic beliefs of these characters are frequently tested against other ideals amidst the harsh realities of war.
+[Saber]({{ site.url_prefixes.wikipedia }}/King_Arthur) embodies the ideals of a perfect king who serves their people with _selfless dedication_, whereas [Lancer]({{ site.url_prefixes.wikipedia }}/Diarmuid_Ua_Duibhne) is driven by _chivalry_ and _loyalty_. There is also Tokiomi Tohsaka, who believes in upholding the noble ideals of the _aristocracy_. The unwavering idealistic beliefs of these characters are frequently tested against other ideals amidst the harsh realities of war.
 
-In contrast, Iskander pursues his grand ideals with a sense of _realism_ by remaining grounded in his heroic conquest.
+In contrast, [Iskander]({{ site.url_prefixes.wikipedia }}/Alexander_the_Great) pursues his grand ideals with a sense of _realism_ by remaining grounded in his heroic conquest.
 #### Existentialism
 > It is a simple story.\
 There is nothing that brings me happiness.\
