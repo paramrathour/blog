@@ -99,7 +99,7 @@ _Episode [86]({{ page.url_fandom_hxh }}/Episode_86_(2011))_
 #### [Zebro]({{ page.url_fandom_hxh }}/Zebro)
 ![](/022-11-30.jpg)
 _Episode [22]({{ page.url_fandom_hxh }}/Episode_22_(2011))_
-Even the Zoldyck family's janitor was aware of Nen, as can be seen from the aura around him and a suspiciously similar procedure as below.
+Even the Zoldyck family's janitor was aware of Nen, as can be seen from the aura around him and a suspiciously similar procedure as shown below.
 
 <span id="wing">
 As it happens, Master [Wing]({{ page.url_fandom_hxh }}/Wing) did similar routines to confirm the above cases as valid Nen uses.
@@ -243,7 +243,7 @@ That fishing rod is unrealistically strong, but as the portrait suggests, Ging m
 ### Netero's × Weakness
 ![](/007-17-122-05.jpg)
 _Episodes [7]({{ page.url_fandom_hxh }}/Episode_7_(2011)), [122]({{ page.url_fandom_hxh }}/Episode_122_(2011))_
-In the _Showdown × On × The airship_ episode, Netero challenges Gon and Killua for a small game to snatch the ball away from him, where they will be rewarded with hunter licenses if they pass. This episode has striking similarities with Netero's fight against Meruem hundred episodes later, where the reward for Meruem is his name bestowed by this mother.
+In the _[Showdown × On × The airship]({{ page.url_fandom_hxh }}/Episode_7_(2011))_ episode, Netero challenges Gon and Killua for a small game to snatch the ball away from him, where they will be rewarded with hunter licenses if they pass. This episode has striking similarities with Netero's fight against Meruem hundred episodes later, where the reward for Meruem is his name bestowed by this mother.
 
 In the earlier episode, Netero avoided using his right hand and left leg, suggesting his possible preference towards them. Later, Meruem recognised this bias for his arms and exploited it by taking out his _weaker_ left hand and right leg.
 ### Hisoka's × Card Tower
