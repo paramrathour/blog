@@ -147,7 +147,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+paginate: 100
 paginator_enable: false
 
 # The base URL of your site
@@ -236,10 +236,6 @@ defaults:
       permalink: /:title/
   - scope:
       path: tags/
-    values:
-      sitemap: true
-  - scope:
-      path: categories/
     values:
       sitemap: true
   - scope:
