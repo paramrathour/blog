@@ -29,7 +29,7 @@ It also helps that such ideas are not lost and in fact, many such ideas are cons
 > From now onwards, this post will dive into spoiler territory. So, come back after watching 148 episodes of this anime. Just kidding :p, feel free to do what you want.
 {: .prompt-warning}
 
-So before delving into specifics, let's start with my favourite example which actually comes from one of the lowest rated episodes of H×H on [IMDb](https://www.imdb.com/title/tt2098220/episodes).
+Before delving into specifics, let's start with my favourite example which actually comes from one of the lowest rated episodes of H×H on [IMDb](https://www.imdb.com/title/tt2098220/episodes).
 ![](/048-12.jpg)
 _Episode [48]({{ page.url_fandom_hxh }}/Episode_48_(2011))_
 <!-- | ![](/048-11-11.jpg) _Episode [48]({{ page.url_fandom_hxh }}/Episode_48_(2011))_ | ![](/048-12-22.jpg) _Episode [48]({{ page.url_fandom_hxh }}/Episode_48_(2011))_ | -->
@@ -106,6 +106,7 @@ As it happens, Master [Wing]({{ page.url_fandom_hxh }}/Wing) did similar routine
 ![](/028-04-028-09-028-21.jpg)
 _Episode [28]({{ page.url_fandom_hxh }}/Episode_28_(2011))_
 </span>
+
 ### Unintentional × Usage
 Cases of unintentional usage of Nen by people
 #### Gon
@@ -135,6 +136,14 @@ _Episodes [41]({{ page.url_fandom_hxh }}/Episode_41_(2011)), [48]({{ page.url_fa
 Here, we also witness the curious case of [Ben's knife]({{ page.url_fandom_hxh }}/Ben's%20knives), which is later seen during Chrollo's fight. It also hinted at the possibility of Nen being attached to objects even after the user's death, nicely setting up plot points for [the next arc]({{ page.url_fandom_hxh }}/Greed_Island).
 ![](/048-03-052-16.jpg)
 _Episodes [48]({{ page.url_fandom_hxh }}/Episode_48_(2011)), [52]({{ page.url_fandom_hxh }}/Episode_52_(2011))_
+
+##### Bisky
+![](/044-059-063.jpg)
+_Episodes [44]({{ page.url_fandom_hxh }}/Episode_44_(2011)), [59]({{ page.url_fandom_hxh }}/Episode_59_(2011)), [63]({{ page.url_fandom_hxh }}/Episode_63_(2011))_
+After Wing, we meet [Bisky-chama]({{ page.url_fandom_hxh }}/Biscuit_Krueger), and finally learn the names of some advanced techniques previously used by Gon and Uvogin, such as [Ko]({{ page.url_fandom_hxh }}/#Ko) and [Shu]({{ page.url_fandom_hxh }}/#Shu) with their demonstration as shown below.
+![](/064-05-064-11.jpg)
+_Episode [64]({{ page.url_fandom_hxh }}/Episode_64_(2011))_
+
 ## Battles
 There is a sense of familiarity in the battles of this anime. Apart from usual scale in abilities, a constant theme is a recurring use of skills in fights. Again, let's start with my favourite example.
 ### Duel × Duels
@@ -148,7 +157,7 @@ And both the winners use their ultimate ability, which is concealing with [In]({
 > Don't let this distract you from the fact that Bungee Gum has the properties of both rubber and gum.
 {: .prompt-info}
 
-The characters of Gon and Uvogin (the eventual losers) share so much in common, from their personalities (both are ~~stupid~~ enhancers) to their abilities (like [screams](#scream)), but exploring this will be an overkill for this post. Likewise, the dynamics between the winners is just as interesting.
+The characters of Gon and Uvogin (the eventual losers) share so much in common, from their personalities (both are ~~stupid~~ enhancers) to their abilities (like [screams](#scream), [shu and ko](#bisky)), but exploring this will be an overkill for this post. Likewise, the dynamics between the winners is just as interesting.
 
 Now, let's see character-specific recurring fight techniques.
 ### Gon
@@ -188,7 +197,7 @@ After being forced into fighting with guys in a ring, he develops a strategy whe
 ## Abilities
 Yes, an obvious scaling is involved, but repetition of ideas increases comfort in understanding the details. And this scaling is often preceded by intense physical exercise and Nen training.
 - There is [En]({{ page.url_fandom_hxh }}/Nen#En), where we see its detection range varying from [four meters]({{ page.url_fandom_hxh }}/Nobunaga_Hazama) to a [couple of kilometres]({{ page.url_fandom_hxh }}/Neferpitou).
-- [Condition strengthening]({{ page.url_fandom_hxh }}/Nen#Conditions) is also a prominent theme to increase the powers of Nen attacks. It can also be seen as a trade-off to use exceeding skilled abilities. [Vows]({{ page.url_fandom_hxh }}/Nen#Vows_and_Limitations) are a stronger case where people with extreme resolve have utilised the life-threatening Nen contracts such as Kurapika with his Chain Jail, Kite with his Crazy Slots or Gon :( 
+- [Condition strengthening]({{ page.url_fandom_hxh }}/Nen#Conditions) is also a prominent theme to increase the powers of Nen attacks. It can also be seen as a trade-off to use exceeding skilled abilities. [Vows]({{ page.url_fandom_hxh }}/Nen#Vows_and_Limitations) are a stronger case where people with extreme resolve have utilised life-threatening Nen contracts such as Kurapika with his Chain Jail, Kite with his Crazy Slots or Gon :( 
 
 In this section, we will focus on some non-basic techniques and their constant usage.
 ### Promise × Thread
@@ -201,7 +210,7 @@ _Episodes [32]({{ page.url_fandom_hxh }}/Episode_32_(2011)), [40]({{ page.url_fa
 One of the most fascinating abilities in the world of H×H. The technical term for them is [Nen Beasts]({{ page.url_fandom_hxh }}/Nen#Nen_Beast). We were introduced to the concept during the Hisoka vs [Kastro]({{ page.url_fandom_hxh }}/Kastro) fight. From there, we explored puppets of [Tocino]({{ page.url_fandom_hxh }}/Shachmono_Tocino) and Razor. But [Morel]({{ page.url_fandom_hxh }}/Morel_Mackernasey) was the M.V.P., he can not only create a lot of puppets but they are of _higher quality_ than any other puppets seen in the anime. Though quantity-wise, the royal guards are at a completely different level.
 ![](/086-14-105-13.jpg)
 _Episodes [86]({{ page.url_fandom_hxh }}/Episode_86_(2011)), [105]({{ page.url_fandom_hxh }}/Episode_105_(2011))_
-Also, an honourable mention for those puppets not intended for direct fights ft. [Bisky]({{ page.url_fandom_hxh }}/Biscuit_Krueger) and [Pitou]({{ page.url_fandom_hxh }}/Neferpitou).
+Also, an honourable mention for those puppets not intended for direct fights ft. Bisky and [Pitou]({{ page.url_fandom_hxh }}/Neferpitou).
 ### Steal
 ![](/052-18-106-20-135-00.jpg)
 _Episodes [52]({{ page.url_fandom_hxh }}/Episode_52_(2011)), [106]({{ page.url_fandom_hxh }}/Episode_106_(2011)), [135]({{ page.url_fandom_hxh }}/Episode_135_(2011))_
@@ -218,14 +227,14 @@ _Episodes [51]({{ page.url_fandom_hxh }}/Episode_51_(2011)), Episode [115]({{ pa
 This Indoor Fish is an ability involving _Nen beast_ which was _stolen_ by Chrollo, while [Ikalgo]({{ page.url_fandom_hxh }}/Ikalgo) acquired [Flutter]({{ page.url_fandom_hxh }}/Flutter)'s Dragonflies, which ultimately gave way to Pouf's creative bugs.
 ![](/125-07-50.jpg)
 _Episode [125]({{ page.url_fandom_hxh }}/Episode_125_(2011))_
-### Behavioural × Analysis 
+### Behavioural × and × Physique × Analysis 
 ![](/038-07-10.jpg)
 _Episode [38]({{ page.url_fandom_hxh }}/Episode_38_(2011))_
 Speaking of Pouf's abilities, remember the conversation between Gon and Killua after the tape self-erased when they stopped hearing Ging's message. Killua said, "Using data you can determine the speaker's height, weight, gender, age, facial features, chronic diseases, and **state of mind**. I wouldn't be surprised if there were a Nen user somewhere who could analyse data better than a machine. Someone who would know everything about a person just from hearing their _voice_."
-![](/044-15-113-20.jpg)
-_Episodes [44]({{ page.url_fandom_hxh }}/Episode_44_(2011)), [113]({{ page.url_fandom_hxh }}/Episode_113_(2011))_
-We then met melody with extraordinary hearing capabilities that can also influence the listener by playing various songs. This gives rise to Pouf's ability 'Spiritual Message', which allows him to determine the psychological state of the opponent while also creating a hypnotic effect.
-<!-- speaking of Pouf's abilities, hisaAnother ability was mentioned before "You can determine the speaker's height, weight, gender, age, facial features, chronic diseases, and **state of wind**. I wouldn't be surprised if there were a Nen user somewhere who could analyse data better than a machine. Someone who would know everything about a person just from hearing their voice." Melody!! -->
+![](/044-15-063-06-113-20.jpg)
+_Episodes [44]({{ page.url_fandom_hxh }}/Episode_44_(2011)), [63]({{ page.url_fandom_hxh }}/Episode_63_(2011)), [113]({{ page.url_fandom_hxh }}/Episode_113_(2011))_
+We then met Melody with extraordinary hearing capabilities that can also influence the listener by playing various songs and [Binolt]({{ page.url_fandom_hxh }}/Binolt), who can learn physique-related information such as age, and potential for disease by eating hairs of the opponent.
+These give rise to Pouf's ability, 'Spiritual Message', which enables him to determine the psychological state of the opponent and induce a hypnotic effect by bringing his scales into contact with them.
 ### Storage
 ![](/043-06-043-14-104-04.jpg)
 _Episodes [43]({{ page.url_fandom_hxh }}/Episode_43_(2011)), [104]({{ page.url_fandom_hxh }}/Episode_104_(2011))_
@@ -278,7 +287,7 @@ While everyone remembers the badass Meruem's walk, Killua did it first against t
 _Episodes [105]({{ page.url_fandom_hxh }}/Episode_105_(2011)), [128]({{ page.url_fandom_hxh }}/Episode_128_(2011))_
 Gungi can in fact, explain the entire chimera ant arc[^gungi]. But let's focus on the main theme of _Kokoriko_ which represents _Humanity_. It was a move developed by Komugi, which quickly became popular and one day was used against Komugi. So, she created a countermeasure to it and, in a way, killed her own development. But, later, she again used Kokoriko against Meruem stating that she has developed a _counter_ to a _counter_.
 
-Similarly, Meruem was initially trapped by the Poor Man's Rose. But he was revived by his guards and became stronger than ever. But, the Rose contained Poison, dealing a final blow to the King and _victory_ to humans.
+Similarly, Meruem was initially trapped by the Poor Man's Rose. But he was revived by his guards and became stronger than ever. But, the Rose contained _poison_, dealing a final blow to the King and _victory_ to humans.
 > Throughout the series, we see Meruem stating "Do not make me repeat myself" to various characters such as [Peggy]({{ page.url_fandom_hxh }}/Peggy), [Turtle]({{ page.url_fandom_hxh }}/Turtle), **Shaiapouf**, **[Menthuthuyoupi]({{ page.url_fandom_hxh }}/Menthuthuyoupi)**, the national shogi champion and even the chairman **Netero** wasn't given respect. And then, he actually proceeds to not repeat his words in front of them. But these were his words spoken to [Palm]({{ page.url_fandom_hxh }}/Palm_Siberia) for Komugi, "You need further explanation? It seems you doubt what you've just heard. I shall repeat myself."
 ![](/135-02-03.jpg)
 _Episode [135]({{ page.url_fandom_hxh }}/Episode_135_(2011))_
@@ -286,7 +295,7 @@ _Episode [135]({{ page.url_fandom_hxh }}/Episode_135_(2011))_
 ## Conclusion
 Hopefully, I delivered my point. There's a lot more to say about this series, from the story dynamics and the character development, to the foreshadowing[^filmbuff] and the themes[^aleczandxr] of the show. But I believe there are people who are better at this job.
 
-Thanks to [Muse Asia]({{ site.url_prefixes.youtube.playlist }}PLwLSw1_eDZl2SdSro00Nvg38MQUf-5ZL8), this anime is legally available on YouTube free of cost for most Asian countries. Also, they have made the first six arcs as [standalone videos]({{ site.url_prefixes.youtube.playlist }}PLaO_HkPtJoP3uVqIIpmviNjvUpNGUMM-b) to cater binge watchers. Check out their stuff if you plan to ~~re~~watch the show.
+Thanks to [Muse Asia]({{ site.url_prefixes.youtube.playlist }}PLwLSw1_eDZl2SdSro00Nvg38MQUf-5ZL8), this anime is legally available on YouTube free of cost for most Asian countries. Also, they have made the first six arcs as [standalone videos]({{ site.url_prefixes.youtube.playlist }}PLaO_HkPtJoP3uVqIIpmviNjvUpNGUMM-b) to cater binge watchers. Check out their stuff if you plan to ~~re~~watch the show. For western audience, [Crunchyroll](https://www.crunchyroll.com/series/GY3VKX1MR/) provides the first 25 episodes of the series for free.
 
 _Anyway, what am I saying, we've just gotten started!_[^beginning]
 ![](/135-20-00.jpg)
