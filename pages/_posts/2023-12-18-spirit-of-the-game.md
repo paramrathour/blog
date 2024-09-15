@@ -82,7 +82,7 @@ Similar to the previous one as the situations are similar
 Batter's thought process
 : - If the intent is about getting an advantage by stepping out of the crease, then the batter should _respect_ the rule and be ready to face the consequences.
 - If there is no intent to get an advantage, then the batter should _respect_ the wicket-keeper's (fielder's) ideologies about run outs, which could be different from the batter.\
-The batter should wait for the [ball to become dead](https://www.lords.org/mcc/the-laws-of-cricket/dead-ball) before leaving the crease, akin to sprinters who take off only upon hearing the starting gun.
+The batter should wait for the [ball to become dead (Law 20.1)](https://www.lords.org/mcc/the-laws-of-cricket/dead-ball) before leaving the crease, akin to sprinters who take off only upon hearing the starting gun.
 
 Wicket-keeper's/Fielder's thought process
 : - They will have to ensure that if they intend to run the batter out then they should not try to create artificial situations (involving pausing or misleading) that doesn't _respect_ batters with no intent of stepping out.

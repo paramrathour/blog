@@ -153,7 +153,7 @@ In the mind, one's consciousness is just the tip of the iceberg.\
 What lies beneath the surface...the subconscious...is far more vast.\
 --- Shun Aonuma
 
-From the New World aka *Shin Sekai Yori*[^shinsekaiyoriwiki] tackles similar themes as Psycho-Pass, but in a fantasy setting where some people have magical powers. A key difference is in the judgement; instead of an objective and accurate method like above, <font color='red' ><b>FEAR</b></font> of a false negative takes over. Due to the magical system, the possibility of an individual's powers spiralling out of control always exist, which causes the judgment system to be more defensive, resulting in countless false positives. 
+From the New World aka *Shin Sekai Yori*[^shinsekaiyoriwiki] is another anime that aired in the same [anime season]({{ site.url_prefixes.myanimelist.anime }}/season/2012/fall) as Psycho-Pass. It tackled similar themes as Psycho-Pass, but in a fantasy setting where some people have magical powers. A key difference is in the judgement; instead of an objective and accurate method like above, <font color='red' ><b>FEAR</b></font> of a false negative takes over. Due to the magical system, the possibility of an individual's powers spiralling out of control always exist, which causes the judgment system to be more defensive, resulting in countless false positives. 
 
 The anime also presents a unique 'solution' to address the difference in power between individuals with magical abilities and those without, giving rise to a rich and complex philosophical discourse.
 
@@ -188,7 +188,7 @@ Moreover, it raises the fundamental question of whether it is truly possible to 
 --- Rintaro Okabe
 
 Steins;Gate delves into ideas related to __Free will__, questioning whether our choices are truly our own.
-It explores the themes of _Determinism_, which states all events are caused by actions external to the will, and _Fatalism_, which believes that all events are predetermined and, therefore inevitable. Through these, the story asks whether the characters have personal agency, i.e., control over their own life, even if their actions are limited by someone or something.
+It explores the themes of _Determinism_, which states that all events are caused by actions external to the will, and _Fatalism_, which believes that all events are predetermined and, therefore inevitable. Through these, the story asks whether the characters have personal agency, i.e., control over their own life, even if their actions are limited by someone or something.
 > Remembering something that no one else can is a painful thing.\
 You can't talk to anyone about it. No one will understand you. You'll be alone.\
 --- Rintaro Okabe
