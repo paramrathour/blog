@@ -4,7 +4,7 @@ title: "Land of the Lustrous"
 anime_code: 35557
 composer: Yoshiaki Fujisawa
 composer_code: 21505
-video_id: "4WzXIAzz1ZA"
+video_id: 4WzXIAzz1ZA
 year: 2017
 ---
 The [insane sound direction]({{ site.url_prefixes.youtube.video }}/_4QFF0gZrVo) in this anime made me realise how music is much more than just complexity. And yes, Erhu has quickly become one of my favourite instruments.\

@@ -4,7 +4,7 @@ title: "Re:ZERO -Starting Life in Another World-"
 anime_code: 31240
 composer: Kenichiro Suehiro
 composer_code: 39642
-video_id: "CI3CzBKkQeE"
+video_id: CI3CzBKkQeE
 year: 2024
 ---
 Well, I am cheating a bit here, as Re:ZERO's season 3 hasn't aired yet. But I am sure its OST will make it here.\

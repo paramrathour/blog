@@ -4,7 +4,7 @@ title: "Made in Abyss"
 anime_code: 34599
 composer: Kevin Penkin
 composer_code: 40530
-video_id: "KlN0EAILYwA"
+video_id: KlN0EAILYwA
 year: 2022
 ---
 Speaking of [The Apothecary Diaries]({{ site.url_prefixes.myanimelist.anime }}/54492), alright, I won't try another segue :D.\

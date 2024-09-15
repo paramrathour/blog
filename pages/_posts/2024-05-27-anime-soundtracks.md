@@ -36,7 +36,7 @@ Let's make some important announcements to ease your navigation.
 			{% assign last_decade = current_decade %}
 		{% endif %}
 		<h4 id="{{ abbreviation }}" >{{ current_year }}</h4>
-		{% include embed/youtube.html id=post.video_id %}	
+		{% include embed/youtube.html id=post.video_id %}
 		<dl>
 			<dt>Anime Name</dt>
 				<dd><a href="{{ site.url_prefixes.myanimelist.anime | append: '/' | append: post.anime_code }}">{{ post.title }}</a></dd>
