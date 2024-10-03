@@ -50,7 +50,7 @@ And there's more, this [episode 48]({{ page.url_fandom_hxh }}/Episode_48_(2011))
 _Episodes [1]({{ page.url_fandom_hxh }}/Episode_1_(2011)), [9]({{ page.url_fandom_hxh }}/Episode_9_(2011)), [23]({{ page.url_fandom_hxh }}/Episode_23_(2011)), [29]({{ page.url_fandom_hxh }}/Episode_29_(2011)), [84]({{ page.url_fandom_hxh }}/Episode_84_(2011))_
 A common theme before introducing a cast of characters is to share their silhouettes. From the shot of Hunters, the [Zoldycks]({{ page.url_fandom_hxh }}/Zoldyck_Family) and the [Heavens Arena]({{ page.url_fandom_hxh }}/Heavens_Arena) contestants to the shot of the [Troupe]({{ page.url_fandom_hxh }}/Phantom_Troupe), and the [Royal Guards]({{ page.url_fandom_hxh }}/Royal_Guards).
 
-Not only does this introduces us to these characters way before they actually appear (such as Kite, Morel or Knuckle) but they also give subtle cues for the attentive observer such as
+Not only does this introduces us to these characters way before they actually appear (such as [Kite]({{ page.url_fandom_hxh }}/Kite), [Morel]({{ page.url_fandom_hxh }}/Morel_Mackernasey) or [Knuckle]({{ page.url_fandom_hxh }}/Knuckle_Bine)) but they also give subtle cues for the attentive observer such as
 - [Hisoka]({{ page.url_fandom_hxh }}/Hisoka_Morow) at the right end of Troupe's picture adds more context to his presence in the Hunter exam and his final fight with [Kurapika]({{ page.url_fandom_hxh }}/Kurapika).
 - Killua holding hands with someone signifies a close relationship with the later introduced [Alluka]({{ page.url_fandom_hxh }}/Alluka_Zoldyck).
 
@@ -60,7 +60,7 @@ A silhouette of the King displaying his immense power before he is even born.
 #### Smoke
 ![](/043-19-084-09.jpg)
 _Episode [43]({{ page.url_fandom_hxh }}/Episode_43_(2011)), [84]({{ page.url_fandom_hxh }}/Episode_84_(2011))_
-Both [Uvogin]({{ page.url_fandom_hxh }}/Uvogin) and [Kite]({{ page.url_fandom_hxh }}/Kite) appear out of the smoke totally unharmed, which crushes the enemy's will.
+Both [Uvogin]({{ page.url_fandom_hxh }}/Uvogin) and Kite appear out of the smoke totally unharmed, which crushes the enemy's will.
 #### Mysterious × People
 ![](/021-17-043-16.jpg)
 _Episodes [21]({{ page.url_fandom_hxh }}/Episode_21_(2011)), [43]({{ page.url_fandom_hxh }}/Episode_43_(2011))_
@@ -127,7 +127,7 @@ After his fight with [Majtani]({{ page.url_fandom_hxh }}/Majtani), Kurapika desc
 _Episode [47]({{ page.url_fandom_hxh }}/Episode_47_(2011))_
 
 #### After × Exam
-![](/029-04-033-08.png)
+![](/029-04-033-08.jpg)
 _Episodes [29]({{ page.url_fandom_hxh }}/Episode_29_(2011)), [33]({{ page.url_fandom_hxh }}/Episode_33_(2011))_
 The unintentional uses don't stop even after the exam; I mean, why should they stop? :p\
 Continuing our Master Wing's [lesson](#wing), we also learnt that only a few people are capable of using Nen; these people are _geniuses_, leaders, _psychics_, and superhumans. But, observe that the background includes chefs and pianists, who can be considered as a type of _artist_. This clearly laid the foundation for future arcs as shown below for [Neon]({{ page.url_fandom_hxh }}/Neon_Nostrade), Zepile and [Komugi]({{ page.url_fandom_hxh }}/Komugi).
@@ -162,7 +162,7 @@ The characters of Gon and Uvogin (the eventual losers) share so much in common, 
 Now, let's see character-specific recurring fight techniques.
 ### Gon
 #### Scream
-![](/044-12-099-09.jpg)
+![](/044-12-099-05.jpg)
 _Episodes [44]({{ page.url_fandom_hxh }}/Episode_44_(2011)), [99]({{ page.url_fandom_hxh }}/Episode_99_(2011))_
 #### Catch
 ![](/069-21-083-15.jpg)
@@ -173,19 +173,21 @@ The speed of the rolling [armadillo]({{ page.url_fandom_hxh }}/Baro) isn't even 
 _Episodes [73]({{ page.url_fandom_hxh }}/Episode_73_(2011)), [83]({{ page.url_fandom_hxh }}/Episode_83_(2011))_
 Gon's practice to count to exactly one minute helped him in not only knowing when the gasoline card will materialise in his fight against [Genthru]({{ page.url_fandom_hxh }}/Genthru) but also helped him (and Killua) during Kite's scythe assault, which required him to jump after exactly three seconds.
 #### Crazy × Hands
-![](/074-082-090-099.jpg)
-_Episodes [74]({{ page.url_fandom_hxh }}/Episode_74_(2011)), [82]({{ page.url_fandom_hxh }}/Episode_82_(2011)), [90]({{ page.url_fandom_hxh }}/Episode_90_(2011)), [99]({{ page.url_fandom_hxh }}/Episode_99_(2011))_
-Fast moving hands, is this really a big deal?
+![](/072-074-082-090-099.jpg)
+_Episodes [72]({{ page.url_fandom_hxh }}/Episode_72_(2011)), [74]({{ page.url_fandom_hxh }}/Episode_74_(2011)), [82]({{ page.url_fandom_hxh }}/Episode_82_(2011)), [90]({{ page.url_fandom_hxh }}/Episode_90_(2011)), [99]({{ page.url_fandom_hxh }}/Episode_99_(2011))_
+Another practice session and another useful technique! Fast moving hands turned out to be really important.
 ### Killua
 #### Crazy × Hands
-Killua gets his fair share of crazy hands too!
-![](/025-032-034-082.jpg)
-_Episodes [25]({{ page.url_fandom_hxh }}/Episode_25_(2011)), [32]({{ page.url_fandom_hxh }}/Episode_32_(2011)), [34]({{ page.url_fandom_hxh }}/Episode_34_(2011)), [82]({{ page.url_fandom_hxh }}/Episode_82_(2011))_
-He is familiar with these hand movements due to [Gotoh]({{ page.url_fandom_hxh }}/Gotoh)'s coin games, which meant stopping [Riehlvelt]({{ page.url_fandom_hxh }}/Riehlvelt)'s whips was super easy. In the last picture, we see how Killua, too uses similar skills to defeat [Mosquito]({{ page.url_fandom_hxh }}/Mosquito).
+Killua gets his fair share of crazy hands too! But, Gon also learned from these.
+![](/025-034-069-082.jpg)
+_Episodes [25]({{ page.url_fandom_hxh }}/Episode_25_(2011)), [34]({{ page.url_fandom_hxh }}/Episode_34_(2011)), [69]({{ page.url_fandom_hxh }}/Episode_69_(2011)), [82]({{ page.url_fandom_hxh }}/Episode_82_(2011))_
+Gon is familiar with these hand movements due to [Gotoh]({{ page.url_fandom_hxh }}/Gotoh)'s coin games, which meant stopping [Riehlvelt]({{ page.url_fandom_hxh }}/Riehlvelt)'s whips was super easy. He also warned [Tsezgerra]({{ page.url_fandom_hxh }}/Tsezguerra) about the ball's location which helped him in avoiding a lethal blow. In the last picture, we see how Killua, too uses similar skills to defeat [Mosquito]({{ page.url_fandom_hxh }}/Mosquito).
 
+![](/032-11-06.jpg)
+_Episode [32]({{ page.url_fandom_hxh }}/Episode_32_(2011))_
 As a viewer, [Machi]({{ page.url_fandom_hxh }}/Machi_Komacine)'s insane Nen stitching was another callback to enjoy. But what else?
 #### Assassin-mode × Kill
-![](/011-18-043-07-051-15.png)
+![](/011-18-043-07-051-15.jpg)
 _Episodes [11]({{ page.url_fandom_hxh }}/Episode_11_(2011)), [43]({{ page.url_fandom_hxh }}/Episode_43_(2011)), [51]({{ page.url_fandom_hxh }}/Episode_51_(2011))_
 Killua rips out [Johness]({{ page.url_fandom_hxh }}/Johness)'s heart without him noticing. But Killua isn't satisfied due to the presence of blood; he mentions how his _old man_ would have done it without a drop of blood. Then we see [Chrollo]({{ page.url_fandom_hxh }}/Chrollo_Lucilfer) doing the deed against Neon, but there was a tiny amount of blood. And so this establishes that Chrollo isn't as powerful as Killua's old man ([Zeno]({{ page.url_fandom_hxh }}/Zeno_Zoldyck)), which ultimately is confirmed by Zeno, but he wasn't sure if Chrollo was serious about the fight.
 
@@ -205,9 +207,12 @@ In this section, we will focus on some non-basic techniques and their constant u
 _Episodes [30]({{ page.url_fandom_hxh }}/Episode_30_(2011)), [37]({{ page.url_fandom_hxh }}/Episode_37_(2011)), [104]({{ page.url_fandom_hxh }}/Episode_104_(2011))_
 Master Wing introduced the concept of promise thread with strange designs that breaks using aura. Later, we see its application in breaking the box given by Ging. These designs are even found on [Knov]({{ page.url_fandom_hxh }}/Knov)'s handcuffs but their purpose isn't clear.
 ### Puppets
+![](/065-16-10.jpg)
+_Episode [65]({{ page.url_fandom_hxh }}/Episode_65_(2011))_
+One of the most fascinating abilities in the world of H×H. The technical term for them is [Nen Beasts]({{ page.url_fandom_hxh }}/Nen#Nen_Beast) as referenced by [Abengane]({{ page.url_fandom_hxh }}/Abengane). But of course, we had seen this ability in action before, even if it didn't have a name back then!
 ![](/032-040-069-104-095-120.jpg)
 _Episodes [32]({{ page.url_fandom_hxh }}/Episode_32_(2011)), [40]({{ page.url_fandom_hxh }}/Episode_40_(2011)), [69]({{ page.url_fandom_hxh }}/Episode_69_(2011)), [95]({{ page.url_fandom_hxh }}/Episode_95_(2011)), [104]({{ page.url_fandom_hxh }}/Episode_104_(2011)), [120]({{ page.url_fandom_hxh }}/Episode_120_(2011))_
-One of the most fascinating abilities in the world of H×H. The technical term for them is [Nen Beasts]({{ page.url_fandom_hxh }}/Nen#Nen_Beast). We were introduced to the concept during the Hisoka vs [Kastro]({{ page.url_fandom_hxh }}/Kastro) fight. From there, we explored puppets of [Tocino]({{ page.url_fandom_hxh }}/Shachmono_Tocino) and Razor. But [Morel]({{ page.url_fandom_hxh }}/Morel_Mackernasey) was the M.V.P., he can not only create a lot of puppets but they are of _higher quality_ than any other puppets seen in the anime. Though quantity-wise, the royal guards are at a completely different level.
+We were introduced to the concept during the Hisoka vs [Kastro]({{ page.url_fandom_hxh }}/Kastro) fight. From there, we explored puppets of [Tocino]({{ page.url_fandom_hxh }}/Shachmono_Tocino) and Razor. But Morel was the M.V.P., he can not only create a lot of puppets but they are of _higher quality_ than any other puppets seen in the anime. Though quantity-wise, the royal guards are at a completely different level.
 ![](/086-14-105-13.jpg)
 _Episodes [86]({{ page.url_fandom_hxh }}/Episode_86_(2011)), [105]({{ page.url_fandom_hxh }}/Episode_105_(2011))_
 Also, an honourable mention for those puppets not intended for direct fights ft. Bisky and [Pitou]({{ page.url_fandom_hxh }}/Neferpitou).
@@ -223,7 +228,7 @@ On the other hand, there is [Pouf]({{ page.url_fandom_hxh }}/Shaiapouf), whose a
 > An interesting aspect of H×H's abilities is that they can be combined in unimaginable ways while effortlessly merging the basics.
 {: .prompt-tip}
 ![](/051-20-115-02.jpg)
-_Episodes [51]({{ page.url_fandom_hxh }}/Episode_51_(2011)), Episode [115]({{ page.url_fandom_hxh }}/Episode_115_(2011))_
+_Episodes [51]({{ page.url_fandom_hxh }}/Episode_51_(2011)), [115]({{ page.url_fandom_hxh }}/Episode_115_(2011))_
 This Indoor Fish is an ability involving _Nen beast_ which was _stolen_ by Chrollo, while [Ikalgo]({{ page.url_fandom_hxh }}/Ikalgo) acquired [Flutter]({{ page.url_fandom_hxh }}/Flutter)'s Dragonflies, which ultimately gave way to Pouf's creative bugs.
 ![](/125-07-50.jpg)
 _Episode [125]({{ page.url_fandom_hxh }}/Episode_125_(2011))_
@@ -236,10 +241,13 @@ _Episodes [44]({{ page.url_fandom_hxh }}/Episode_44_(2011)), [63]({{ page.url_fa
 We then met Melody with extraordinary hearing capabilities that can also influence the listener by playing various songs and [Binolt]({{ page.url_fandom_hxh }}/Binolt), who can learn physique-related information such as age, and potential for disease by eating hairs of the opponent.
 These give rise to Pouf's ability, 'Spiritual Message', which enables him to determine the psychological state of the opponent and induce a hypnotic effect by bringing his scales into contact with them.
 ### Storage
-![](/043-06-043-14-104-04.jpg)
-_Episodes [43]({{ page.url_fandom_hxh }}/Episode_43_(2011)), [104]({{ page.url_fandom_hxh }}/Episode_104_(2011))_
-[Owl]({{ page.url_fandom_hxh }}/Owl) had a cloth to shrink items. [Shizuku]({{ page.url_fandom_hxh }}/Shizuku_Murasaki)'s vacuum cleaner sucks any non-living objects, though only the last item can be regurgitated. 
-Meanwhile, Knov is chilling in another Nen dimension with his four-floor building with 21 rooms.
+![](/043-086-095.jpg)
+_Episodes [43]({{ page.url_fandom_hxh }}/Episode_43_(2011)), [86]({{ page.url_fandom_hxh }}/Episode_86_(2011)), [95]({{ page.url_fandom_hxh }}/Episode_95_(2011))_
+[Owl]({{ page.url_fandom_hxh }}/Owl) had a cloth to shrink items. [Shizuku]({{ page.url_fandom_hxh }}/Shizuku_Murasaki)'s vacuum cleaner sucks any non-living objects, though only the last item can be regurgitated.
+Then there is [Shoot]({{ page.url_fandom_hxh }}/Shoot_McMahon) who can turn small objects into imprints or can potentially seal off their target's entire body.
+![](/103-14-104-04.jpg)
+_Episodes [103]({{ page.url_fandom_hxh }}/Episode_103_(2011)), [104]({{ page.url_fandom_hxh }}/Episode_104_(2011))_
+Meanwhile, Shoot's master, Knov is chilling in another Nen dimension with his four-floor building with 21 rooms while Cheetu is anything but chill when he has nothing to do in his Nen dimension.
 ## Ideas
 This part mostly deals with examples that rely on implanting ideas upon viewers that are not necessarily about the technicalities of fighting.
 > An example would be to call out the one-sided nature of most major fights in H×H. Even then, it is not easy to figure out the winner, as Nen fights are not just about sheer strength. Think about it!
@@ -269,15 +277,19 @@ Teaming up with the villains is so cool, I wished more anime did this.
 _Episodes [16]({{ page.url_fandom_hxh }}/Episode_16_(2011)), [18]({{ page.url_fandom_hxh }}/Episode_18_(2011)), [91]({{ page.url_fandom_hxh }}/Episode_91_(2011)), [116]({{ page.url_fandom_hxh }}/Episode_116_(2011))_
 We see the brutal display of Gon's emotions when he had to owe one to Hisoka or when he lost to Knuckle due to him being _weak_. He also had a similar stance to denote the feeling of anguish against Hisoka and Pitou. In the first case, Hisoka refused to accept take back his badge and in the second case, Pitou refused to fight Gon due to the Komugi situation.
 ### Disguise
-![](/020-11-058-21.jpg)
 ![](/022-16-148-21.jpg)
-_Episodes [20]({{ page.url_fandom_hxh }}/Episode_20_(2011)), [22]({{ page.url_fandom_hxh }}/Episode_22_(2011)), [58]({{ page.url_fandom_hxh }}/Episode_58_(2011)), [148]({{ page.url_fandom_hxh }}/Episode_148_(2011))_
-[Kiriko]({{ page.url_fandom_hxh }}/Kiriko)'s disguise was in action in the second episode and also in the last episode. And guess what, Kiriko replaces Gotoh, a butler of the _Zoldyck_ family who stressed the importance of safety against threats involving disguise, to Gon. And, we see that Illumi _Zoldyck_ is quite skilful in changing his appearances to Gittarackur and Hisoka.
+_Episodes [22]({{ page.url_fandom_hxh }}/Episode_22_(2011)), [148]({{ page.url_fandom_hxh }}/Episode_148_(2011))_
+[Kiriko]({{ page.url_fandom_hxh }}/Kiriko)'s disguise was in action in the second episode and also in the last episode. And guess what, Kiriko replaces Gotoh, a butler of the _Zoldyck_ family who stressed the importance of safety against threats involving disguise, to Gon.
+![](/020-11-058-21.jpg)
+_Episodes [20]({{ page.url_fandom_hxh }}/Episode_20_(2011)), [58]({{ page.url_fandom_hxh }}/Episode_58_(2011))_
+And, we see that Illumi, another _Zoldyck_, is quite skilful in changing his appearances to Gittarackur and Hisoka.
 ### Self-Destruction × Prevention
-![](/030-09-074-07.jpg)
+![](/023-030-074-095.jpg)
+_Episodes [23]({{ page.url_fandom_hxh }}/Episode_23_(2011)), [30]({{ page.url_fandom_hxh }}/Episode_30_(2011)), [74]({{ page.url_fandom_hxh }}/Episode_74_(2011)), [95]({{ page.url_fandom_hxh }}/Episode_95_(2011))_
+While Killua was mostly self-aware to avoid fighting with stronger opponents (thanks to [Illumi]({{ page.url_fandom_hxh }}/Illumi_Zoldyck)), Gon wasn't, as we saw in his careless fights against [Gido]({{ page.url_fandom_hxh }}/Gido) and Genthru, or the way he let [Canary]({{ page.url_fandom_hxh }}/Canary) and Kite brutally beat him.
 ![](/050-16-085-10.jpg)
-_Episodes [30]({{ page.url_fandom_hxh }}/Episode_30_(2011)), [50]({{ page.url_fandom_hxh }}/Episode_50_(2011)), [74]({{ page.url_fandom_hxh }}/Episode_74_(2011)), [85]({{ page.url_fandom_hxh }}/Episode_85_(2011))_
-While Killua was mostly self-aware to avoid fighting with stronger opponents (thanks to [Illumi]({{ page.url_fandom_hxh }}/Illumi_Zoldyck)), Gon wasn't, as we saw in his careless fights against [Gido]({{ page.url_fandom_hxh }}/Gido) and Genthru. So, Killua prevented Gon's self-destruction during their first meeting with Pitou in a similar way to Gon beating him when they were trapped with [Nobunaga]({{ page.url_fandom_hxh }}/Nobunaga_Hazama).
+_Episodes [50]({{ page.url_fandom_hxh }}/Episode_50_(2011)), [85]({{ page.url_fandom_hxh }}/Episode_85_(2011))_
+So, Killua prevented Gon's self-destruction during their first meeting with Pitou in a similar way to Gon beating him when they were trapped with [Nobunaga]({{ page.url_fandom_hxh }}/Nobunaga_Hazama).
 ### Walking × Between × Opponents
 ![](/034-05-112-21.jpg)
 _Episodes [34]({{ page.url_fandom_hxh }}/Episode_34_(2011)), [112]({{ page.url_fandom_hxh }}/Episode_112_(2011))_
