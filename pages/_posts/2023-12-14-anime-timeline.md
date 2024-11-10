@@ -30,6 +30,26 @@ Choose those dates when
 ### The Forgotten Past
 Back in 2018, I didn't use to track these dates. Also while creating this timeline, I realised I have lost some random dates. To handle such cases, I have chosen the last day of the month I likely 'completed' the show.
 
+### Anime Grid
+One last thing: here are my favourite moments from each anime I have watched. Well, not quite all of them, as the number has been rounded down to the nearest perfect square to fit the grid. But don't worry, these are spoiler-free to look at without context.
+> The closer an anime is to the center, the closer it is to my heart ε>
+{: .prompt-tip}
+
+![](/anime-grid.jpg)
+<div>
+  <div class="d-flex justify-content-between hide-border-bottom">
+    <a href="#grid-1" data-bs-toggle="collapse" aria-expanded="false" aria-label="h_0-trigger" class="hide-border-bottom">
+      <i class="fa-fw fas fa-exclamation-triangle"></i>
+      View anime names
+      <i class="fas fa-fw fa-angle-down"></i>
+    </a>
+  </div>
+  <div id="grid-1" class="collapse" aria-expanded="false">
+    <iframe src="{{ site.cdn }}/anime-grid.txt" width="100%"></iframe>
+  </div>
+</div>
+If you are curious about how I created these high-resolution image grids, feel free to check out this [little repository]({{ site.url_prefixes.github.param }}/image-grid-generator).
+
 ## Timeline
 I probably overdid my explanations. Anyway, with no further ado, here's the timeline!
 

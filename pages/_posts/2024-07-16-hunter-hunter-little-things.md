@@ -26,13 +26,17 @@ Ideas are built up from seemingly mundane moments but are then reused at importa
 
 It also helps that such ideas are not lost and in fact, many such ideas are consistently utilised to make developments. Such consistent use of ideas is what I will highlight in this post.
 
+> Thanks to [Muse Asia]({{ site.url_prefixes.youtube.playlist }}PLwLSw1_eDZl2SdSro00Nvg38MQUf-5ZL8), this anime is legally available on YouTube free of cost for most Asian countries. Also, they have made the first six arcs as [standalone videos]({{ site.url_prefixes.youtube.playlist }}PLaO_HkPtJoP3uVqIIpmviNjvUpNGUMM-b) to cater binge watchers. Check out their stuff if you plan to ~~re~~watch the show. For western audience, [Crunchyroll](https://www.crunchyroll.com/series/GY3VKX1MR/) provides the first 25 episodes of the series for free.
+{: .prompt-info}
+
+Before delving into specifics, let's start with my favourite example which actually comes from one of the lowest rated episodes of H×H on [IMDb](https://www.imdb.com/title/tt2098220/episodes).
 > From now onwards, this post will dive into spoiler territory. So, come back after watching 148 episodes of this anime. Just kidding :p, feel free to do what you want.
 {: .prompt-warning}
 
-Before delving into specifics, let's start with my favourite example which actually comes from one of the lowest rated episodes of H×H on [IMDb](https://www.imdb.com/title/tt2098220/episodes).
 ![](/048-12.jpg)
 _Episode [48]({{ page.url_fandom_hxh }}/Episode_48_(2011))_
 <!-- | ![](/048-11-11.jpg) _Episode [48]({{ page.url_fandom_hxh }}/Episode_48_(2011))_ | ![](/048-12-22.jpg) _Episode [48]({{ page.url_fandom_hxh }}/Episode_48_(2011))_ | -->
+
 [Gon]({{ page.url_fandom_hxh }}/Gon_Freecss) and [Killua]({{ page.url_fandom_hxh }}/Killua_Zoldyck) stumble upon this "worthless" wooden statue in search of rare items to earn money. [Zepile]({{ page.url_fandom_hxh }}/Zepile) an appraiser, helps them to avoid getting scammed and teaches them about a counterfeiting technique called _ostomy_, which is creating an opening from an area inside the body to the outside. Now, when the duo was stuck in a guarded room, look what the boys did :)
 ![](/050-18.jpg)
 _Episode [50]({{ page.url_fandom_hxh }}/Episode_50_(2011))_
@@ -134,8 +138,8 @@ Continuing our Master Wing's [lesson](#wing), we also learnt that only a few peo
 ![](/041-13-048-05-108-12.jpg)
 _Episodes [41]({{ page.url_fandom_hxh }}/Episode_41_(2011)), [48]({{ page.url_fandom_hxh }}/Episode_48_(2011)), [108]({{ page.url_fandom_hxh }}/Episode_108_(2011))_
 Here, we also witness the curious case of [Ben's knife]({{ page.url_fandom_hxh }}/Ben's%20knives), which is later seen during Chrollo's fight. It also hinted at the possibility of Nen being attached to objects even after the user's death, nicely setting up plot points for [the next arc]({{ page.url_fandom_hxh }}/Greed_Island).
-![](/048-03-052-16.jpg)
-_Episodes [48]({{ page.url_fandom_hxh }}/Episode_48_(2011)), [52]({{ page.url_fandom_hxh }}/Episode_52_(2011))_
+![](/052-16-30.jpg)
+_Episode [52]({{ page.url_fandom_hxh }}/Episode_52_(2011))_
 
 ##### Bisky
 ![](/044-059-063.jpg)
@@ -306,8 +310,6 @@ _Episode [135]({{ page.url_fandom_hxh }}/Episode_135_(2011))_
 {: .prompt-tip}
 ## Conclusion
 Hopefully, I delivered my point. There's a lot more to say about this series, from the story dynamics and the character development, to the foreshadowing[^filmbuff] and the themes[^aleczandxr] of the show. But I believe there are people who are better at this job.
-
-Thanks to [Muse Asia]({{ site.url_prefixes.youtube.playlist }}PLwLSw1_eDZl2SdSro00Nvg38MQUf-5ZL8), this anime is legally available on YouTube free of cost for most Asian countries. Also, they have made the first six arcs as [standalone videos]({{ site.url_prefixes.youtube.playlist }}PLaO_HkPtJoP3uVqIIpmviNjvUpNGUMM-b) to cater binge watchers. Check out their stuff if you plan to ~~re~~watch the show. For western audience, [Crunchyroll](https://www.crunchyroll.com/series/GY3VKX1MR/) provides the first 25 episodes of the series for free.
 
 _Anyway, what am I saying, we've just gotten started!_[^beginning]
 ![](/135-20-00.jpg)
