@@ -14,7 +14,9 @@ I want to keep things simple -- one franchise, one entry.
 ## Personal Insights
 I am no critic, but who doesn't like to share thoughts? To get a real deep dive into my experiences, I am sharing my two cents (mostly spoiler-free) on each anime.
 
-Hover/Click on the comments icon to uncover these insights. Mobile users may need to rotate their device to landscape mode to read comments for longer titles.
+Hover/Click on the comments icon to uncover these insights.
+> Mobile users may need to rotate their device to landscape mode to read comments for longer titles.
+{: .prompt-tip }
 
 These thoughts generally apply to the entirety of the anime, but in few cases, I have categorized my thoughts by seasons, especially where I felt a need due to varying opinions across each season.
 
@@ -30,12 +32,12 @@ Choose those dates when
 ### The Forgotten Past
 Back in 2018, I didn't use to track these dates. Also while creating this timeline, I realised I have lost some random dates. To handle such cases, I have chosen the last day of the month I likely 'completed' the show.
 
-### Anime Grid
+## Anime Grid
 One last thing: here are my favourite moments from each anime I have watched. Well, not quite all of them, as the number has been rounded down to the nearest perfect square to fit the grid. But don't worry, these are spoiler-free to look at without context.
 > The closer an anime is to the center, the closer it is to my heart ε>
 {: .prompt-tip}
 
-![](/anime-grid.jpg)
+![Anime Grid](/anime-grid.jpg)
 <div>
   <div class="d-flex justify-content-between hide-border-bottom">
     <a href="#grid-1" data-bs-toggle="collapse" aria-expanded="false" aria-label="h_0-trigger" class="hide-border-bottom">
@@ -91,3 +93,7 @@ I probably overdid my explanations. Anyway, with no further ado, here's the time
 </div>
 > I will keep updating this timeline whenever I watch more anime.
 {: .prompt-info }
+
+## Tier List
+Also, here is a tier list, just for fun (with no captions :)
+![Anime Tier List](/anime-tier-list.jpg)

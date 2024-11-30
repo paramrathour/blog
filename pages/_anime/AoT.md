@@ -5,7 +5,7 @@ code: 16498
 ---
 Season 1: This is amazing\
 \
-OVA 2: 'No Regrets' is surprisingly good!\
+OVA 2: Have 'No Regrets' watching this one\
 \
 Season 2: glad I rewatched it, you will know you're reborn tonight.\
 \
