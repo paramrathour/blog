@@ -2,7 +2,7 @@
 title: Celebrating 25 Years of Anime Soundtracks
 description: "Looking back on awesome composers and their amazing music"
 categories: [Animanga, Timeline]
-tags: [anime, music, timeline, featured-content]
+tags: [animanga, anime, music, timeline, featured-content]
 date: 2024-05-27 20:51 +0530
 ---
 ## Introduction

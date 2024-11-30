@@ -2,7 +2,7 @@
 title: Hunter × Hunter × Little × Things
 description: "The little things that make H×H great"
 categories: [Animanga]
-tags: [anime]
+tags: [animanga, anime]
 date: 2024-07-16 01:33 +0530
 media_subpath: /hxh/
 image: logo.jpg

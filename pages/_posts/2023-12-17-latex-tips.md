@@ -2,8 +2,8 @@
 layout: post
 title: LaTeX Tips
 description: "Newbie's roadmap: getting started with resources to the ultimate setup!"
-categories: [Programming]
-tags: [latex, programming, tutorial, tips, sos]
+categories: [Computer Science, Programming]
+tags: [latex, computer-science, programming, tutorial, tips, sos]
 date: 2023-12-17 08:21 +0530
 math: true
 pin: true
