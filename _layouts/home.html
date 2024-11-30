@@ -5,51 +5,46 @@ refactor: true
 
 {% include lang.html %}
 
-{% assign pinned = site.posts | where: 'pin', 'true' %}
-{% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
+{% assign all_pinned = site.posts | where: 'pin', 'true' %}
+{% assign all_normal = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
+
 {% assign posts = '' | split: '' %}
 
-{% if site.paginator_enable %}
+<!-- Get pinned posts on current page -->
 
-  <!-- Get pinned posts -->
+{% assign visible_start = paginator.page | minus: 1 | times: paginator.per_page %}
+{% assign visible_end = visible_start | plus: paginator.per_page %}
 
-  {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
-  {% assign pinned_num = pinned.size | minus: offset %}
-
-  {% if pinned_num > 0 %}
-    {% for i in (offset..pinned.size) limit: pinned_num %}
-      {% assign posts = posts | push: pinned[i] %}
-    {% endfor %}
+{% if all_pinned.size > visible_start %}
+  {% if all_pinned.size > visible_end %}
+    {% assign pinned_size = paginator.per_page %}
   {% else %}
-    {% assign pinned_num = 0 %}
+    {% assign pinned_size = all_pinned.size | minus: visible_start %}
   {% endif %}
 
-  <!-- Get default posts -->
-
-  {% assign default_beg = offset | minus: pinned.size %}
-
-  {% if default_beg < 0 %}
-    {% assign default_beg = 0 %}
-  {% endif %}
-
-  {% assign default_num = paginator.posts | size | minus: pinned_num %}
-  {% assign default_end = default_beg | plus: default_num | minus: 1 %}
-
-  {% if default_num > 0 %}
-    {% for i in (default_beg..default_end) %}
-      {% assign posts = posts | push: default[i] %}
-    {% endfor %}
-  {% endif %}
-
+  {% for i in (visible_start..all_pinned.size) limit: pinned_size %}
+    {% assign posts = posts | push: all_pinned[i] %}
+  {% endfor %}
 {% else %}
+  {% assign pinned_size = 0 %}
+{% endif %}
 
-  {% for i in (0..pinned.size) limit: pinned.size %}
-    {% assign posts = posts | push: pinned[i] %}
-  {% endfor %}
-  {% for i in (0..default.size) limit: default.size %}
-    {% assign posts = posts | push: default[i] %}
-  {% endfor %}
+<!-- Get normal posts on current page -->
 
+{% assign normal_size = paginator.posts | size | minus: pinned_size %}
+
+{% if normal_size > 0 %}
+  {% if pinned_size > 0 %}
+    {% assign normal_start = 0 %}
+  {% else %}
+    {% assign normal_start = visible_start | minus: all_pinned.size %}
+  {% endif %}
+
+  {% assign normal_end = normal_start | plus: normal_size | minus: 1 %}
+
+  {% for i in (normal_start..normal_end) %}
+    {% assign posts = posts | push: all_normal[i] %}
+  {% endfor %}
 {% endif %}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
@@ -111,7 +106,6 @@ refactor: true
                 <!-- date last modified -->
                 <i class="far fa-pen-to-square fa-fw me-1"></i>
                 {% include datetime.html date=post.last_modified_at lang=lang %}
-
               </div>
 
               {% if post.pin %}
@@ -130,7 +124,6 @@ refactor: true
   {% endfor %}
 </div>
 <!-- #post-list -->
-
 {% if site.paginator_enable %}
   {% if paginator.total_pages > 1 %}
     {% include post-paginator.html %}
