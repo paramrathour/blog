@@ -51,7 +51,7 @@ And many more!
 Once you get a good grasp of $$\LaTeX$$, go for an offline setup.
 
 I use Sublime Text with `LaTeXTools`, `LaTeXYZ` and `LaTeX-cwl` packages to speed up writing.
-![sublime-text-latex-math-render](/sublime-text-latex-math-render.gif){: w="100%"}
+![sublime-text-latex-math-render](/sublime-text-latex-math-render.gif)
 _Gaussian function of a normally distributed random variable with expected value $$=\mu$$ and standard deviation $$=\sigma$$_
 ### Benefits
 - Keyboard Shortcuts
@@ -108,16 +108,16 @@ $$ \sqrt{\frac{\pi e}{2}}= \cfrac{1}{1+{\cfrac{1}{1+{\cfrac{2}{1+{\cfrac{3}{1+{ 
 {{ temp_post.content }}
 ```
 ### Pseudocode using `algorithm2e`
-![Random k-SAT problem generation](/random-k-sat-pseudocode-light.svg){: .light w="100%"}
-![Random k-SAT problem generation](/random-k-sat-pseudocode-dark.svg){: .dark w="100%"}
+![Random k-SAT problem generation](/random-k-sat-pseudocode-light.svg){: .light}
+![Random k-SAT problem generation](/random-k-sat-pseudocode-dark.svg){: .dark}
 _Pseudocode to generate a random $$k$$-SAT problem using `SageMath`_
 {% assign temp_post = site.latex | where: 'slug', 'pseudocode-using-algorithm2e' | first %}
 ```latex
 {{ temp_post.content }}
 ```
 ### Code Highlighting using `minted`
-![Principal Component Analysis](/principal-component-analysis-light.svg){: .light w="100%"}
-![Principal Component Analysis](/principal-component-analysis-dark.svg){: .dark w="100%"}
+![Principal Component Analysis](/principal-component-analysis-light.svg){: .light}
+![Principal Component Analysis](/principal-component-analysis-dark.svg){: .dark}
 _Dimensionality Reduction using Principal Component Analysis in `python`_
 {% assign temp_post = site.latex | where: 'slug', 'code-highlighting-using-minted' | first %}
 ```latex
@@ -125,32 +125,32 @@ _Dimensionality Reduction using Principal Component Analysis in `python`_
 ```
 ### `TikZ` applications
 #### Molecular Orbital Diagrams using `modiagram`
-![Molecular Orbital Diagram](/molecular-orbital-diagram-light.svg){: .light w="100%"}
-![Molecular Orbital Diagram](/molecular-orbital-diagram-dark.svg){: .dark w="100%"}
+![Molecular Orbital Diagram](/molecular-orbital-diagram-light.svg){: .light}
+![Molecular Orbital Diagram](/molecular-orbital-diagram-dark.svg){: .dark}
 _Molecular Orbital Diagram for Nitric Oxide_
 {% assign temp_post = site.latex | where: 'slug', 'molecular-orbital-diagrams-using-modiagram' | first %}
 ```latex
 {{ temp_post.content }}
 ```
 #### Parse Trees using `tikz-qtree`
-![Parse Tree](/parse-tree-light.svg){: .light w="100%"}
-![Parse Tree](/parse-tree-dark.svg){: .dark w="100%"}
+![Parse Tree](/parse-tree-light.svg){: .light}
+![Parse Tree](/parse-tree-dark.svg){: .dark}
 _Parse Tree for $$ \varphi = (r \rightarrow \neg s) \lor \neg(p \rightarrow (\neg q \lor (r \land (p \rightarrow (s \lor r)))))$$_
 {% assign temp_post = site.latex | where: 'slug', 'parse-trees-using-tikz-qtree' | first %}
 ```latex
 {{ temp_post.content }}
 ```
 #### Electrical Circuits using `circuitikz`
-![npn transistor used as an amplifier](/npn-transistor-amplifier-light.svg){: .light w="100%"}
-![npn transistor used as an amplifier](/npn-transistor-amplifier-dark.svg){: .dark w="100%"}
+![npn transistor used as an amplifier](/npn-transistor-amplifier-light.svg){: .light}
+![npn transistor used as an amplifier](/npn-transistor-amplifier-dark.svg){: .dark}
 _npn transistor used as an amplifier_
 {% assign temp_post = site.latex | where: 'slug', 'electrical-circuits-using-circuitikz' | first %}
 ```latex
 {{ temp_post.content }}
 ```
 ### Fitch Proofs using `logicproof`
-![Fitch Proofs for Propositional Logic](/fitch-proof-propositional-logic-light.svg){: .light w="100%"}
-![Fitch Proofs for Propositional Logic](/fitch-proof-propositional-logic-dark.svg){: .dark w="100%"}
+![Fitch Proofs for Propositional Logic](/fitch-proof-propositional-logic-light.svg){: .light}
+![Fitch Proofs for Propositional Logic](/fitch-proof-propositional-logic-dark.svg){: .dark}
 _Fitch Proof of $$\vdash p \rightarrow (q \rightarrow p)$$_
 
 {% assign temp_post = site.latex | where: 'slug', 'fitch-proofs-using-logicproof' | first %}
