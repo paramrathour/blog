@@ -76,6 +76,9 @@ The EE office is also notorious for alloting TAship duties outside of your prefe
 Very boring another year at IITB
 : Well, you are going to be in for a very boring final year. Your B.Tech. friends would've already graduated and the probably the only thing for you to do during your final year would be to work on your DDP, sitting in your guide's lab or grade your tutees assignments/exams.
 
+Prejudice towards DD students
+: This one is more about what others think of DD students than it being a con, sometimes, I found it hard to explain this decision to people who were heavily prejudiced about it because of JEE rank cut-offs.
+
 ## Logistics
 ### Before conversion
 #### Choosing the Specialisation
@@ -104,7 +107,7 @@ You will still need to do few things by your own like
 	- visit the security section, fill up a form and click a picture (take care that the shirt colour should not match the background)
 - redo your biometric authentication on the new ID-card
 	- visiting the operator's room at the top floor of LHC-3
-	- this will come handy as your will be required to put daily attendance at EE office
+	- this will come handy as you will be required to put daily attendance at EE office
 - renewing library card access
 	- visit library and tell them to update your details
 - managing hostel accommodation for 4<sup>th</sup> year summers
@@ -113,7 +116,7 @@ You will still need to do few things by your own like
 Apart from these _little things_, here are some more details that will be useful.
 #### Tagging
 - At IITB, students can re-tag courses twice during their undergraduate programme: once at the start of the 7<sup>th</sup> semester and again before convocation.\
-Normally DD students utilise their first re-tagging window either during the vacations after 8<sup>th</sup> semester or duringn the 9<sup>th</sup> semester.\
+Normally DD students utilise their first re-tagging window either during the vacations after 8<sup>th</sup> semester or during the 9<sup>th</sup> semester.\
 However, students who re-tagged courses before converting to a DD cannot do so again until the final window before convocation.
 - For B.Tech. students, Honours Electives (O) count only towards the Honours CPI, not the primary CPI. But the DD programmes treat Honours Electives as regular Department Electives (D), and so contributing to the primary CPI.\
 Re-tagging of such courses can lead to changes in SPI and CPI after conversion to a DD programme.
@@ -126,7 +129,9 @@ After converting to DD, you might wonder about the end result; i.e., the degrees
 Though, there are two degrees, you can only get them after completion of entire integrated DD curriculum and the fact that you were a part of DD programme will be mentioned in both of your degrees.
 
 ## Conclusion
-
+And that's a wrap! I hope this has provided you with more clarity, ultimately the decision depends on what you value more.\
+Anyway, we wish you all the best in making the most of your academic journey at IITB.\
+For more questions, you can either comment down below or reach out to me/[Anubhav](https://anubhavbhatla.github.io/) via any of the platforms mentioned at the bottom of the sidebar.
 ## External Links
 [^UGrulebook]: [Indian Institute of Technology Bombay, "Rules & Regulations for Undergraduate Programmes"](https://www.iitb.ac.in/newacadhome/ugrulebook.pdf)
 [^programmerequirements]: [Dual Degree EE, "Course Structure"](https://www.ee.iitb.ac.in/web/academics/dual-degree/)
