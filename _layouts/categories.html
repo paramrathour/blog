@@ -104,13 +104,14 @@ layout: page
         <div id="{{ LIST_PREFIX }}{{ group_index }}" class="collapse show" aria-expanded="true">
           <ul class="list-group">
             {% for sub_category in sub_categories %}
+              {% assign sub_category_name_slugify = sub_category | slugify %}
               <li class="list-group-item">
                 <i class="far fa-folder fa-fw"></i>
 
                 {% capture _sub_ctg_url %}/tags/{{ sub_category | slugify | url_encode }}/{% endcapture %}
                 <a href="{{ _sub_ctg_url | relative_url }}" class="mx-2">{{ sub_category }}</a>
 
-                {% assign posts_size = site.categories[sub_category] | size %}
+                {% assign posts_size = site.tags[sub_category_name_slugify] | size %}
                 <span class="text-muted small font-weight-light">
                   {{ posts_size }}
 
