@@ -14,6 +14,26 @@ I don't classify myself as an avid manga reader, my usual go-to is checking out 
 ## Personal Insights
 Like before, you can hover/click on the comments icon to uncover my thoughts (mostly spoiler-free) on each manga. Mobile users may need to rotate their device to landscape mode to read comments for longer titles.
 
+## Manga Grid
+One last thing: Similar to my anime timeline, I have tried to make an image grid containing my favourite moments from manga as well. But, not every manga panel have similar dimensions. To smoothly automate the process, I have restricted myself to include only double-page spreads, which are typically more _spoilery_ than out-of-context anime screenshots. So, check out the grid at your own discretion :)
+> And of course, the closer a manga is to the center, the closer it is to my heart ε>. Wait! Unlike anime, I haven't experienced as many manga, so it might not make much sense right now, but hopefully, one day it will ;)
+{: .prompt-tip}
+
+![Manga Grid](/manga-grid.jpg)
+<div>
+  <div class="d-flex justify-content-between hide-border-bottom">
+    <a href="#grid-1" data-bs-toggle="collapse" aria-expanded="false" aria-label="h_0-trigger" class="hide-border-bottom">
+      <i class="fa-fw fas fa-exclamation-triangle"></i>
+      View Manga names
+      <i class="fas fa-fw fa-angle-down"></i>
+    </a>
+  </div>
+  <div id="grid-1" class="collapse" aria-expanded="false">
+    <iframe src="{{ site.cdn }}/manga-grid.txt" width="100%"></iframe>
+  </div>
+</div>
+If you are curious about how I created these high-resolution image grids, feel free to check out this [little repository]({{ site.url_prefixes.github.param }}/image-grid-generator).
+
 ## Timeline
 Alright, let's dive right in!
 

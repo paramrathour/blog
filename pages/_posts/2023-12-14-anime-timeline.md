@@ -5,7 +5,6 @@ categories: [Animanga, Timeline]
 tags: [animanga, anime, timeline]
 date: 2023-12-14 07:59:05 +05:30
 ---
-
 ## Motivation
 While popular platforms like [Anilist](https://anilist.co/user/wrath3435/animelist) or [MyAnimeList](https://myanimelist.net/animelist/wrath3435) serve as valuable tools for anime tracking, they love to repeat stuff. There are separate entries for each season, part, cour, movie, OVA, ... you name it.
 
@@ -33,7 +32,7 @@ Choose those dates when
 Back in 2018, I didn't use to track these dates. Also while creating this timeline, I realised I have lost some random dates. To handle such cases, I have chosen the last day of the month I likely 'completed' the show.
 
 ## Anime Grid
-One last thing: here are my favourite moments from each anime I have watched. Well, not quite all of them, as the number has been rounded down to the nearest perfect square to fit the grid. But don't worry, these are spoiler-free to look at without context.
+One last thing: Here are my favourite moments from each anime I have watched. Well, not quite all of them, as the number has been rounded down to the nearest perfect square to fit the grid. But don't worry, these are spoiler-free to look at without context.
 > The closer an anime is to the center, the closer it is to my heart ε>
 {: .prompt-tip}
 
