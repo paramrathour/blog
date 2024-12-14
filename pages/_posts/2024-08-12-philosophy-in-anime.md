@@ -292,7 +292,11 @@ So you see, the relationship is mutually beneficial for both parties.\
 On the surface level, Madoka★Magica[^madokamagica] is a show about magical girls battling 'witches' who bring upon people despair. It features young girls who gain extraordinary powers from Kyubey in exchange for a single wish. However, it is later revealed that Kyubey is a member of an advanced alien species known as the Incubators, whose ulterior motive is to delay the [heat death of the universe]({{ site.url_prefixes.wikipedia }}/Heat_death_of_the_universe) by harnessing the emotions of these magical girls. To the Incubators, humans are not unique; they are merely tools to achieve a greater cosmic purpose, much like how we utilise livestock.
 This is ultimately a noble cause, but we see how humanity _struggles to accept its own insignificance_ in the grand scheme of things and how it antagonises the idea of anti-anthropocentrism that humans are just one of many forms of life, who are all subject to the same indifferent forces like _entropy_ that govern the entire universe.
 ## Conclusion
-The purpose of this blog was to highlight through anime, the idea of thinking more deeply about life and what it all means. Additionally, it serves as a recommendation list of some highly entertaining shows. I hope you had a fun time reading this stupidly long post and got something valuable from it.
+The purpose of this blog was to highlight through anime, the idea of thinking more deeply about life and what it all means. I hope you had a fun time reading this stupidly long post and got something valuable from it.
+> Additionally, this blog serves as a recommendation list of some highly entertaining shows. If you are looking to get started with philosophy, I highly suggest _Kino's Journey_ (2003).
+![](/kinos-journey-the-beautiful-world.jpg)
+{: .prompt-tip}
+
 ## External Links
 [^loveisdiscrimination]: [Love is Discrimination -- K. Sreeman Reddy](https://ksr.onl/blog/2024/07/love-is-discrimination.html)
 [^vinlandsagawiki]: [Vinland Saga Wiki -- Fandom](https://vinlandsaga.fandom.com/wiki/)
