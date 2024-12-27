@@ -256,7 +256,7 @@ Humans are here...on the tip of the middle finger, farthest from the heart.\
 The farther you go down on your palm from there, the lower the life forms become.\
 Microorganisms are around your wrist, where your blood vessels combine into one.\
 Yet, there is life still past this point...\
-Go up your arm...and past you shoulder...\
+Go up your arm...and past your shoulder...\
 And the life...that is around your heart...is 'Mushi'.\
 --- Ginko
 
