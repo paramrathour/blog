@@ -10,13 +10,13 @@ pin: true
 {: .prompt-info}
 ## Introduction
 I have watched quite a lot of anime, nearly touching the three-figure mark. Yet, only a select few have left a lasting impression. These are the stories that resonate deeply with my thought process, the ones that I find myself to keep coming back to during difficult times. Such stories often offer meaningful lessons for humanity by exploring the intricacies of society and human nature.
-Of course, philosophy is not confined to anime alone. There are stories across all media that will force us to think and reflect upon ourselves.
+Of course, philosophy is not confined to anime alone; there are stories across all media that will force us to think and reflect upon ourselves.
 > To discuss this in detail, I will touch upon the major themes of each show to highlight their philosophical aspects. So, this blog is definitely not spoiler-free, but I have tried to minimise them.
 <!-- > Lastly, to discuss in detail, I will have to include major themes of the show to shed light on its philosophical aspects. Though, I have tried to only give a high-level overview. These are definitely spoilers of the shows. So, You have been warned! -->
 {: .prompt-warning}
 ### Organisation
 This blog is divided into four sections: the first section focuses on the individual philosophies that people adopt for their way of living, while the later sections zoom out to look at society as a whole, and the last section culminates in posing the existential question without which this blog would be incomplete, "What does it mean to be 'human'?"
-> Don't worry much about the philosophical jargon; just dive in, and you'll get the essence as you read.\
+> Don't worry much about the philosophical jargon; just dive in, and you will get the essence as you read.\
 Also, don't forget to go through the quotes, as they are closely tied to the explanations :)
 {: .prompt-tip}
 Lastly, the featured anime are all _short_ (under 50 episodes). Do give them a try if you like the mentioned themes.
@@ -31,7 +31,7 @@ Let's start with the philosophy of Makoto Yukimura, the author of Vinland Saga (
 I hope people feel more and more ashamed of committing violence all the time. I hope it already feels as embarrassing to shoot a gun as it does to show off your dick.\
 --- 幸村誠 ([@makotoyukimura](https://twitter.com/makotoyukimura)) [March 6, 2023](https://twitter.com/makotoyukimura/status/1632790542882070528)
 
-To explore his theme of violence, the author decided that the _Viking Age_ and its culture would be the most appropriate setting based on its defining feature: the _glorification of war_. The author took inspiration from real-life historical figures and events and filled in the unknown using his creative ideas. 
+To explore his theme of violence, the author decided that the _Viking Age_ and its culture would be the most appropriate setting based on its defining feature: the _glorification of war_. The author took inspiration from real-life historical figures and events, while filling in the unknown using his creative ideas.
 
 The saga derives its purpose from _Utopianism_, a constant search for a [_Utopia_]({{ site.url_prefixes.wikipedia }}/Utopia).\
 [Valhalla]({{ site.url_prefixes.wikipedia }}/Valhalla) is a place that every warrior dreams to reach. But the story also explores other locations, such as **Vinland**, a place _free from war and slavery_, and **Avalon**, an island of everlasting spring _free from death and old age_. The story portrays contrasting routes taken by its characters to create such a near-perfect world.
@@ -64,7 +64,7 @@ Vinland Saga is thus the journey of Thorfinn and Canute to _Utopianism_, and the
 ### Fate/Zero
 ![](/fate-zero.jpg)
 Fate/Zero is the ultimate battle royale for philosophy lovers. Its 14 main characters are all personification of ideals, and they clash for the ultimate prize in The Holy Grail War.\
-To keep things brief, I'll just cover a few characters and their principles.
+To keep things brief, I will just cover few characters and their principles.
 #### Utilitarianism
 > And there you go. Our Heroic Spirit over there considers a battlefield to be better than Hell.\
 What a joke! A battlefield is Hell itself!\
@@ -190,7 +190,7 @@ Moreover, it raises the fundamental question of whether it is truly possible to 
 Steins;Gate delves into ideas related to __Free will__, questioning whether our choices are truly our own.
 It explores the themes of _Determinism_, which states that all events are caused by actions external to the will, and _Fatalism_, which believes that all events are predetermined and, therefore inevitable. Through these, the story asks whether the characters have personal agency, i.e., control over their own life, even if their actions are limited by someone or something.
 > Remembering something that no one else can is a painful thing.\
-You can't talk to anyone about it. No one will understand you. You'll be alone.\
+You can't talk to anyone about it. No one will understand you. You will be alone.\
 --- Rintaro Okabe
 
 The story also tackles loneliness and its strong psychological impact on our protagonist, where his experiences and memories set him apart from those around him.
@@ -295,6 +295,7 @@ This is ultimately a noble cause, but we see how humanity _struggles to accept i
 The purpose of this blog was to highlight through anime, the idea of thinking more deeply about life and what it all means. I hope you had a fun time reading this stupidly long post and got something valuable from it.
 > Additionally, this blog serves as a recommendation list of some highly entertaining shows. If you are looking to get started with philosophy, I highly suggest _Kino's Journey_ (2003).
 ![](/kinos-journey-the-beautiful-world.jpg)
+> Check out my [BAC spotlight](https://bac.moe/blog/anime-spotlight-jan25) to know more about this anime.
 {: .prompt-tip}
 
 ## External Links
