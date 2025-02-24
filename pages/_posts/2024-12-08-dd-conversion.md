@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dual Degre Conversion @ IITB
+title: Dual Degree Conversion @ IITB
 description: "To convert or not to convert: our experiences and insights"
 categories: [IIT Bombay, Academics]
 tags: [iit-bombay, academics, tips]
