@@ -162,6 +162,9 @@ url_prefixes:
     video: "https://youtu.be"
     playlist: "https://youtube.com/playlist?list="
   wikipedia: "https://en.wikipedia.org/wiki"
+  goodreads:
+    book: "https://goodreads.com/book/show"
+    series: "https://goodreads.com/series"
   myanimelist:
     anime: "https://myanimelist.net/anime"
     manga: "https://myanimelist.net/manga"
@@ -196,6 +199,8 @@ collections:
   anime:
     output: true
   manga:
+    output: true
+  books:
     output: true
   latex:
     output: true
@@ -262,8 +267,9 @@ exclude:
   - tools
   - README.md
   - LICENSE
-  - "*.config.js"
-  - package*.json
+  - purgecss.js
+  - rollup.config.js
+  - "package*.json"
 
 jekyll-archives:
   enabled: [categories, tags]
@@ -272,4 +278,4 @@ jekyll-archives:
     tag: tag
   permalinks:
     tag: /tags/:name/
-    category: /categories/:name/
+    # category: /categories/:name/
