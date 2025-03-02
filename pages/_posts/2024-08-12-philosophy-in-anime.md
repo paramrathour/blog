@@ -5,6 +5,7 @@ categories: [Philosophy]
 tags: [animanga, anime, philosophy, featured-content]
 date: 2024-08-12 20:19 +0530
 pin: true
+math: true
 ---
 > The media and dialogues attached to this page belong to their respective owners.
 {: .prompt-info}
@@ -58,9 +59,25 @@ A place of peace and prosperity. An ideal country for those who live in sufferin
 Perhaps the work will not be finished in my generation. But I will be the one to take that first bold step.\
 ---	Canute
 
-Prince [Canute]({{ site.url_prefixes.wikipedia }}/Cnut) initially turned to God for salvation, but after observing the Hell created by the constant fighting, he realises that there is no _love_[^loveisdiscrimination] in the hearts of these warriors, that these men can't achieve salvation and enter heaven. So, Canute vows to create a paradise on Earth itself. But he soon realises the unfavourable circumstances against him that force him to **use any means possible**, rather than strictly moral or ethical methods to achieve and maintain his power. He probably learnt such trickery from [Askeladd]({{ site.url_prefixes.wikipedia }}/Lucius_Artorius_Castus).
+Prince [Canute]({{ site.url_prefixes.wikipedia }}/Cnut) initially turned to God for salvation, but after observing the Hell created by the constant fighting, he realises that there is no _love_ in the hearts of these warriors, that these men can't achieve salvation and enter heaven. So, Canute vows to create a paradise on Earth itself. But he soon realises the unfavourable circumstances against him that force him to **use any means possible**, rather than strictly moral or ethical methods to achieve and maintain his power. He probably learnt such trickery from [Askeladd]({{ site.url_prefixes.wikipedia }}/Lucius_Artorius_Castus), who navigated through the world through cunning manipulations.
 
-Vinland Saga is thus the journey of Thorfinn and Canute to _Utopianism_, and the challenges faced by them that necessitate a reflection on their ideals.
+Vinland Saga is thus the journey of Thorfinn and Canute to _Utopianism_, and the challenges faced by them that necessitate a reflection on their ideals. Let us delve into one such challenge.
+#### Love is Discrimination
+Imagine two people are about to die: one is your loved one, and the other is a complete stranger. You can only save one. _Who would	 you choose?_
+Here are some options:
+- save your loved one
+- save the stranger
+- you don't really care and flip a coin to decide who gets saved.
+
+In such situations, most people will choose their loved ones and understandably so.\
+But what if the situation changes? What if you can either save your loved one _or_ $$\ 2$$ random strangers? Would you still save your loved one? What if it's $$3$$ strangers? Or even $$n$$ strangers? Is there a point after which it stops being about your loved one and start being about saving more lives? Essentially, where would you draw the line? Think about it! We will revisit it [later in the blog](#land-of-the-lustrous).
+
+> If you choose to save your loved one in any of the above scenario, then according to Willibald, what you think of as _love_ is actually a form of discrimination.[^loveisdiscrimination] 
+{: .prompt-warning}
+
+The point is, while there is no definitive right answer, you __do__ have to make a choice and save someone. In anime, characters often face these tough, morally grey decisions, which tests their ideologies.
+
+Anyway, I could go on and on about Vinland Saga,[^vinlandblog] but this has already consumed five minutes of your time, and I need to cover more anime, so let us sail ahead :)
 ### Fate/Zero
 ![](/fate-zero.jpg)
 Fate/Zero is the ultimate battle royale for philosophy lovers. Its 14 main characters are all personification of ideals, and they clash for the ultimate prize in The Holy Grail War.\
@@ -77,6 +94,9 @@ True human nature has not advanced a step beyond the Stone Age!\
 
 Kiritsugu's journey can be seen as a mix of Thorfinn and Canute. Like Thorfinn, he had a traumatic childhood and dislikes bloodshed, but, similar to Canute, he's willing to put that aside if it enables him to eradicate all evils.
 Throughout his journey, he's placed in challenging situations that question his decision-making as he strives to achieve the __greatest good for the greatest number of people__.
+
+> If we revisit our hypothetical scenario, then Kiritsugu would choose to save $$2$$ random people over his loved one (assuming their utilities are equal). In the first case, he can select to save his loved one, as the aggregate utility remains unchanged regardless.
+{: .prompt-info}
 #### Idealism vs Realism
 > I suppose having your name recorded in the history books is a form of immortality.\
 But if that just means your name gets passed down for two thousand years and nothing else, I'd have preferred to have even a hundredth of that added to my actual life.\
@@ -96,6 +116,10 @@ What other people called happiness did not bring me any joy.\
 Kirei Kotomine struggles to find _meaning and purpose in his life_. Fate/Zero is his journey to find identity and happiness.
 
 Existentialism closely resembles the notion of __Nihilism__, which states that life is inherently meaningless. This idea gives rise to the iconic duo of Ryuunosuke and Caster, who believe in _Hedonistic Nihilism_, which suggests that since you only live once, one should seek personal pleasure and enjoy life to the fullest by disregarding morals or the well-being of other people.
+
+> Nihilists might not bother saving either person, since life's meaningless anyway ;-;
+{: .prompt-info}
+
 #### Narcissism
 > So, you would question me, you filthy mongrel? Me, the one true king?\
 If you cannot now discern my identity in the presence of my magnificent glory, then your ignorant blindness will serve to seal your doom!\
@@ -301,6 +325,7 @@ The purpose of this blog was to highlight through anime, the idea of thinking mo
 ## External Links
 [^loveisdiscrimination]: [Love is Discrimination -- K. Sreeman Reddy](https://ksr.onl/blog/2024/07/love-is-discrimination.html)
 [^vinlandsagawiki]: [Vinland Saga Wiki -- Fandom](https://vinlandsaga.fandom.com/wiki/)
+[^vinlandblog]: Actually, I am planning to write a dedicated Vinland Saga blog in the near future! Stay tuned! ;)
 [^fatewiki]: [Fate Wiki -- Fandom](https://typemoon.fandom.com/wiki/)
 [^pingpongaleczandxr]: [Ping Pong The Animation: A Thematic Overview -- Aleczandxr](https://youtu.be/dlUwDA1SlyI)
 [^psychopasswiki]: [Psycho-Pass Wiki -- Fandom](https://psychopass.fandom.com/wiki/)
