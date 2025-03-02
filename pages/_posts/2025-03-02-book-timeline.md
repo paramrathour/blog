@@ -64,7 +64,7 @@ It's tough to pinpoint my first book, but it was probably a cricket book coverin
       {% elsif post.series != nill %}
         <a href="{{ site.url_prefixes.goodreads.series | append: "/" | append: post.series }}">{{ post.title }}</a>
       {% else %}
-        <a>{{ post.title }}</a>
+        <a href="{% post_url 2025-03-02-book-timeline %}">{{ post.title }}</a>
       {% endif %}
       {% assign content = post.content | strip_newlines %}
       {% include tooltip/filter-animanga.html thoughts = post.content %}
