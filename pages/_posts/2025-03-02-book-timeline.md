@@ -1,7 +1,7 @@
 ---
 title: Book Reading Timeline
 description: "Unveiling my book journey: thoughts and timeline"
-categories: [Books, Timeline]
+categories: [Books]
 tags: [books, timeline]
 date: 2025-03-02 19:59 +0530
 ---
