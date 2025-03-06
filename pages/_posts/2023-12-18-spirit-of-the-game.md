@@ -63,8 +63,10 @@ In an Indian Premier League (IPL) 2019 match, Ravichandran Ashwin ran out Jos Bu
 Batter's thought process
 : - If the intent is about getting an advantage by stepping out of the crease, then the batter should _respect_ the rule and be ready to face the consequences.
 - If there is no intent to get an advantage, then the batter should _respect_ the bowler's ideologies about non-striker run outs, which could be different from the batter.\
-The batter should wait for the [ball to come into play (Law 20.5)](https://www.lords.org/mcc/the-laws-of-cricket/dead-ball) before leaving the crease, akin to sprinters who take off only upon hearing the starting gun.
+The batter should wait for the [ball to come into play (Law 20.5)](https://www.lords.org/mcc/the-laws-of-cricket/dead-ball) before leaving the crease, akin to sprinters who take off only upon hearing the starting gun.\
 <!-- The batter should make certain they remain in place until the ball (has left the bowler's hand) is dead, akin to sprinters who take off only upon hearing the starting gun. -->
+This might feel a bit weird, but **that's just how the rules are to be interpreted**. In fact, Glenn Phillips pulled the same move to sneak a double on the last ball of NZ's innings in the CT 2025 semifinal.
+![](https://iili.io/3FtJjdg.jpg)
 
 Bowler's thought process
 : - They will have to ensure that if they intend to run the batter out then they should not try to create artificial situations (such as pausing or misleading) that doesn't _respect_ batters with no intent of stepping out.
