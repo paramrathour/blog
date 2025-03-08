@@ -59,10 +59,19 @@ A place of peace and prosperity. An ideal country for those who live in sufferin
 Perhaps the work will not be finished in my generation. But I will be the one to take that first bold step.\
 ---	Canute
 
-Prince [Canute]({{ site.url_prefixes.wikipedia }}/Cnut) initially turned to God for salvation, but after observing the Hell created by the constant fighting, he realises that there is no _love_ in the hearts of these warriors, that these men can't achieve salvation and enter heaven. So, Canute vows to create a paradise on Earth itself. But he soon realises the unfavourable circumstances against him that force him to **use any means possible**, rather than strictly moral or ethical methods to achieve and maintain his power. He probably learnt such trickery from [Askeladd]({{ site.url_prefixes.wikipedia }}/Lucius_Artorius_Castus), who navigated through the world through cunning manipulations.
+Prince [Canute]({{ site.url_prefixes.wikipedia }}/Cnut) initially turned to God for salvation, but after observing the Hell created by the constant fighting, he realises that there is no _love_ in the hearts of these warriors, that these men can't achieve salvation and enter heaven. So, Canute vows to create a paradise on Earth itself. But he soon realises the unfavourable circumstances against him that force him to **use any means possible**, rather than strictly moral or ethical methods to achieve and maintain his power. He probably learnt such trickery from [Askeladd]({{ site.url_prefixes.wikipedia }}/Lucius_Artorius_Castus), who navigated the world through cunning manipulations.
 
 Vinland Saga is thus the journey of Thorfinn and Canute to _Utopianism_, and the challenges faced by them that necessitate a reflection on their ideals. Let us delve into one such challenge.
 #### Love is Discrimination
+> He is dead, and therefore more beautiful than anyone alive.\
+You might say he is love itself.\
+For you see...he will not hate, nor kill, nor steal.\
+Don't you find that wonderful?\
+His body will be abandoned here...and his flesh will feed the beasts and insects.\
+He will be blown about by the wind...and pelted by the rain...and he will not raise a single word in complaint.\
+It is death that completes a man.\
+---	Willibald
+
 Imagine two people are about to die: one is your loved one, and the other is a complete stranger. You can only save one. _Who would	 you choose?_
 Here are some options:
 - save your loved one
@@ -77,7 +86,7 @@ But what if the situation changes? What if you can either save your loved one _o
 
 The point is, while there is no definitive right answer, you __do__ have to make a choice and save someone. In anime, characters often face these tough, morally grey decisions, which tests their ideologies.
 
-Anyway, I could go on and on about Vinland Saga,[^vinlandblog] but this has already consumed five minutes of your time, and I need to cover more anime, so let us sail ahead :)
+Anyway, I could go on and on about Vinland Saga,[^vinlandblog] but this has already consumed six minutes of your time, and I need to cover more anime, so let us sail ahead :)
 ### Fate/Zero
 ![](/fate-zero.jpg)
 Fate/Zero is the ultimate battle royale for philosophy lovers. Its 14 main characters are all personification of ideals, and they clash for the ultimate prize in The Holy Grail War.\
@@ -127,7 +136,7 @@ If you cannot now discern my identity in the presence of my magnificent glory, t
 
 Unlike most characters, Gilgamesh doesn't desire anything because he already believes that that the world belongs to him. To him, this war is mere entertainment, feeding his huge superiority complex, which he can back it up as he's stronger than anyone else.
 
-Well, I can keep going, but I should probably move to next anime.
+That's over half the characters done, time to jump to the next anime!
 ### Ping Pong the Animation
 ![](/ping-pong-the-animation.jpg)
 Let's look at a different kind of war: competitive sports :).
