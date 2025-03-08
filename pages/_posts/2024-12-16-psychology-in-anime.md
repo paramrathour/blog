@@ -57,7 +57,7 @@ Anyway, let's get started with this section, which discusses anime that are just
 ### Gankutsuou: The Count of Monte Cristo
 ![](/gankutsuou-the-count-of-monte-cristo.jpg)
 
-There are many ways to interpret the story of [Gankutsuou]({{ site.url_prefixes.myanimelist.anime }}/239), which is based on the novel: _The Count of Monte Cristo_ written by Alexandre Dumas. I see it as a tale of three families, where _everything is connected_ in twisted ways that we could have never imagined[^dark]. It can also be seen as a coming-of-age story for our main character, _Albert de Morcerf_, who goes through some pretty horrifying experiences throughout the show. But at its core,  the show is all about mystery revolving around the enigmatic man who goes by the name _The Count of Monte Cristo_.
+There are many ways to interpret the story of [Gankutsuou]({{ site.url_prefixes.myanimelist.anime }}/239), which is based on the novel: _The Count of Monte Cristo_ written by Alexandre Dumas. I see it as a tale of three families, where _everything is connected_ in twisted ways that we could have never imagined.[^dark] It can also be seen as a coming-of-age story for our main character, _Albert de Morcerf_, who goes through some pretty horrifying experiences throughout the show. But at its core,  the show is all about mystery revolving around the enigmatic man who goes by the name _The Count of Monte Cristo_.
 ### Mononoke
 ![](/mononoke.jpg)
 
@@ -99,7 +99,7 @@ Enough of these dark depressing shows. Finally, let's dive into some fun shows. 
 ### The Tatami Time Machine Blues
 ![](/the-tatami-time-machine-blues.jpg)
 
-This one is a bit tricky to explain. First of all, the story of [The Tatami Time Machine Blues]({{ site.url_prefixes.myanimelist.anime }}/49590) is based on the novel: _Summer Time Machine Blues_ written by Makoto Ueda. But then, it is rewritten with the characters from _The Tatami Galaxy_ anime such that it feels like one big episode of _The Tatami Galaxy_, making this its spin-off. 
+This one is a bit tricky to explain. First of all, the story of [The Tatami Time Machine Blues]({{ site.url_prefixes.myanimelist.anime }}/49590) is based on the play: _Summer Time Machine Blues_ written by Makoto Ueda. But then, it is rewritten with the characters from _The Tatami Galaxy_ anime such that it feels like one big episode of _The Tatami Galaxy_, making this its spin-off. 
 But, you don't need to watch anything else to enjoy it; just jump in and the main story wraps up in the first five episodes.\
 The anime itself is fun, wholesome, and centers around a hypothetical scenario where a time machine suddenly appears, leading to all kinds of interesting events that the characters and audience can learn from.
 > Related fun psychological anime: [Mob Psycho 100]({{ site.url_prefixes.myanimelist.anime }}/32182) and [Welcome to Irabu's Office]({{ site.url_prefixes.myanimelist.anime }}/6774) (an anime which actually deals with psychology unlike this post)
