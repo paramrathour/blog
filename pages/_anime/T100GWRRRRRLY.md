@@ -7,5 +7,4 @@ Ridiculous but sensible at the same time. The constant fourth wall breaks, absur
 I have a theory, we are experiencing the story through the eyes of CHADtaro, which is why all the GFs seem perfect.\
 \
 Season 1: 6/100\
-\
 Season 2: 11/100
