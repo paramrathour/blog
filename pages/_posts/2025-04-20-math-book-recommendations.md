@@ -12,20 +12,20 @@ math: true
 
 As said by Russell, mathematics possesses this beauty and creativity, and that has made it my favourite hobby. While there are many ways to learn math, particularly through formalism and abstraction, both of which are essential for any serious mathematical endeavours, I find a special, almost unexplainable comfort in reading pop-maths books and their fascinating stories. And, when those books are done right, they are perfect for getting curious people into math, especially the ones who want to dive in but don't know where to start or feel intimidated.
 
-> The purpose of this blog is twofold: first, to serve as a curated wishlist of such resources, in the hope that it might inspire others to revisit mathematics. And second, you may have noticed the absence of explicit math blogs, despite having math-y references scattered throughout my other non-mathematical posts. This is intentional, as there are already so many amazing resources out there, I didn't feel the need to just repeat what's already been done.
+> The purpose of this blog is twofold: first, to serve as a curated wishlist of such resources, in the hope that it might inspire others to revisit mathematics. And second, you may have noticed the absence of explicit math blogs here, despite having math-y references scattered throughout my other non-mathematical posts. This is intentional, as there are already so many amazing resources out there, I didn't feel the need to just repeat what's already been done.
 {: .prompt-tip}
 ## Legendary Books
 ![](/math-books-legendary.jpg)
 #### Must-Reads
 A Mathematician's Apology (G. H. Hardy)
-: A short essay where Hardy discusses the beauty and usefulness of pure mathematics.\
+: A short essay where Hardy (mentor of Srinivasa Ramanujan) discusses the beauty and usefulness of pure mathematics.\
 I wanted to start with this recommendation because the books mentioned may not directly help with exams or jobs, but they are meant more to explore the beauty of mathematics. I hope this inspires an appreciation for math, and I apologize if it's not what you were looking for.
 
 Oliver Byrne's Elements of Euclid
 : A beautiful work of art, where Byrne reimagined the first six books of _The Elements of Euclid_, replacing letters with vividly coloured diagrams and symbols. [[Website](https://www.c82.net/euclid/)/[PDF](https://github.com/jemmybutton/byrne-euclid/)]
 
 Proofs from THE BOOK (Martin Aigner, Günter M. Ziegler)
-: The famous math wanderer, Paul Erdős, once said that you need not believe in God but, as a mathematician, you should believe in the existence of _THE BOOK_, which contains the most elegant and perfect proofs of all mathematical theorems. Is it this _THE BOOK_?
+: The famous math nomad, Paul Erdős, once said that you need not believe in God but, as a mathematician, you should believe in the existence of _THE BOOK_, which contains the most elegant and perfect proofs of all mathematical theorems. Is it this _THE BOOK_?
 
 Gödel, Escher, Bach: an Eternal Golden Braid (Douglas R. Hofstadter)
 : Gödel, a mathematician; Escher, a graphic artist; and Bach, a music composer. What is the connection here? Dive in and find out!
@@ -44,11 +44,11 @@ A Treatise on Probability (John Maynard Keynes)
 : A "logical-relationist" approach to the theory of uncertainty, which has started to gain more traction due to advancements in _artificial intelligence_
 
 The Road to Reality: A Complete Guide to the Laws of the Universe (Roger Penrose)
-: The most ambitious work of science, providing a comprehensive account of the Standard Model of particle physics while also developing the math required from scratch
+: The most ambitious work of science, providing a comprehensive account of the Standard Model of particle physics while also developing the mathematical theory required from scratch
 
 #### Handbooks
 A Synopsis of Elementary Results in Pure and Applied Mathematics (George Shoobridge Carr)
-: The two-volume set that Srinivasa Ramanujan used to teach himself math.
+: The holy two-volume set that Ramanujan used to teach himself math.
 
 The World of Mathematics (James R. Newman)
 : The monumental four-volume set which includes a general survey of mathematics, historical and biographical information on prominent mathematicians throughout history
@@ -56,12 +56,10 @@ The World of Mathematics (James R. Newman)
 The Princeton Companion to Mathematics (Timothy Gowers, June Barrow-Green, Imre Leader)
 : A one-of-a-kind reference for anyone with a serious interest in mathematics, covering popular mathematicians, concepts, theorems and most importantly expository introductions to many branches of mathematics.
 
-## Miniatures
-Miniatures are my favourite way to enjoy mathematics, they are a collection of short but entertaining tidbits from all across a particular field, which can be consumed at one's convenience.
-With the exception of the first two fictional works and the last section, the majority of the forthcoming books fall under this category.
-### For Newbies
-![](/math-books-miniatures-beginners.jpg)
-#### Fiction
+## Fiction
+![](/math-books-fiction.jpg)\
+My taste in fictional math books is the same as A.A.: _only the very best, with just the right amount of math_
+
 Flatland: A Romance of Many Dimensions (Edwin A. Abbott)
 : A pioneering work of mathematical fiction, exploring the concept of dimensions through the eyes of our protagonist, Square, who is a Flatlander living in a 2-D world, Flatland
 
@@ -74,6 +72,11 @@ Gallery of the Infinite (Richard Evan Schwartz)
 Lost in the Math Museum: A Survival Story (Colin Adams)
 : The imaginative journey of a 16-year-old girl trying to escape death in a mathematics museum, leading her through a series of mathematical theorems, paradoxes, and curiosities.
 
+## Miniatures
+Miniatures are my favourite way to enjoy mathematics, they are a collection of short but entertaining tidbits from all across a particular field, which can be consumed at one's convenience.
+With the exception of the first two fictional works and the last section, the majority of the forthcoming books fall under this category.
+### For Newbies
+![](/math-books-miniatures-beginners.jpg)
 #### Collections
 Math Wonders: To Inspire Teachers and Students (Alfred Posamentier)
 : The book that inspired me into learning mathematics. It is just a collection of fun patterns, calculations and other entertainments across high-school math topics.
@@ -192,12 +195,11 @@ And more!
 ## Historical
 There are tons of ways to dive into history of math, I think the best way to go with it is through engaging stories and not the dry, chronological reading. So, let us start with interesting collections of such stories.
 ![](/math-books-topics-history.jpg)
-#### More Miniatures
-- _Sherlock Holmes in Babylon and Other Tales of Mathematical History (Marlow Anderson, Victor Katz, Robin Wilson)_
-- _Who Gave You the Epsilon? And Other Tales of Mathematical History (Marlow Anderson, Victor Katz, Robin Wilson)_
-- _An Episodic History of Mathematics: Mathematical Culture through Problem Solving (Steven G. Krantz)_
 
 #### Biographical
+The Man Who Loved Only Numbers: The Story of Paul Erdös and the Search for Mathematical Truth (Paul Hoffman)
+: Remember Erdős? our nomad from [first section](#legendary-books) he wandered around the world in 83 years with two suitcases and collaborated with over 500 researchers. Such prolific output led to the creation of the Erdős number: a measure of the "collaborative distance" between a mathematician and Erdős, based on co-authored papers. Check out the book for more stories!
+
 Euler: The Master of Us All (William Dunham)
 : Experience the world of math through the works of the GOAT polymath Leonhard Euler
 
@@ -207,7 +209,17 @@ Alan Turing: The Enigma (Andrew Hodges)
 A Beautiful Math: John Nash, Game Theory, and the Modern Quest for a Code of Nature (Tom Siegfried)
 : The legacy of an Abel Prize winner
 
-If you have time to spare, try the monographs of stories of some groundbreaking formulas and results in mathematics.
+The Story of Proof: Logic and the History of Mathematics (John Stillwell)
+: An unconventional biography, not of an individual, but of a concept, tracing its significant historical milestones in the development of mathematics
+
+An Episodic History of Mathematics: Mathematical Culture through Problem Solving (Steven G. Krantz)
+: No time to read full biographies? Here's a collection of short ~~and sweet~~ stories of important figures in math
+
+#### And More Miniatures
+- _Sherlock Holmes in Babylon and Other Tales of Mathematical History (Marlow Anderson, Victor Katz, Robin Wilson)_
+- _Who Gave You the Epsilon? And Other Tales of Mathematical History (Marlow Anderson, Victor Katz, Robin Wilson)_
+
+But if you _do_ have time to spare, try the monographs of stories of some groundbreaking formulas and results in mathematics.
 #### Monographs
 ![](/math-books-topics-groundbreaking.jpg)
 
@@ -226,6 +238,9 @@ Dr. Euler's Fabulous Formula: Cures Many Mathematical Ills (Paul J. Nahin)
 Euler's Gem: The Polyhedron Formula and the Birth of Topology (David S. Richeson)
 : For any polyhedra, its $$\#\text{vertices}-\#\text{edges}+\#\text{faces}$$, i.e., $$V-E+F$$, is a constant called the Euler characteristic $$\chi$$, which has deep connections to modern geometry
 
+Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem (Simon Singh)
+: I have discovered a truly marvellous description of this book, which this blog is too smol to contain. 
+
 The Riemann Hypothesis: A Million Dollar Problem (Roland van der Veen, Jan van de Craats)
 : One of the Millennium Prize Problems, solving it is considered as the hardest way to earn a million dollars
 
@@ -238,9 +253,6 @@ In Pursuit of the Traveling Salesman: Mathematics at the Limits of Computation (
 Four Colors Suffice: How the Map Problem Was Solved (Robin Wilson)
 : Another problem of graph theory with one of the most controversial proofs of mathematics
 
-The Erdős Distance Problem (Alex Iosevich, Julia Garibaldi, Steven Senger)
-: Remember Erdős? the math wanderer from our [first section](#legendary-books), this problem seeks to place $$n$$ points into a $$d-$$dimensional Euclidean space _optimally_
-
 ## Unusual Textbooks
 ![](/math-textbooks-unusal-topics.jpg)
 And lastly, here are some books that effectively teach essential topics while disguising itself as an accessible mathematical gallery filled with interesting concepts and tales.
@@ -249,9 +261,9 @@ And lastly, here are some books that effectively teach essential topics while di
 - _Permutation Puzzles: A Mathematical Perspective (Jamie Mulholland)_
 - _Taking Sudoku Seriously: The Math Behind the World's Most Popular Pencil Puzzle (Jason Rosenhouse, Laura Taalman)_
 - _Summing It Up: From One Plus One to Modern Number Theory (Avner Ash, Robert Gross)_
-- _Proofs that Really Count: The Art of Combinatorial Proofs (Arthur T. Benjamin, Jennifer J. Quinn)_
+- _Proofs that Really Count: The Art of __Combinatorial Proofs__ (Arthur T. Benjamin, Jennifer J. Quinn)_
 - _Generating Functionology (Herbert S. Wilf)_
-- _The Joy of Abstraction: An Exploration of Math, Category Theory, and Life (Eugenia Cheng)_
+- _The Joy of Abstraction: An Exploration of Math, __Category Theory__, and Life (Eugenia Cheng)_
 
 #### Calculus
 - _Infinite Powers: How Calculus Reveals the Secrets of the Universe (Steven H. Strogatz)_
