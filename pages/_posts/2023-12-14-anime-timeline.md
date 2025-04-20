@@ -114,7 +114,6 @@ Alright, enough with the math; let's actually check out the milestones :)
 | 047 | Ping Pong the Animation
 | 076 | Psycho-Pass
 
-### Special Milestones
 Some other milestones that don't fit the above sequence ;)
 
 | Completion Number | Completion Anime | Description
