@@ -1,5 +1,5 @@
 ---
-title: The set of Math-sterpieces
+title: The Set of Math-sterpieces
 description: "A collection of integral books, which will sum up all your math needs!"
 categories: [Math]
 tags: [math, books, featured-content]
