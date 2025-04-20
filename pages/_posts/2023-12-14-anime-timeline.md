@@ -60,7 +60,7 @@ I probably overdid my explanations. Anyway, with no further ado, here's the time
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
 
-<div id="archives" class="pl-xl-3">
+<div class="pl-xl-3">
   {% for post in site.anime %}
     {% assign abbreviation = post.slug | slugify %}
     {% assign cur_year = post.date | date: '%Y' %}
@@ -74,7 +74,7 @@ I probably overdid my explanations. Anyway, with no further ado, here's the time
       {% assign last_year = cur_year %}
     {% endif %}
 
-    <li id={{ abbreviation }}>
+    <li id={{ abbreviation }} style="overflow-x: auto;  overflow-y: hidden; white-space: nowrap;">
       {% assign ts = post.date | date: '%s' %}
       <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
       <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
