@@ -12,7 +12,7 @@ date: 2023-12-14 07:59:05 +05:30
 I don't classify myself as an avid manga reader, my usual go-to is checking out the manga versions of ongoing anime that leave me itching to know what happens next.
 
 ## Personal Insights
-Like before, you can hover/click on the comments icon to uncover my thoughts (mostly spoiler-free) on each manga. Mobile users may need to rotate their device to landscape mode to read comments for longer titles.
+Like before, you can hover/click on the comments icon to uncover my thoughts (mostly spoiler-free) on each manga.
 
 ## Manga Grid
 One last thing: Similar to my anime timeline, I have tried to make an image grid containing my favourite moments from manga as well. But, not every manga panel have similar dimensions. To smoothly automate the process, I have restricted myself to include only double-page spreads, which are typically more _spoilery_ than out-of-context anime screenshots. So, check out the grid at your own discretion :)
@@ -42,7 +42,7 @@ Alright, let's dive right in!
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
 
-<div id="archives" class="pl-xl-3">
+<div class="pl-xl-3">
   {% for post in site.manga %}
     {% assign abbreviation = post.slug | slugify %}
     {% assign cur_year = post.date | date: '%Y' %}
@@ -56,7 +56,7 @@ Alright, let's dive right in!
       {% assign last_year = cur_year %}
     {% endif %}
 
-    <li id={{ abbreviation }}>
+    <li id={{ abbreviation }} style="overflow-x: auto;  overflow-y: hidden; white-space: nowrap;">
       {% assign ts = post.date | date: '%s' %}
       <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
       <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">

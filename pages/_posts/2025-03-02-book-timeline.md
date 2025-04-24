@@ -19,9 +19,6 @@ Personal Insights
 : Just like my other timelines, I will share my two cents (mostly spoiler-free) on each read.\
 Hover/Click on the comments icon to uncover these insights.
 
-> Mobile users may need to rotate their device to landscape mode to read comments for longer titles.
-{: .prompt-tip }
-
 The Forgotten Past
 : Until recently, I didn't use to track completion dates. To handle cases where I don't remember the dates, I have chosen the last day (month) of the forgotten month (year).
 
@@ -39,7 +36,7 @@ It's tough to pinpoint my first book, but it was probably a cricket book coverin
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
 
-<div id="archives" class="pl-xl-3">
+<div class="pl-xl-3">
   {% for post in site.books %}
     {% assign abbreviation = post.slug | slugify %}
     {% assign cur_year = post.date | date: '%Y' %}
@@ -53,7 +50,7 @@ It's tough to pinpoint my first book, but it was probably a cricket book coverin
       {% assign last_year = cur_year %}
     {% endif %}
 
-    <li id={{ abbreviation }}>
+    <li id={{ abbreviation }} style="overflow-x: auto;  overflow-y: hidden; white-space: nowrap;">
       {% assign ts = post.date | date: '%s' %}
       <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
       <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">

@@ -14,10 +14,6 @@ I want to keep things simple -- one franchise, one entry.
 ## Personal Insights
 I am no critic, but who doesn't like to share thoughts? To get a real deep dive into my experiences, I am sharing my two cents (mostly spoiler-free) on each anime.
 
-Hover/Click on the comments icon to uncover these insights.
-> Mobile users may need to rotate their device to landscape mode to read comments for longer titles.
-{: .prompt-tip }
-
 These thoughts generally apply to the entirety of the anime, but in few cases, I have categorized my thoughts by seasons, especially where I felt a need due to varying opinions across each season.
 
 ## A Dilemma of Dates
