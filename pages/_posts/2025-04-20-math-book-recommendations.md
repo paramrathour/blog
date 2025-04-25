@@ -198,7 +198,7 @@ There are tons of ways to dive into history of math, I think the best way to go 
 
 #### Biographical
 The Man Who Loved Only Numbers: The Story of Paul Erdös and the Search for Mathematical Truth (Paul Hoffman)
-: Remember Erdős? our nomad from [first section](#legendary-books) he wandered around the world in 83 years with two suitcases and collaborated with over 500 researchers. Such prolific output led to the creation of the Erdős number: a measure of the "collaborative distance" between a mathematician and Erdős, based on co-authored papers. Check out the book for more stories!
+: Remember Erdős? our nomad from [first section](#legendary-books) he wandered around the world in 83 years with two suitcases and collaborated with over 500 researchers. Such prolific output led to the creation of the Erdős number: a measure of the "collaborative distance" between a mathematician and Erdős, based on co-authored papers. Calculate your [Erdős number](https://mathscinet.ams.org/mathscinet/freetools/collab-dist) now!
 
 Euler: The Master of Us All (William Dunham)
 : Experience the world of math through the works of the GOAT polymath Leonhard Euler
@@ -239,7 +239,7 @@ Euler's Gem: The Polyhedron Formula and the Birth of Topology (David S. Richeson
 : For any polyhedra, its $$\#\text{vertices}-\#\text{edges}+\#\text{faces}$$, i.e., $$V-E+F$$, is a constant called the Euler characteristic $$\chi$$, which has deep connections to modern geometry
 
 Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem (Simon Singh)
-: I have discovered a truly marvellous description of this book, which this blog is too smol to contain. 
+: I have discovered a truly marvellous description of this book, but this blog is already too long to contain
 
 The Riemann Hypothesis: A Million Dollar Problem (Roland van der Veen, Jan van de Craats)
 : One of the Millennium Prize Problems, solving it is considered as the hardest way to earn a million dollars

@@ -326,7 +326,7 @@ This is ultimately a noble cause, but we see how humanity _struggles to accept i
 The purpose of this blog was to highlight through anime, the idea of thinking more deeply about life and what it all means. I hope you had a fun time reading this stupidly long post and got something valuable from it.
 > Additionally, this blog serves as a recommendation list of some highly entertaining shows. If you are looking to get started with philosophy, I highly suggest _Kino's Journey_ (2003).
 ![](/kinos-journey-the-beautiful-world.jpg)
-> Check out my [BAC spotlight](https://bac.moe/blog/anime-spotlight-jan25) to know more about this anime.
+> Check out my [BAC spotlight](https://bac.moe/blog/anime-spotlight-jan25#kinos-journey) to know more about this anime.
 {: .prompt-tip}
 
 ## External Links
