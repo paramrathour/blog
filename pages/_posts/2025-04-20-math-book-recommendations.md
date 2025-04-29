@@ -5,6 +5,7 @@ categories: [Math]
 tags: [math, books, featured-content]
 date: 2025-04-20 20:30 +0530
 math: true
+image: set-theory-three.jpg
 ---
 ## Introduction
 > Mathematics, rightly viewed, possesses not only truth, but supreme beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show. The true spirit of delight, the exaltation, the sense of being more than Man, which is the touchstone of the highest excellence, is to be found in mathematics as surely as in poetry.\
