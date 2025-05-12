@@ -2,7 +2,7 @@
 title: The Set of Math-sterpieces
 description: "A collection of integral books, which will sum up all your math needs!"
 categories: [Math]
-tags: [math, books, featured-content]
+tags: [math, books, featured-content, sos]
 date: 2025-04-20 20:30 +0530
 math: true
 image: set-theory-three.jpg
