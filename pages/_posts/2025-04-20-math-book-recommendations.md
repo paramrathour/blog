@@ -230,8 +230,82 @@ The Metaphysics of the Pythagorean Theorem: Thales, Pythagoras, Engineering, Dia
 The Secret Formula: How a Mathematical Duel Inflamed Renaissance Italy and Uncovered the Cubic Equation (Fabio Toscano)
 : The roots of a quadratic polynomial $$ax^2 + bx + c$$ can be written as $$\displaystyle r=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$ or equivalently as $$\displaystyle\frac{-2c}{b\pm\sqrt{b^2-4ac}}$$, so, what is the formula for the roots of this cubic $$ax^3+bx^2+cx+d$$?
 
+<div>
+	<div class="d-flex justify-content-between hide-border-bottom">
+		<a href="#spoiler-1" data-bs-toggle="collapse" aria-expanded="false" aria-label="h_0-trigger" class="hide-border-bottom">
+			<i class="fa-fw fas fa-exclamation-triangle"></i>
+			Show spoiler
+			<i class="fas fa-fw fa-angle-down"></i>
+		</a>
+	</div>
+	<div id="spoiler-1" class="collapse" aria-expanded="false">
+		<blockquote class="prompt-tip" style="overflow-x: auto;">
+		The roots of the cubic \(ax^3+bx^2+cx+d\) are given by the below formula:
+		$$
+		\begin{aligned}
+		    r_1&=-\frac{1}{3a}\left[b+
+		    \sqrt[3]{\frac{2b^3-9abc+27a^2d\pm\sqrt{\left(2b^3-9abc+27a^2d\right)^2-4\left(b^2-3ac\right)^3}}{2}}
+		    +\frac{b^2-3ac}{\sqrt[3]{\frac{2b^3-9abc+27a^2d\pm\sqrt{\left(2b^3-9abc+27a^2d\right)^2-4\left(b^2-3ac\right)^3}}{2}}
+		    }\right]\\
+		    r_2&=-\frac{1}{3a}\left[b+
+		    \left(\frac{-1+\sqrt{-3}}{2}\right)\sqrt[3]{\frac{2b^3-9abc+27a^2d\pm\sqrt{\left(2b^3-9abc+27a^2d\right)^2-4\left(b^2-3ac\right)^3}}{2}}
+		    +\frac{b^2-3ac}{\left(\dfrac{-1+\sqrt{-3}}{2}\right)\sqrt[3]{\frac{2b^3-9abc+27a^2d\pm\sqrt{\left(2b^3-9abc+27a^2d\right)^2-4\left(b^2-3ac\right)^3}}{2}}
+		    }\right]\\
+		    r_3&=-\frac{1}{3a}\left[b+
+		    \left(\frac{-1-\sqrt{-3}}{2}\right)\sqrt[3]{\frac{2b^3-9abc+27a^2d\pm\sqrt{\left(2b^3-9abc+27a^2d\right)^2-4\left(b^2-3ac\right)^3}}{2}}
+		    +\frac{b^2-3ac}{\left(\dfrac{-1-\sqrt{-3}}{2}\right)\sqrt[3]{\frac{2b^3-9abc+27a^2d\pm\sqrt{\left(2b^3-9abc+27a^2d\right)^2-4\left(b^2-3ac\right)^3}}{2}}
+		    }\right]\\
+		\end{aligned}
+		$$
+		</blockquote>
+	</div>
+</div>
+
 Abel's Proof: An Essay on the Sources and Meaning of Mathematical Unsolvability (Peter Pesic)
-: Is there a formula to solve quartic equations $$(ax^4+bx^3+cx^2+dx+e=0)$$? [Yup!](https://upload.wikimedia.org/wikipedia/commons/9/99/Quartic_Formula.svg) But for quintic equations $$(ax^5+bx^4+cx^3+dx^2+ex+f=0)$$? 
+: Is there a formula to solve quartic equations $$(ax^4+bx^3+cx^2+dx+e=0)$$? But what about quintic equations $$(ax^5+bx^4+cx^3+dx^2+ex+f=0)$$? 
+
+<div>
+	<div class="d-flex justify-content-between hide-border-bottom">
+		<a href="#spoiler-2" data-bs-toggle="collapse" aria-expanded="false" aria-label="h_0-trigger" class="hide-border-bottom">
+			<i class="fa-fw fas fa-exclamation-triangle"></i>
+			Show spoiler
+			<i class="fas fa-fw fa-angle-down"></i>
+		</a>
+	</div>
+	<div id="spoiler-2" class="collapse" aria-expanded="false">
+		<blockquote class="prompt-tip" style="overflow-x: auto;">
+		The roots of the quartic \(x^4+ax^3+bx^2+cx+d\) are given by the below formula:
+		$$
+		\begin{align*}
+		r_1&=-\frac{a}{4}
+		        -\frac{1}{2}\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{\sqrt[3]{2}\left(b^2-3ac+12d\right)}{\sqrt[3]{\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)}}+\sqrt[3]{\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)}}
+		        -\frac{1}{2}\sqrt{\frac{a^2}{2}-\frac{4b}{3}+\frac{\sqrt[3]{2}\left(b^2-3ac+12d\right)}{3\sqrt[3]{\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)}}-\sqrt[3]{\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)}-\frac{-a^3+4ab-8c}{4\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{\sqrt[3]{2}\left(b^2-3ac+12d\right)}{3\sqrt[3]{\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)}}+\sqrt[3]{\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)}}}}\\
+		r_2&=-\frac{a}{4}
+		        -\frac{1}{2}\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{\sqrt[3]{2}\left(b^2-3ac+12d\right)}{\sqrt[3]{\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)}}+\sqrt[3]{\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)}}
+		        +\frac{1}{2}\sqrt{\frac{a^2}{2}-\frac{4b}{3}+\frac{\sqrt[3]{2}\left(b^2-3ac+12d\right)}{3\sqrt[3]{\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)}}-\sqrt[3]{\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)}-\frac{-a^3+4ab-8c}{4\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{\sqrt[3]{2}\left(b^2-3ac+12d\right)}{3\sqrt[3]{\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)}}+\sqrt[3]{\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)}}}}\\
+		r_3&=-\frac{a}{4}
+		        -\frac{1}{2}\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{\sqrt[3]{2}\left(b^2-3ac+12d\right)}{\sqrt[3]{\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)}}+\sqrt[3]{\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)}}
+		        -\frac{1}{2}\sqrt{\frac{a^2}{2}-\frac{4b}{3}+\frac{\sqrt[3]{2}\left(b^2-3ac+12d\right)}{3\sqrt[3]{\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)}}-\sqrt[3]{\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)}+\frac{-a^3+4ab-8c}{4\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{\sqrt[3]{2}\left(b^2-3ac+12d\right)}{3\sqrt[3]{\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)}}+\sqrt[3]{\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)}}}}\\
+		r_4&=-\frac{a}{4}
+		        -\frac{1}{2}\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{\sqrt[3]{2}\left(b^2-3ac+12d\right)}{\sqrt[3]{\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)}}+\sqrt[3]{\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)}}
+		        +\frac{1}{2}\sqrt{\frac{a^2}{2}-\frac{4b}{3}+\frac{\sqrt[3]{2}\left(b^2-3ac+12d\right)}{3\sqrt[3]{\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)}}-\sqrt[3]{\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)}+\frac{-a^3+4ab-8c}{4\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{\sqrt[3]{2}\left(b^2-3ac+12d\right)}{3\sqrt[3]{\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)}}+\sqrt[3]{\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)}}}}
+		\end{align*}
+		$$
+		</blockquote>
+	</div>
+		<div class="d-flex justify-content-between hide-border-bottom">
+		<a href="#spoiler-3" data-bs-toggle="collapse" aria-expanded="false" aria-label="h_0-trigger" class="hide-border-bottom">
+			<i class="fa-fw fas fa-exclamation-triangle"></i>
+			Show another spoiler
+			<i class="fas fa-fw fa-angle-down"></i>
+		</a>
+	</div>
+	<div id="spoiler-3" class="collapse" aria-expanded="false">
+		<blockquote class="prompt-info" style="overflow-x: auto;">
+		There is no <i>formula</i> for the solutions of general quintic equations.
+		</blockquote>
+	</div>
+</div>
 
 Dr. Euler's Fabulous Formula: Cures Many Mathematical Ills (Paul J. Nahin)
 : The book about the most beautiful equation is math $$\displaystyle e^{i\pi}+1=0$$
