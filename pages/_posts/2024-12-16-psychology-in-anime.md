@@ -39,7 +39,7 @@ This section discusses anime which are centered around mind games, where strateg
 ### Terror in Resonance
 ![](/terror-in-resonance.jpg)
 
-[Terror in Resonance]({{ site.url_prefixes.myanimelist.anime }}/23283) is about two terrorists _Nine_ and _~~Eleven~~ Twelve_ who wants to destroy the world. They challenge the government with their wits and leave them helpless. Now, it turns into a classic cat-and-mouse game, with the cops trying to catch them before they pull off something huge. The series has its flaws and can be a bit messy, but the [Oedipus riddles]({{ site.url_prefixes.wikipedia }}/Oedipus_and_the_Sphinx), the atmosphere, and the icelandic music more than make up for it.
+[Terror in Resonance]({{ site.url_prefixes.myanimelist.anime }}/23283) is about two terrorists _Nine_ and _~~Eleven~~ Twelve_ who wants to destroy the world. They challenge the government with their wits and leave them helpless. And, it turns into a classic cat-and-mouse game, with the cops trying to catch them before they pull off something huge. The series has its flaws and can be a bit messy, but the [Oedipus riddles]({{ site.url_prefixes.wikipedia }}/Oedipus_and_the_Sphinx), the atmosphere, and the icelandic music more than make up for it.
 > Psychological battle anime from my philosophy blog: [Death Parade]({% post_url 2024-08-12-philosophy-in-anime %}/#death-parade) and [Psycho Pass]({% post_url 2024-08-12-philosophy-in-anime %}/#psycho-pass)\
 Related popular anime: [Code Geass: Lelouch of the Rebellion]({{ site.url_prefixes.myanimelist.anime }}/1575), [Death Note]({{ site.url_prefixes.myanimelist.anime }}/1535) and [Kaguya-sama: Love Is War]({{ site.url_prefixes.myanimelist.anime }}/37999)
 {: .prompt-info}
