@@ -20,18 +20,14 @@ One last thing: Similar to my anime timeline, I have tried to make an image grid
 {: .prompt-tip}
 
 ![Manga Grid](/manga-grid.jpg)
-<div>
-  <div class="d-flex justify-content-between hide-border-bottom">
-    <a href="#grid-1" data-bs-toggle="collapse" aria-expanded="false" aria-label="h_0-trigger" class="hide-border-bottom">
-      <i class="fa-fw fas fa-exclamation-triangle"></i>
-      View Manga names
-      <i class="fas fa-fw fa-angle-down"></i>
-    </a>
-  </div>
-  <div id="grid-1" class="collapse" aria-expanded="false">
+{% capture details_content %}
     <iframe src="{{ site.cdn }}/manga-grid.txt" width="100%"></iframe>
-  </div>
-</div>
+{% endcapture %}
+{% include details-block-show.html
+  id="captions"
+    title="manga names"
+    content=details_content
+%}
 If you are curious about how I created these high-resolution image grids, feel free to check out this [little repository]({{ site.url_prefixes.github.param }}/image-grid-generator).
 
 ## Timeline

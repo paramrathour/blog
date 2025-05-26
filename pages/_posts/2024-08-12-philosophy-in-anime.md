@@ -258,18 +258,14 @@ The anime draws strong parallels with __Buddhism__[^buddhismideas], both themati
 
 This section presents three more anime with superhumans.
 #### Devilman Crybaby | Parasyte | Elfen Lied
-<div>
-	<div class="d-flex justify-content-between hide-border-bottom">
-		<a href="#nsfw-1" data-bs-toggle="collapse" aria-expanded="false" aria-label="h_0-trigger" class="hide-border-bottom">
-			<i class="fa-fw fas fa-exclamation-triangle"></i>
-			View NSFW image
-			<i class="fas fa-fw fa-angle-down"></i>
-		</a>
-	</div>
-	<div id="nsfw-1" class="collapse" aria-expanded="false">
-		<a href="{{ site.cdn }}/posthumanism-anime.jpg" class="popup img-link"><img src="{{ site.cdn }}/posthumanism-anime.jpg" alt="posthumanism-anime" loading="lazy"></a>
-	</div>
-</div>
+{% capture nsfw_content %}
+<a href="{{ site.cdn }}/posthumanism-anime.jpg" class="popup img-link"><img src="{{ site.cdn }}/posthumanism-anime.jpg" alt="posthumanism-anime" loading="lazy"></a>
+{% endcapture %}
+{% include details-block-show.html 
+	id="nsfw"
+    title="NSFW image" 
+    content=nsfw_content
+%}
 > Someone please like me as I am...\
 and let me like myself,\
 let me give a damn\

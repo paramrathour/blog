@@ -34,18 +34,14 @@ One last thing: Here are my favourite moments from each anime I have watched. We
 {: .prompt-tip}
 
 ![Anime Grid](/anime-grid.jpg)
-<div>
-  <div class="d-flex justify-content-between hide-border-bottom">
-    <a href="#grid-1" data-bs-toggle="collapse" aria-expanded="false" aria-label="h_0-trigger" class="hide-border-bottom">
-      <i class="fa-fw fas fa-exclamation-triangle"></i>
-      View anime names
-      <i class="fas fa-fw fa-angle-down"></i>
-    </a>
-  </div>
-  <div id="grid-1" class="collapse" aria-expanded="false">
+{% capture details_content %}
     <iframe src="{{ site.cdn }}/anime-grid.txt" width="100%"></iframe>
-  </div>
-</div>
+{% endcapture %}
+{% include details-block-show.html
+  id="captions"
+    title="anime names"
+    content=details_content
+%}
 If you are curious about how I created these high-resolution image grids, feel free to check out this [little repository]({{ site.url_prefixes.github.param }}/image-grid-generator).
 
 ## Timeline
