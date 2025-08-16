@@ -33,7 +33,7 @@ This section discusses anime which are centered around mind games, where strateg
 ![](/kaiji.png)
 
 [Kaiji]({{ site.url_prefixes.myanimelist.anime }}/3002) is an anime similar to One Outs; _Kaiji Itou_, our protagonist, is another gambling addict forced into playing strategy games. But, there are two major differences: first, _Kaiji isn't invincible_, and second, the stakes are much higher, with life-and-death situations that makes every decision carry greater weight. This means that across the variety of games Kaiji plays, he wins some, loses others; and when he  loses, he loses big time to get sucked even deeper into the gambling rabbit hole. 
-> Kaiji also has uncanny similarities with the Netflix TV series Squid Games[^kamisama]. So if you enjoyed Squid Game, you might like Kaiji as well.
+> Kaiji also has uncanny similarities with the Netflix TV series Squid Games.[^kamisama] So if you enjoyed Squid Game, you might like Kaiji as well.
 {: .prompt-tip}
 
 ### Terror in Resonance

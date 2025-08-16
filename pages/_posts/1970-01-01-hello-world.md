@@ -9,9 +9,9 @@ Hello World! This is my space where I talk about the meta aspects of the blog, l
 
 ## The Journey Begins
 ![](/06-10-30.jpg)
-I first got the idea to make my own blog wayback in 2020 as a way to dump my ramblings and IITB experiences. One of the primary motivating factors was to publish topics that frequently arose in my conversations with others. I had even put up a [coming soon](https://web.archive.org/web/20201012070646/https://paramrathour.github.io/Blog) page, with the plan to use the [random stuff]({{ site.url }}/random-stuff) page until I could organize my thoughts. But well, it (almost) never happened. I was too caught up with courses, assignments, watching anime or making CS101 [problem sets]({{ site.url }}/CS-101/Problems.pdf) ~~that rarely anybody solved~~ to find time for it. As a result, my wishlist of blog ideas kept piling up. It didn't help that I was never really passionate about writing, having never maintained any sort of diary/journal nor tried my hands at reviews/essay writing. My only comfort was in writing proofs xD.
+I first got the idea to make my own blog wayback in 2020 as a way to dump my ramblings and IITB experiences. One of the primary motivating factors was to publish topics that frequently arose in my conversations with others. I had even put up a [coming soon](https://web.archive.org/web/20201012070646/https://paramrathour.github.io/Blog) page, with the plan to use the [random stuff]({{ site.url }}/random-stuff) page until I could organize my thoughts. But well, it (almost) never happened. I was too caught up with courses, assignments, watching anime or making CS101 [problem sets]({{ site.url }}/CS-101/Problems.pdf) ~~that hardly anybody solved~~ to find time for it. As a result, my wishlist of blog ideas kept piling up. It didn't help that I was never really passionate about writing, having never maintained any sort of diary/journal nor tried my hands at reviews/essay writing. My only comfort was in writing proofs xD.
 
-The first big jump came in 2022, while I was TAing for the then CS101 batch. I got inspired by the coding tips provided by [Andrews](https://www.linkedin.com/in/andrews-varghese-a62680176) to the students and thought to add my own two cents from my multiple TAship experiences. The original write-up was super rough. It was more like a glorified list, but it eventually evolved into [this post]({% post_url 2022-04-08-cs101-tips %}).
+The first big jump came in 2022, while I was TAing for the then CS101 batch. I got inspired by the coding tips provided by [Andrews](https://www.linkedin.com/in/andrews-varghese-a62680176) to the students and thought to add my own two cents from my multiple TAship experiences. The original write-up was super rough; it was more like a [glorified list](https://web.archive.org/web/20250816224658/https://paramrathour.github.io/cs101/tips), which looking back feels so unpolished :D
 
 > But well, it seemed like this was the end.
 {: .prompt-info}
@@ -50,7 +50,7 @@ Then I started by rewriting my [CS101 tips]({% post_url 2022-04-08-cs101-tips %}
 Well, get ready for a time skip, if you thought I would be churning out blog posts now that I had everything setup, then oh boy, were you wrong. By now, I had became a ...
 
 ... slave to originality
-: There were so many ideas that I ditched because someone else had already done an amazing job on it, and I felt like I can barely improve upon it. Examples include the [self-help](https://shreyasnadkarni.medium.com/)ish stuff and the [philosophical deep dives](https://ksr.onl/blog/) made by my friends and also, the surprisingly intuitive and exciting [math articles](https://www.science4all.org/articles/) available on the internet.\
+: There were so many ideas that I ditched because someone else had already done an amazing job on it, and I felt like I can barely improve upon it. Examples include the [self-help](https://shreyasnadkarni.medium.com/)ish stuff and the [philosophical deep dives](https://ksr.onl/blog/) made by my friends and also, the surprisingly intuitive and exciting math [articles](https://www.science4all.org/articles/) and [videos](https://www.youtube.com/playlist?list=PLkahZjV5wKe-Z1RP3ZiYwe8JSAolmqF9M)/[playlists](https://www.youtube.com/playlist?list=PLsdeQ7TnWVm_EQG1rmb34ZBYe5ohrkL3t) available on the internet.\
 Even for posts that looked generic, I gave them a unique twist to set them apart from the rest.
 
 ... slave to perfection
@@ -73,7 +73,7 @@ Slowly but steadily, I got going with a quick and dirty trick of recycling my ow
 ![](/47-17-50.jpg)
 So yeah, it became pretty clear that I will pursue the path of pure enjoyment, maybe with a faint hope that others can find enjoyment in the same things I do.
 
-This is a complete departure to the often-advised route for aspiring content creators, which is about chasing trends, appeasing the almighty algorithm, and constantly grinding to stay relevant until the _content becomes the algorithm itself.[^algorithm]_
+This is a complete departure to the often-advised route for aspiring content creators, which is about chasing trends, appeasing the almighty algorithm, and constantly grinding to stay relevant until the _algorithm becomes the content itself.[^algorithm]_
 Well, most content creators have another problem to worry about, revenue! But that's not an issue here, as I strive to keep this blog always accessible, leaving it up to you to decide if it's worth your time :)
 
 ## Footnotes

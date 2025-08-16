@@ -55,7 +55,7 @@ The World of Mathematics (James R. Newman)
 : The monumental four-volume set which includes a general survey of mathematics, historical and biographical information on prominent mathematicians throughout history
 
 The Princeton Companion to Mathematics (Timothy Gowers, June Barrow-Green, Imre Leader)
-: A one-of-a-kind reference for anyone with a serious interest in mathematics, covering popular mathematicians, concepts, theorems and most importantly expository introductions to many branches of mathematics.
+: A one-of-a-kind reference for anyone with a serious interest in mathematics, covering popular mathematicians, concepts, theorems and most importantly expository introductions to many branches of mathematics. There's also has a sequel _The Princeton Companion to Applied Mathematics_ by Nicholas Higham and co.
 
 ## Fiction
 ![](/math-books-fiction.jpg)\
@@ -83,7 +83,7 @@ Math Wonders: To Inspire Teachers and Students (Alfred Posamentier)
 : The book that inspired me into learning mathematics. It is just a collection of fun patterns, calculations and other entertainments across high-school math topics.
 
 The Math Book: Big Ideas Simply Explained (DK)
-: A visually rich encyclopedia which covers everything from ancient times all the way to modern-day math ideas.
+: A visually rich encyclopedia which covers many "big ideas" in mathematics from ancient times all the way to modern-day math ideas, explaining them in _layperson_'s language.
 
 Humble Pi (Matt Parker)
 : A highly entertaining read dissecting cases when maths goes wrong in the real world
@@ -213,12 +213,13 @@ A Beautiful Math: John Nash, Game Theory, and the Modern Quest for a Code of Nat
 The Story of Proof: Logic and the History of Mathematics (John Stillwell)
 : An unconventional biography, not of an individual, but of a concept, tracing its significant historical milestones in the development of mathematics
 
-An Episodic History of Mathematics: Mathematical Culture through Problem Solving (Steven G. Krantz)
-: No time to read full biographies? Here's a collection of short ~~and sweet~~ stories of important figures in math
+No time to read full biographies? Here's a collection of short ~~and sweet~~ stories
 
-#### And More Miniatures
-- _Sherlock Holmes in Babylon and Other Tales of Mathematical History (Marlow Anderson, Victor Katz, Robin Wilson)_
-- _Who Gave You the Epsilon? And Other Tales of Mathematical History (Marlow Anderson, Victor Katz, Robin Wilson)_
+An Episodic History of Mathematics: Mathematical Culture through Problem Solving (Steven G. Krantz)
+: Goes through many important figures of mathematics and how they shaped new fields/techniques
+
+Sherlock Holmes in Babylon and Other Tales of Mathematical History (Marlow Anderson, Victor Katz, Robin Wilson)
+: Similar to above, but instead it (and its sequel _Who Gave You the Epsilon?_) is a collection of key topics; ranging from Ancient and Medieval Mathematics up to the Modern Mathematics till the 20<sup>th</sup> century
 
 But if you _do_ have time to spare, try the monographs of stories of some groundbreaking formulas and results in mathematics.
 #### Monographs
