@@ -1,0 +1,121 @@
+---
+title: Coding Theory
+description: My experiences with the DD conversion minor offered at IIT Bombay
+categories: [IIT Bombay, Academics]
+tags: [IITB, academics, tips]
+---
+Coding theory
+M_send —--------- M_receive
+
+10001                 11001 (11101, 11111)
+M_receive = 11111
+
+
+8 bits    1 bit flip   8 bits
+
+7 bits + 1 parity
+
+enCoding -> m_send . redundancy
+deCoding -> m_send . redundancy + noise -> m_send 
+
+
+0,1,2
+
+ABCABCAC
+
+%3
+
+0,1,2,3,4,...,9
+ISBN 0-201-55802-C
+0*10 + 2*9 + 0*8 + 1*7 + 5*6 + 5*5 + 8*4 + 0*3 + 2*2 + C = 116 + C
+C = 5
+116 + 5 = 121
+
+
+Weighing comparator
+10 objects,
+1kg, 2kg, …, 10kg
+10 bags 
+Each bag contains 10 objects 1kg, 2kg, …, 10kg
+One bag xkg object replaced by ykg object
+Eg 2kg -> 3kg
+
+10 bags -|
+
+
+
+
+
+0201558025
+0*10 + 2*9 + 0*8 + 1*7 + 5*6 + 5*5 + _*4 + 0*3 + 2*2 + 5 = _*4 + 89
+(_*4 + 89) % 11 = 0
+_*4 % 11 + 1 = 0
+_*4 % 11 = -1 = 10
+_*4*3 % 11 = 10*3
+_% 11 = 10*3 = 30 = 8
+
+
+0201559025
+
+
+PoA 24th may
+After Week 4, midterm report + revised PoA
+After Week 8, endterm report
+ Week 1-8
+
+
+
+Link will reset password
+Soscodingtheory
+Hash function
+090217n8h2d7eh9dihue98dhey72e
+345
+SOscOiBgtheory
+512
+Soscodingtheory
+512
+Uuy4876978398g678678g6786g98
+Soscodingtheory
+090217n8h2d7eh9dihue98dhey72e
+
+
+
+1 crore machines
+10 lakh machines 10 tests in a day
+
+1 crore RTPCR tests in a day
+1 sample -> 30/45 min 
+
+1 lakh tests 
+10 thousand
+A+B+C+D+E
+A+
+
+
+
+1000 people, party
+1000 people, 1000 party drink bottle
+1000 party drink bottle
+Exactly 1 bottle was poisoned
+10 rats, rat die in 20 minutes
+
+1000 bottles to 1000 numbers fromm 1-1000
+1-100 bottles to the rat 1
+101-200 bottles to the rat 2
+
+1 =       000000000
+2 =      000000001
+1000 = 1111101000
+1023 = 1111111111
+
+Rat 4,5,8,10
+0001100101 = 101st
+1110011010
+
+
+D-A-B-C-J
+	|
+	E
+
+
+A-B-C-D-E-A

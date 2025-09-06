@@ -1,0 +1,73 @@
+---
+layout: post
+title: Cryptography
+description: My experiences with the DD conversion minor offered at IIT Bombay
+categories: [IIT Bombay, Academics]
+tags: [IITB, academics, tips]
+---
+Cryptography vs Steganography
+The aim of cryptography is not to hide the existence of a message, but rather to hide its meaning, a process known as encryption.
+
+Message (Plaintext) -> Ciphertext
+Cryptography
+	transposition
+	substitution
+		Code
+			words or phrases
+		Cipher
+			letters
+		Encode
+			scramble a message using a code
+		Encipher
+			scramble a message using a cipher
+		Decode
+			unscramble an encoded message
+		Decipher
+			unscramble an enciphered message
+		Encrypt, Decrypt 
+			both codes and ciphers
+Cryptanalysis
+
+Substitution Cipher
+	Caesar's shift cipher
+	Mono-alphabetic
+	Poly-alphabetic
+		Vigenere cipher
+		Enigma
+Encryption
+	Symmetric key encryption
+	Asymmetric key encryption
+		Analogy with Locks
+
+Perfect secrecy
+	One Time Pad
+Semantic security
+	Computational security
+
+Indistinguishability
+	One Way Functions
+	
+Random Number Generators
+	Linear Feedback Shift Registers
+
+Stream Ciphers
+
+Message Authentication Codes
+	Digital Signature
+	Birthday Problem
+	Hash Functions
+
+Shared Key Generation
+	Trusted Third Parties
+		Merkle Puzzles
+	Diffie Hellman Protocol -> Discrete Logarithm
+
+Public Key Encryption
+	ElGamal public key cryptosystem
+	RSA -> Factorisation of semi primes
+	
+DES
+AES
+
+Elliptic Curve
+Lattice Methods

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Interesting stuff on the web
+description: My experiences with the DD conversion minor offered at IIT Bombay
+categories: [IIT Bombay, Academics]
+tags: [IITB, academics, tips]
+---

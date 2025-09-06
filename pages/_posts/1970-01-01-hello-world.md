@@ -50,7 +50,7 @@ Then I started by rewriting my [CS101 tips]({% post_url 2022-04-08-cs101-tips %}
 Well, get ready for a time skip, if you thought I would be churning out blog posts now that I had everything setup, then oh boy, were you wrong. By now, I had became a ...
 
 ... slave to originality
-: There were so many ideas that I ditched because someone else had already done an amazing job on it, and I felt like I can barely improve upon it. Examples include the [self-help](https://shreyasnadkarni.medium.com/)ish stuff and the [philosophical deep dives](https://ksr.onl/blog/) made by my friends and also, the surprisingly intuitive and exciting [math articles](https://www.science4all.org/articles/) available on the internet.\
+: There were so many ideas that I ditched because someone else had already done an amazing job on it, and I felt like I can barely improve upon it. Examples include the [self-help](https://shreyasnadkarni.medium.com/)ish stuff and the [philosophical deep dives](https://ksr.onl/blog/) made by my friends and also, the surprisingly intuitive and exciting math [articles](https://www.science4all.org/articles/) and [videos](https://www.youtube.com/playlist?list=PLkahZjV5wKe-Z1RP3ZiYwe8JSAolmqF9M)/[playlists](https://www.youtube.com/playlist?list=PLsdeQ7TnWVm_EQG1rmb34ZBYe5ohrkL3t) available on the internet.\
 Even for posts that looked generic, I gave them a unique twist to set them apart from the rest.
 
 ... slave to perfection
