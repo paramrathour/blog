@@ -1,5 +1,5 @@
 ---
-title: "Monogatari Series"
+title: "Monogatari"
 date: 2022-06-15
 code: 5081
 ---

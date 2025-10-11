@@ -7,4 +7,4 @@ composer_code: 11682
 video_id: PMO9fBpT40A
 year: 2006
 ---
-This anime had one of the most [chill]({{ site.url_prefixes.youtube.video }}/TCqaZm6HBmU) and [laid]({{ site.url_prefixes.youtube.video }}/DG_Yejl-0WM)-[back]({{ site.url_prefixes.youtube.video }}/BLeVEDj5BE0) music; sadly they haven't worked on more anime projects.
+This anime had one of the most [chill]({{ site.url_prefixes.youtube.video }}/TCqaZm6HBmU) and [laid-back]({{ site.url_prefixes.youtube.video }}/BLeVEDj5BE0) music; sadly they haven't worked on more anime projects.
