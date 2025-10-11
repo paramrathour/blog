@@ -32,7 +32,7 @@ To build the website
 - Clone the repository using `git clone --recursive https://github.com/paramrathour/blog`
 - In the repository directory,
 	- run `bundle` to install dependencies
-	- run `bundle exec jekyll serve` and open the website locally using the displayed URL
+	- run `JEKYLL_ENV=production bundle exec jekyll serve` and open the website locally using the displayed URL
 
 To create posts 
 - Use [Jekyll Compose](https://github.com/jekyll/jekyll-compose) commands to work with draft posts and then publish the drafts
@@ -40,17 +40,16 @@ To create posts
 ## Features
 ### Added
 - Toggle `paginator_enable` in the `_config.yml` to enable/disable pagination: [@c8a9dc1](https://github.com/paramrathour/blog/commit/c8a9dc11ca9b64b935661dc9d1da96611fdd8861)
-- Post description in search results: [file](https://github.com/paramrathour/blog/blob/main/assets/js/data/search.json)
 - 404 page [file](https://github.com/paramrathour/blog/blob/main/assets/404.html)
 - Reading time and last modified date on the home page: [file](https://github.com/paramrathour/blog/commits/main/_layouts/home.html), [@8237eed](https://github.com/paramrathour/blog/commit/8237eed3d5b5a43171ca8a002fa6d957916338cc), [@4c3137c](https://github.com/paramrathour/blog/commit/4c3137c21a843b9b620b61db718ce40697b192e0)
 ### Modified
-- Cross-platform Favicon support using [realfavicongenerator](https://realfavicongenerator.net/) (suggested by [Tirthankar](https://wermos.github.io/blog/)): [file](https://github.com/paramrathour/blog/commits/main/_includes/favicons.html), [@be29e4e](https://github.com/paramrathour/blog/commit/be29e4e61003aa9c1e7eb352b5a017ad5be92103)
+- Cross-platform Favicon support using [realfavicongenerator](https://realfavicongenerator.net/) (suggested by [wermos](https://wermos.github.io/blog/)): [file](https://github.com/paramrathour/blog/commits/main/_includes/favicons.html), [@be29e4e](https://github.com/paramrathour/blog/commit/be29e4e61003aa9c1e7eb352b5a017ad5be92103)
 - Increased search results limit: [file](https://github.com/paramrathour/blog/blob/main/_includes/search-loader.html)
-- Persistent color scheme across browser sessions, using `localStorage` instead of `sessionStorage`: [file](https://github.com/paramrathour/blog/commits/main/_includes/mode-toggle.html)
 - Changed collections directory: [@92b83b0](https://github.com/paramrathour/blog/commit/92b83b095c62800ab40a369b8715bbd2fa7f8785)
 - Larger tooltip size: [file](https://github.com/paramrathour/blog/blob/main/_includes/tooltip-style.html), [@a0ee300](https://github.com/paramrathour/blog/commit/a0ee3005cba5c02d2f2eee8b3dbbd8805adb8ad5)
 - Removed avatar-border: [@727c8ec](https://github.com/paramrathour/blog/commit/727c8ec2e7cdc5433c5a2ed674b64c07028c1315), [@677ca90](https://github.com/paramrathour/blog/commit/677ca9039006e826553ebdfe170738524b4d5ce2#diff-8c681e1a819cb60f283844738bd2c82b0f99f3018983332a85bdf05dbd4eee90)
-
+- Persistent color scheme across browser sessions, using `localStorage` instead of `sessionStorage`: [file](https://github.com/paramrathour/blog/commits/main/_includes/mode-toggle.html)
+	- Stopped working after v7.2.0 update :( [issue](https://github.com/paramrathour/blog/issues/2)
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/

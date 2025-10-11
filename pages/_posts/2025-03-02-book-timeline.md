@@ -13,20 +13,17 @@ Even though I recently created a [goodreads](https://www.goodreads.com/wrath3435
 Before you dive in, here are a few things to know. Since it's mostly repetitive, I won't go over it all again here. Check out [the other timeline]({% post_url 2023-12-14-anime-timeline %}) for more details!
 
 Omissions from the Collection
-: Not all the books I read will be on here. I maintain a [manga timeline]({% post_url 2023-12-14-manga-timeline %}) for Japanese graphic novels already, and, I don't think people _really_ want to know about my academic textbooks with raw math. So, I am leaving out anything that's not oriented towards general audience, I would love to share them but somewhere not here :)
+: Not all the books I read will be on here. I maintain a [manga timeline]({% post_url 2023-12-14-manga-timeline %}) for Japanese graphic novels already, and, I don't think people _really_ want to know about my academic textbooks with raw math. So, I am leaving out anything that's not oriented towards general audience, check out [math recommendations]({% post_url 2025-04-20-math-book-recommendations %}) if interested.
 
 Personal Insights
 : Just like my other timelines, I will share my two cents (mostly spoiler-free) on each read.\
 Hover/Click on the comments icon to uncover these insights.
 
-> Mobile users may need to rotate their device to landscape mode to read comments for longer titles.
-{: .prompt-tip }
-
 The Forgotten Past
 : Until recently, I didn't use to track completion dates. To handle cases where I don't remember the dates, I have chosen the last day (month) of the forgotten month (year).
 
 Series Struggles
-: In case of a book series, my thoughts generally apply to its entirety, but in some cases, I might need to categorize my thoughts by individual books, especially where I felt a need due to varying opinions across each book.\
+: In case of a book series, my thoughts generally apply to its entirety, but in some cases, I might need to categorize my thoughts by individual books, especially where I feel a need due to varying opinions across each book.\
 Another issue comes up while deciding the date of completion, let's just say that is up to me ( ͡ ° ͜ʖ ͡ °)
 
 ## The Firsts
@@ -39,7 +36,7 @@ It's tough to pinpoint my first book, but it was probably a cricket book coverin
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
 
-<div id="archives" class="pl-xl-3">
+<div class="pl-xl-3">
   {% for post in site.books %}
     {% assign abbreviation = post.slug | slugify %}
     {% assign cur_year = post.date | date: '%Y' %}
@@ -53,7 +50,7 @@ It's tough to pinpoint my first book, but it was probably a cricket book coverin
       {% assign last_year = cur_year %}
     {% endif %}
 
-    <li id={{ abbreviation }}>
+    <li id={{ abbreviation }} style="overflow-x: auto;  overflow-y: hidden; white-space: nowrap;">
       {% assign ts = post.date | date: '%s' %}
       <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
       <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">

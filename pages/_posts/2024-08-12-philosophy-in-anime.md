@@ -11,7 +11,7 @@ math: true
 {: .prompt-info}
 ## Introduction
 I have watched quite a lot of anime, nearly touching the three-figure mark. Yet, only a select few have left a lasting impression. These are the stories that resonate deeply with my thought process, the ones that I find myself to keep coming back to during difficult times. Such stories often offer meaningful lessons for humanity by exploring the intricacies of society and human nature.
-Of course, philosophy is not confined to anime alone; there are stories across all media that will force us to think and reflect upon ourselves.
+Though this blog will focus on anime, let us not forget that philosophy is not confined to anime alone; there are stories across all media that will force us to think and reflect upon ourselves. 
 > To discuss this in detail, I will touch upon the major themes of each show to highlight their philosophical aspects. So, this blog is definitely not spoiler-free, but I have tried to minimise them.
 <!-- > Lastly, to discuss in detail, I will have to include major themes of the show to shed light on its philosophical aspects. Though, I have tried to only give a high-level overview. These are definitely spoilers of the shows. So, You have been warned! -->
 {: .prompt-warning}
@@ -29,7 +29,7 @@ This section explores various ideologies that characters follow to achieve their
 ![](/vinland-saga.jpg)
 Let's start with the philosophy of Makoto Yukimura, the author of Vinland Saga (shared on X, translated by [DeepL](https://www.deepl.com/translator?share=generic#ja/en-us/%E6%9A%B4%E5%8A%9B%E3%82%92%E6%8C%AF%E3%82%8B%E3%81%86%E3%81%93%E3%81%A8%E3%82%92%E3%80%81%E3%81%BF%E3%82%93%E3%81%AA%E3%81%8C%E3%82%82%E3%81%A3%E3%81%A8%E3%81%9A%E3%81%A3%E3%81%A8%E3%81%A9%E3%82%93%E3%81%A9%E3%82%93%E6%81%A5%E3%81%9A%E3%81%8B%E3%81%97%E3%81%8F%E6%84%9F%E3%81%98%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%A8%E3%81%84%E3%81%84%E3%81%AD%E3%80%82%E3%82%82%E3%81%86%E3%81%AA%E3%82%93%E3%81%8B%E3%80%81%E9%8A%83%E3%82%92%E6%92%83%E3%81%A4%E3%81%AE%E3%81%A8%E3%81%A1%E3%82%93%E3%81%A1%E3%82%93%E4%B8%B8%E5%87%BA%E3%81%97%E3%81%8C%E5%90%8C%E3%81%98%E3%81%8F%E3%82%89%E3%81%84%E6%81%A5%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%A8%E3%81%84%E3%81%84%E3%81%AD%E3%80%82))
 > 暴力を振るうことを、みんながもっとずっとどんどん恥ずかしく感じるようになるといいね。もうなんか、銃を撃つのとちんちん丸出しが同じくらい恥ずかしい感じになるといいね。\
-I hope people feel more and more ashamed of committing violence all the time. I hope it already feels as embarrassing to shoot a gun as it does to show off your dick.\
+I hope people feel more and more ashamed of committing violence all the time. I hope it already feels as embarrassing to shoot a gun as it does to show off your dιck.\
 --- 幸村誠 ([@makotoyukimura](https://twitter.com/makotoyukimura)) [March 6, 2023](https://twitter.com/makotoyukimura/status/1632790542882070528)
 
 To explore his theme of violence, the author decided that the _Viking Age_ and its culture would be the most appropriate setting based on its defining feature: the _glorification of war_. The author took inspiration from real-life historical figures and events, while filling in the unknown using his creative ideas.
@@ -89,7 +89,7 @@ The point is, while there is no definitive right answer, you __do__ have to make
 Anyway, I could go on and on about Vinland Saga,[^vinlandblog] but this has already consumed six minutes of your time, and I need to cover more anime, so let us sail ahead :)
 ### Fate/Zero
 ![](/fate-zero.jpg)
-Fate/Zero is the ultimate battle royale for philosophy lovers. Its 14 main characters are all personification of ideals, and they clash for the ultimate prize in The Holy Grail War.\
+Fate/Zero[^fatewiki] is the ultimate battle royale for philosophy lovers. Its 14 main characters are all personification of ideals, and they clash for the ultimate prize in The Holy Grail War.\
 To keep things brief, I will just cover few characters and their principles.
 #### Utilitarianism
 > And there you go. Our Heroic Spirit over there considers a battlefield to be better than Hell.\
@@ -170,7 +170,7 @@ This section discusses the interesting ways this concept is explored in anime.
 People will gladly seek out any kind of excitement, even pain.\
 --- Shougo Makishima
 
-Imagine a world where everyone's mental state is constantly measured by a powerful computing system[^psychopasswiki].\
+Imagine a world where everyone's mental state is constantly measured by a powerful computing system.[^psychopasswiki]\
 This system's primary responsibility is to utilise its superior decision-making ability to maintain constant vigilance in the country. It _accurately_ quantifies every individual's likelihood to commit crimes using their **Crime Coefficient**. Once this coefficient of an individual increases beyond a certain level, they are classified as _criminals_ and become eligible for legal action. However, observe that no individual actually commits a crime. Their criminality is solely determined by their current mental state and by the belief that they will inevitably commit a crime unless preventive measures are taken.\
 Can you truly trust such a system? Well, such intelligent systems could be beyond our understanding, much like how humans perceive animals as beings incapable of comprehending our thoughts.
 <!-- This system also determines the roles individuals will play in society based on the results of its high-school examination. -->
@@ -198,7 +198,7 @@ The anime also presents a unique 'solution' to address the difference in power b
 > Humans all behave the same way, like idiots.\
 They all forget that someday they're going to die,\
 so the moment they come face to face with death, they cling to life.\
---- Ginti[^deathparadewiki]
+--- Ginti
 <!-- > I say...that people do not live just so that they can someday die.\
 It is because they are alive that they someday die.\
 There is no point to living.\
@@ -207,9 +207,7 @@ Judgment must be performed hand in hand with both life and death.\
 It is something that must be performed hand in hand with humans.\
 --- Decim -->
 
-
-
-The concept of Death Parade is pretty simple -- people play a life-and-death high-stakes game, and that's all the information they are told; but where Death Parade shines the most is in its realistic portrayal of complex and flawed human nature. It doesn't just paint people as good or bad but instead unveils their __morally grey__ nature.
+The concept of Death Parade[^deathparadewiki] is pretty simple -- people play a life-and-death high-stakes game, and that's all the information they are told; but where Death Parade shines the most is in its realistic portrayal of complex and flawed human nature. It doesn't just paint people as good or bad but instead unveils their __morally grey__ nature.
  <!-- It displays that humans are not black and which with good humans and bad humans but instead they are morally grey.  -->
 It shows how almost everyone resorts to unfair means when their life's on the line (and understandably so). It makes you wonder about the _breaking point_ of anyone you encounter and when they might abandon their morals for their own benefit.
 
@@ -232,7 +230,9 @@ The story also tackles loneliness and its strong psychological impact on our pro
 They're all part of my life, even the failures.\
 --- Kurisu Makise
 
-Another aspect discussed is the Philosophy of identity. Consider the thought experiment of the [Teletransportation Paradox](https://en.m.wikipedia.org/wiki/Teletransportation_paradox), where a hypothetical machine records one's molecular composition and re-creates them exactly using the same composition. Now, does the re-created person have the same [personal identity]({{ site.url_prefixes.wikipedia }}/Personal_identity)? Steins;Gate uses a similar concept but uses memories of the person and Steins;Gate 0 goes further into its _Ethics_ by feeding these memories into a conscious self-aware artificial intelligence (AI). More on this in the [coming section](#beyond-anthropocentrism), which is all about identity.
+Another theme the story brings up is the [Butterfly Effect]({{ site.url_prefixes.wikipedia }}/Butterfly_effect), if you could go back and change the past, would you? On the surface, it seems obvious: why not, right? this can be used to correct past failures. But think harder! How often has a single decision had a major influence in the course of your life? And, those were choices that you made! With the Butterfly Effect, even a tiny, background change in the past could ripple into chaotic consequences in the present.
+
+Lastly, it also discusses the Philosophy of Identity. Consider the thought experiment of the [Teletransportation Paradox]({{ site.url_prefixes.wikipedia }}/Teletransportation_paradox), where a hypothetical machine records one's molecular composition and re-creates them exactly using the same composition. Now, does the re-created person have the same [personal identity]({{ site.url_prefixes.wikipedia }}/Personal_identity)? Steins;Gate uses a similar concept but uses memories of the person and Steins;Gate 0 goes further into its _Ethics_ by feeding these memories into a conscious self-aware artificial intelligence (AI). More on this in the [coming section](#beyond-anthropocentrism), which is all about identity.
 
 ## Beyond Anthropocentrism
 _Anthropocentrism_ is the belief that human beings are the most important entity on the planet and that they are superior to other living and non-living entities.
@@ -260,18 +260,14 @@ The anime draws strong parallels with __Buddhism__[^buddhismideas], both themati
 
 This section presents three more anime with superhumans.
 #### Devilman Crybaby | Parasyte | Elfen Lied
-<div>
-	<div class="d-flex justify-content-between hide-border-bottom">
-		<a href="#nsfw-1" data-bs-toggle="collapse" aria-expanded="false" aria-label="h_0-trigger" class="hide-border-bottom">
-			<i class="fa-fw fas fa-exclamation-triangle"></i>
-			View NSFW image
-			<i class="fas fa-fw fa-angle-down"></i>
-		</a>
-	</div>
-	<div id="nsfw-1" class="collapse" aria-expanded="false">
-		<a href="{{ site.cdn }}/posthumanism-anime.jpg" class="popup img-link"><img src="{{ site.cdn }}/posthumanism-anime.jpg" alt="posthumanism-anime" loading="lazy"></a>
-	</div>
-</div>
+{% capture nsfw_content %}
+<a href="{{ site.cdn }}/posthumanism-anime.jpg" class="popup img-link"><img src="{{ site.cdn }}/posthumanism-anime.jpg" alt="posthumanism-anime" loading="lazy"></a>
+{% endcapture %}
+{% include details-block-show.html 
+	id="nsfw"
+    title="NSFW image" 
+    content=nsfw_content
+%}
 > Someone please like me as I am...\
 and let me like myself,\
 let me give a damn\
@@ -322,13 +318,13 @@ Cows, pigs, and chickens have a much higher rate of survival in captivity, more 
 So you see, the relationship is mutually beneficial for both parties.\
 --- Kyubey
 
-On the surface level, Madoka★Magica[^madokamagica] is a show about magical girls battling 'witches' who bring upon people despair. It features young girls who gain extraordinary powers from Kyubey in exchange for a single wish. However, it is later revealed that Kyubey is a member of an advanced alien species known as the Incubators, whose ulterior motive is to delay the [heat death of the universe]({{ site.url_prefixes.wikipedia }}/Heat_death_of_the_universe) by harnessing the emotions of these magical girls. To the Incubators, humans are not unique; they are merely tools to achieve a greater cosmic purpose, much like how we utilise livestock.
+On the surface level, Madoka★Magica[^madokamagicawiki] is a show about magical girls battling 'witches' who bring upon people despair. It features young girls who gain extraordinary powers from Kyubey in exchange for a single wish. However, it is later revealed that Kyubey is a member of an advanced alien species known as the Incubators, whose ulterior motive is to delay the [heat death of the universe]({{ site.url_prefixes.wikipedia }}/Heat_death_of_the_universe) by harnessing the emotions of these magical girls. To the Incubators, humans are not unique; they are merely tools to achieve a greater cosmic purpose, much like how we utilise livestock.
 This is ultimately a noble cause, but we see how humanity _struggles to accept its own insignificance_ in the grand scheme of things and how it antagonises the idea of anti-anthropocentrism that humans are just one of many forms of life, who are all subject to the same indifferent forces like _entropy_ that govern the entire universe.
 ## Conclusion
 The purpose of this blog was to highlight through anime, the idea of thinking more deeply about life and what it all means. I hope you had a fun time reading this stupidly long post and got something valuable from it.
 > Additionally, this blog serves as a recommendation list of some highly entertaining shows. If you are looking to get started with philosophy, I highly suggest _Kino's Journey_ (2003).
 ![](/kinos-journey-the-beautiful-world.jpg)
-> Check out my [BAC spotlight](https://bac.moe/blog/anime-spotlight-jan25) to know more about this anime.
+> Check out my [BAC spotlight](https://bac.moe/blog/anime-spotlight-jan25#kinos-journey) to know more about this anime.
 {: .prompt-tip}
 
 ## External Links
@@ -342,4 +338,4 @@ The purpose of this blog was to highlight through anime, the idea of thinking mo
 [^deathparadewiki]: [Death Parade Wiki -- Fandom](https://death-parade.fandom.com/wiki/)
 [^buddhismideas]: [Best Ideas from Buddhism -- Shreyas Nadkarni](https://shreyasnadkarni.medium.com/how-buddhism-can-change-your-life-2bbd67f82e30)
 [^mushishiwiki]: [Mushishi Wiki -- Fandom](https://mushishi.fandom.com/wiki/)
-[^madokamagica]: [Puella Magi Madoka★Magica Wiki -- Fandom](https://madoka-magica.fandom.com/wiki/)
+[^madokamagicawiki]: [Puella Magi Madoka★Magica Wiki -- Fandom](https://madoka-magica.fandom.com/wiki/)

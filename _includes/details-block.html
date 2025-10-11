@@ -1,0 +1,9 @@
+<details id="{{ include.id }}">
+    <summary><a href="#fc395fc9acc4c7d5f2eabafb92506f8c77377dd0-{{ include.id }}" data-proofer-ignore>{{ include.title }}</a></summary>
+    {{ include.content }}
+</details>
+<script>
+    document.getElementById("{{ include.id }}").addEventListener("click", function () {
+      document.getElementById("{{ include.id }}").open = !document.getElementById("{{ include.id }}").open;
+    });
+</script>
