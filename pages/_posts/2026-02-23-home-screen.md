@@ -386,7 +386,7 @@ Initially, I installed this app just because it could browse folders and preview
 On the editing side, it had a ton of annotation tools and powerful PDF restructuring features like reordering pages, editing page numbers, merging documents, and my all-time favourites: cropping and compressing PDFs. And all of that was free! No wonder then, that the team eventually _nerfed_ it by putting some of those features behind a paywall in newer versions, which was still fine but they completely ruined the UI as well. So yes, I am staying on `v5.0.22` for life (or at least until it inevitably breaks someday :).
 
 ### [All-In-One Calculator]({{ page.url_playstore_id }}=all.in.one.calculator)<sup>†</sup>
-After trying a bunch of calculator apps, this one easily felt like the best. It handled unit conversions, time intervals and even did neat math/geometry stuff like prime checking, and calculating area/perimeter/volumes from sides/angles (and vice versa). But what impressed me the most was its support for up to $$100000$$ digits, as I was successfully able to approximate $$26000!$$ Sadly, they soon reduced its limits to only $$10^{308}$$.
+After trying a bunch of calculator apps, this one easily felt like the best. It handled unit conversions, time intervals and even did neat math/geometry stuff like prime checking, and calculating area/perimeter/volumes from sides/angles (and vice versa). But what impressed me the most was its support for up to $$100000$$ digits, as I was successfully able to approximate $$26000!$$. Sadly, they soon reduced its limits to only $$10^{308}$$.
 
 Anyway, they even listened to my feedback and added support for graphing and base conversion, which was pretty cool. So, years later, I finally purchased the lifetime version for all the value it had provided me. And then... they switched to a subscription model asking for ₹1200+ per year (who is paying that for a calculator??) and completely revamped the UI. I thought that, just like Xodo, I would be stuck with an older version (`v2.2.8` this time). But while writing this rant, I double-checked the pricing and saw they have reinstated the lifetime purchase option, which is now at ₹499, while still offering yearly subscription at ₹299. More importantly, I got to restore my purchase! Looks like it is time for me to get used to the new UI. Still, I will really miss the in-calculator dynamic switching between numeric bases :(
 
@@ -403,7 +403,7 @@ Then in Class 12, my CS teacher showed us how to convert infix notation to postf
 After that, I went down a rabbit hole. I read an entire CS textbook in two days exploring core ideas, from Boolean algebra and Karnaugh maps to C++ syntax and data structures. Looking back, that phase really feels like a turning point. That's when programming suddenly clicked for me, when I finally crossed the barrier that most beginners struggle with.
 {: .prompt-info}
 
-While I may not use these calculators much nowadays (thanks to Python's numerous libraries and MATLAB's symbolic computing capabilities), I will forever be grateful to these "calculators" for guiding me through my pre-programming days. Also, a shoutout to [Desmos]({{ page.url_playstore_id }}=com.desmos.calculator), which I did not mention in detail due to the increasing length of this post.
+While I may not use these calculators much nowadays (thanks to Python's numerous libraries and MATLAB's symbolic computing capabilities), I will forever be grateful to these "calculators" for guiding me through my pre-programming days. Also, a shoutout to [Desmos]({{ page.url_playstore_id }}=com.desmos.calculator), which I did not mention in detail due to the increasing length of this post.[^14minutes]
 
 ### [Sesame]({{ page.url_playstore_id }}=ninja.sesame.app.edge)<sup>†</sup>
 Alright, back to apps. Not much to say about this one, it's basically a _universal_ search built into Nova. You can search for apps, settings, shortcuts, contacts, to-do lists, calendar events, and even stuff inside apps, like your YouTube subscriptions/watch later, Spotify playlists, Discord channels, Reddit subreddits and more. Just type, search, and instantly launch whatever you are looking for.
@@ -455,7 +455,8 @@ And I am sure Nova Launcher will stick around; if not on our phones, then at lea
 
 ## Footnotes
 
-[^ripdataobb]: u/AD-LB (Reddit), ["On Android R, no app can let you see what's inside "Android" folder anymore](https://www.reddit.com/r/androidapps/comments/gdwztw/on_android_r_no_app_can_let_you_see_whats_inside/)
+[^14minutes]: Well, there's another reason :) let's see if you can figure out why I don't want to make this post any longer.
+[^ripdataobb]: u/AD-LB (Reddit), ["On Android R, no app can let you see what's inside 'Android' folder anymore"](https://www.reddit.com/r/androidapps/comments/gdwztw/on_android_r_no_app_can_let_you_see_whats_inside/)
 [^rewards]: In case you are wondering, yes, I bought all my apps using rewards. It took yeaaarss! 😅
 [^foundermessage]: Kevin Barry, [And thanks for all the Tempeh](https://teslacoilapps.com/nova/solong.html)
 [^unexpectedupdate]: Brady Snyder, [Android Authority](https://www.androidauthority.com/nova-launcher-update-3611853/) and [Google Support](https://support.google.com/googleplay/android-developer/answer/11926878)
