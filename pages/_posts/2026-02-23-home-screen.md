@@ -27,7 +27,7 @@ Icon-Pack
 : [Flight Pro - Flat Minimalist Icons]({{ page.url_playstore_id }}=com.natewren.flight)<sup>†</sup>
 
 Widgets
-:	- Weather, Time and Calendar widget by [Transparent clock and weather]({{ page.url_playstore_id }}=com.droid27.transparentclockweather)
+:	- _Weather, Time and Calendar widget_ by [Transparent clock and weather]({{ page.url_playstore_id }}=com.droid27.transparentclockweather)
 	- _Battery Circle - White widget_ by Flight modified using [KWGT Kustom Widget Maker]({{ page.url_playstore_id }}=org.kustom.widget)<sup>†</sup>
 
 > <sup>†</sup> indicates I bought a paid version of the app (free version also available).
@@ -40,227 +40,169 @@ At first glance, the striking contrast of black and white might feel intense for
 Starting simple, the main widget shows the time, date, day, week number, upcoming alarm/event, temperature (high/low/feels like), and a short weather summary. With a single tap on respective areas of the widget, I can open the clock, calendar, weather app, or even toggle locations to check the weather for different cities.
 
 #### Icons
-For example, the bottom 15 icons do different things depending on whether I tap, swipe up, or swipe down on them. As shown in the table below, these actions can be as simple as opening an app, folder, app drawer or triggering a specific app shortcut.
+![](/icons/home-screen.jpg)
+_My Home-Screen icons (with main Dock)_
+
+Similarly, I can assign different actions to an icon depending on whether I tap, swipe up, or swipe down on it. These actions can be as simple as opening an app, folder, or app drawer, or they can trigger app-specific shortcuts for advanced usage. I have set up each of the above 15 icons, and the table below shows what happens when I swipe up, tap, or swipe down (in that order) on each one starting from the _dock_ apps (bottommost row) and moving upward.
+
 <div class="table-wrapper"><table>
 <thead><tr>
-<th>$x$</th>
-<th>$y$</th>
-<th>action</th>
-<th>app</th>
+<th style="width: 25%;">Icon</th>
+<th>Shortcut</th>
 </tr></thead>
 <tbody>
 <tr>
-<td rowspan="3">$0$</td>
-<td rowspan="3">$0$</td>
-<td>swipe-up</td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-3-column-1" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-3-column-1.jpg"></td>
 <td>Speed Dial</td>
 </tr>
 <tr>
-<td>tap</td>
 <td><strong>Dialer</strong></td>
 </tr>
 <tr>
-<td>swipe-down</td>
 <td>Speed Dial</td>
 </tr>
 <tr>
-<td rowspan="3">$0$</td>
-<td rowspan="3">$1$</td>
-<td>swipe-up</td>
-<td></td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-3-column-2" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-3-column-2.jpg"></td>
+<td>&nbsp;</td>
 </tr>
 <tr>
-<td>tap</td>
 <td><strong>Messages</strong></td>
 </tr>
 <tr>
-<td>swipe-down</td>
 <td>Contacts</td>
 </tr>
 <tr>
-<td rowspan="3">$0$</td>
-<td rowspan="3">$2$</td>
-<td>swipe-up</td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-3-column-3" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-3-column-3.jpg"></td>
 <td>Nova Search</td>
 </tr>
 <tr>
-<td>tap</td>
 <td>
-<strong>Google Apps</strong> (Folder)</td>
+<strong>Google</strong> (Folder)</td>
 </tr>
 <tr>
-<td>swipe-down</td>
 <td>Maps</td>
 </tr>
 <tr>
-<td rowspan="3">$0$</td>
-<td rowspan="3">$3$</td>
-<td>swipe-up</td>
-<td></td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-3-column-4" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-3-column-4.jpg"></td>
+<td>&nbsp;</td>
 </tr>
 <tr>
-<td>tap</td>
 <td><strong>Play Store</strong></td>
 </tr>
 <tr>
-<td>swipe-down</td>
 <td>App Drawer</td>
 </tr>
 <tr>
-<td rowspan="3">$0$</td>
-<td rowspan="3">$4$</td>
-<td>swipe-up</td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-3-column-5" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-3-column-5.jpg"></td>
 <td>Chrome</td>
 </tr>
 <tr>
-<td>tap</td>
 <td><strong>Edge</strong></td>
 </tr>
 <tr>
-<td>swipe-down</td>
 <td>Edge (Work)</td>
 </tr>
 <tr>
-<td rowspan="3">$1$</td>
-<td rowspan="3">$0$</td>
-<td>swipe-up</td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-2-column-1" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-2-column-1.jpg"></td>
 <td>Photos (Gallery)</td>
 </tr>
 <tr>
-<td>tap</td>
 <td><strong>Camera</strong></td>
 </tr>
 <tr>
-<td>swipe-down</td>
 <td>Adobe Scan (Text Scanner)</td>
 </tr>
 <tr>
-<td rowspan="3">$1$</td>
-<td rowspan="3">$1$</td>
-<td>swipe-up</td>
-<td>HiPER Calc Pro (Scientific Calculator)</td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-2-column-2" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-2-column-2.jpg"></td>
+<td>HiPER (Scientific Calculator)</td>
 </tr>
 <tr>
-<td>tap</td>
 <td><strong>All-In-One Calculator</strong></td>
 </tr>
 <tr>
-<td>swipe-down</td>
 <td>Desmos (Graphing Calculator)</td>
 </tr>
 <tr>
-<td rowspan="3">$1$</td>
-<td rowspan="3">$2$</td>
-<td>swipe-up</td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-2-column-3" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-2-column-3.jpg"></td>
 <td>Outlook (Work)</td>
 </tr>
 <tr>
-<td>tap</td>
 <td>
-<strong>Work Apps</strong> (Folder)</td>
+<strong>Work</strong> (Folder)</td>
 </tr>
 <tr>
-<td>swipe-down</td>
 <td>Teams (Work)</td>
 </tr>
 <tr>
-<td rowspan="3">$1$</td>
-<td rowspan="3">$3$</td>
-<td>swipe-up</td>
-<td>Scan &amp; Pay to QR (Alternate UPI Shortcut)</td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-2-column-4" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-2-column-4.jpg"></td>
+<td>Scan &amp; Pay to QR (Alternate UPI)</td>
 </tr>
 <tr>
-<td>tap</td>
 <td><strong>Gmail</strong></td>
 </tr>
 <tr>
-<td>swipe-down</td>
-<td>Scan &amp; Pay to QR (Default UPI Shortcut)</td>
+<td>Scan &amp; Pay to QR (Default UPI)</td>
 </tr>
 <tr>
-<td rowspan="3">$1$</td>
-<td rowspan="3">$4$</td>
-<td>swipe-up</td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-2-column-5" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-2-column-5.jpg"></td>
 <td>YouTube</td>
 </tr>
 <tr>
-<td>tap</td>
 <td><strong>YovTube</strong></td>
 </tr>
 <tr>
-<td>swipe-down</td>
 <td>YT Music</td>
 </tr>
 <tr>
-<td rowspan="3">$2$</td>
-<td rowspan="3">$0$</td>
-<td>swipe-up</td>
-<td>Default Food Delivery App</td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-1-column-1" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-1-column-1.jpg"></td>
+<td>Default Food Delivery</td>
 </tr>
 <tr>
-<td>tap</td>
 <td>
-<strong>Hyperlocal Commerce Apps</strong> (Folder)</td>
+<strong>Hyperlocal Commerce</strong> (Folder)</td>
 </tr>
 <tr>
-<td>swipe-down</td>
-<td>Default Ride-Hailing App</td>
+<td>Default Ride-Hailing</td>
 </tr>
 <tr>
-<td rowspan="3">$2$</td>
-<td rowspan="3">$1$</td>
-<td>swipe-up</td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-1-column-2" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-1-column-2.jpg"></td>
 <td>eReader Prestigio (ePub Reader)</td>
 </tr>
 <tr>
-<td>tap</td>
 <td>
 <strong>Xodo</strong> (PDF Reader)</td>
 </tr>
 <tr>
-<td>swipe-down</td>
 <td>Adobe Scan (Recent Text Scans)</td>
 </tr>
 <tr>
-<td rowspan="3">$2$</td>
-<td rowspan="3">$2$</td>
-<td>swipe-up</td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-1-column-3" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-1-column-3.jpg"></td>
 <td>Google Lens</td>
 </tr>
 <tr>
-<td>tap</td>
 <td><strong>Google Assistant</strong></td>
 </tr>
 <tr>
-<td>swipe-down</td>
 <td>Google Song Search (Shortcut)</td>
 </tr>
 <tr>
-<td rowspan="3">$2$</td>
-<td rowspan="3">$3$</td>
-<td>swipe-up</td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-1-column-4" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-1-column-4.jpg"></td>
 <td>Google Files</td>
 </tr>
 <tr>
-<td>tap</td>
 <td><strong>FX File Explorer</strong></td>
 </tr>
 <tr>
-<td>swipe-down</td>
 <td>Google Drive</td>
 </tr>
 <tr>
-<td rowspan="3">$2$</td>
-<td rowspan="3">$4$</td>
-<td>swipe-up</td>
+<td rowspan="3"><img class="normal shimmer" alt="icon-row-1-column-5" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-1-column-5.jpg"></td>
 <td>Pairdrop</td>
 </tr>
 <tr>
-<td>tap</td>
 <td>Security Stuff</td>
 </tr>
 <tr>
-<td>swipe-down</td>
 <td>More Security Stuff</td>
 </tr>
 </tbody>
@@ -271,90 +213,76 @@ For example, the bottom 15 icons do different things depending on whether I tap,
 ![](/secondary-light.jpg){: .light}
 _Secondary Home-screen (left) and App Drawer (right)_
 
-The layout of the other pages prioritises utility over aesthetics. The second home screen, which can be accessed by horizontal swiping, has three widgets (daily essentials list, work emails, and music playlist) and a separate dock, whose icons are again packed with shortcuts.
+The layout of the other pages prioritises utility over aesthetics. The second home screen, which can be accessed by swiping sideways, has three widgets (daily essentials list, work emails, and music playlist). There is also a secondary dock page (you can swipe to it from the main dock) with more icons and shortcuts, though not as many; as technically, these interactions are two steps away due to initial swiping. Anyway, I have summed up these shortcuts in the table below too.
 
 As for the app drawer, all my apps are neatly organised there, but I almost never scroll through it. I mostly just use Nova Search, which searches everything at once.
-<div class="table-wrapper"><table>
-<thead><tr>
-<th>$x$</th>
-<th>$y$</th>
-<th>action</th>
-<th>app</th>
-</tr></thead>
-<tbody>
-<tr>
-<td rowspan="3">$0$</td>
-<td rowspan="3">$0$</td>
-<td>swipe-up</td>
-<td></td>
-</tr>
-<tr>
-<td>tap</td>
-<td><strong>Social Apps</strong> (Folder)</td>
-</tr>
-<tr>
-<td>swipe-down</td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="3">$0$</td>
-<td rowspan="3">$1$</td>
-<td>swipe-up</td>
-<td>Book a ride to Home</td>
-</tr>
-<tr>
-<td>tap</td>
-<td><strong>Maps (Directions to Home)</strong></td>
-</tr>
-<tr>
-<td>swipe-down</td>
-<td>Book a ride to Home</td>
-</tr>
-<tr>
-<td rowspan="3">$0$</td>
-<td rowspan="3">$2$</td>
-<td>swipe-up</td>
-<td></td>
-</tr>
-<tr>
-<td>tap</td>
-<td>
-<strong>Utilities</strong> (Folder)</td>
-</tr>
-<tr>
-<td>swipe-down</td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="3">$0$</td>
-<td rowspan="3">$3$</td>
-<td>swipe-up</td>
-<td>Book a ride to Work</td>
-</tr>
-<tr>
-<td>tap</td>
-<td><strong>Maps (Directions to Work)</strong></td>
-</tr>
-<tr>
-<td>swipe-down</td>
-<td>Book a ride to Work</td>
-</tr>
-<tr>
-<td rowspan="3">$0$</td>
-<td rowspan="3">$4$</td>
-<td>swipe-up</td>
-<td></td>
-</tr>
-<tr>
-<td>tap</td>
-<td><strong>Cricket App</strong></td>
-</tr>
-<tr>
-<td>swipe-down</td>
-<td></td>
-</tr>
-</tbody>
-</table></div>
+
+### Icons
+![](/icons/secondary-screen.jpg)
+_My secondary-Screen icons (with alternate Dock)_
+
+<div class="table-wrapper">
+<table>
+	<thead>
+		<tr>
+			<th style="width: 25%;">Icon</th>
+			<th>Shortcut</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="3"><img class="normal shimmer" alt="icon-row-1-column-1" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/secondary-screen/row-1-column-1.jpg"></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Social</strong> (Folder)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="3"><img class="normal shimmer" alt="icon-row-1-column-2" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/secondary-screen/row-1-column-2.jpg"></td>
+			<td>Book a ride to Home</td>
+		</tr>
+		<tr>
+		<td><strong>Maps (Directions to Home)</strong></td>
+		</tr>
+		<tr>
+			<td>Book a ride to Home</td>
+		</tr>
+		<tr>
+			<td rowspan="3"><img class="normal shimmer" alt="icon-row-1-column-3" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/secondary-screen/row-1-column-3.jpg"></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Utilities</strong> (Folder)</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="3"><img class="normal shimmer" alt="icon-row-1-column-4" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/secondary-screen/row-1-column-4.jpg"></td>
+			<td>Book a ride to Work</td>
+		</tr>
+		<tr>
+			<td><strong>Maps (Directions to Work)</strong></td>
+		</tr>
+		<tr>
+			<td>Book a ride to Work</td>
+		</tr>
+		<tr>
+			<td rowspan="3"><img class="normal shimmer" alt="icon-row-1-column-5" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/secondary-screen/row-1-column-5.jpg"></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><strong>Cricket App</strong></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 ## My Everyday Essentials (Since 2017)
 
