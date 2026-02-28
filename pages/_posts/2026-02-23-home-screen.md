@@ -43,7 +43,11 @@ Starting simple, the main widget shows the time, date, day, week number, upcomin
 ![](/icons/home-screen.jpg)
 _My Home-Screen icons (with main Dock)_
 
-Similarly, I can assign different actions to an icon depending on whether I tap, swipe up, or swipe down on it. These actions can be as simple as opening an app, folder, or app drawer, or they can trigger app-specific shortcuts for advanced usage. I have set up each of the above 15 icons, and the table below shows what happens when I swipe up, tap, or swipe down (in that order) on each one starting from the _dock_ apps (bottommost row) and moving upward.
+Similarly, I can assign different actions to an icon depending on whether I tap, swipe up, or swipe down on it. These actions can be as simple as opening an app, folder, or they can trigger app-specific shortcuts for advanced usage. I have set up each of the above 15 icons, and the table below shows what happens when I swipe up, tap, or swipe down (in that order) on each one starting from the _dock_ apps (bottommost row) and moving upward.
+
+> On the surface, 45 shortcuts $$(15 \times 3)$$ sounds like way too much to remember. But here's the deal: the shortcuts are not random. In fact, they are designed to be intuitive.\
+For example, tap the <i class="fa-fw fas fa-camera"></i> icon and the camera opens. Swipe up? Gallery. Swipe down? Text scanner. Same with the <i class="fa-fw fas fa-calculator"></i> icon; I can launch a regular calculator, a scientific one, or even a graphing calculator just based on how I interact with it.
+{: .prompt-tip}
 
 <div class="table-wrapper"><table>
 <thead><tr>
@@ -53,13 +57,13 @@ Similarly, I can assign different actions to an icon depending on whether I tap,
 <tbody>
 <tr>
 <td rowspan="3"><img class="normal shimmer" alt="icon-row-3-column-1" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-3-column-1.jpg"></td>
-<td>Speed Dial</td>
+<td>Speed Dial (swipe-up <i class="fa-fw fas fa-angles-up"></i>)</td>
 </tr>
 <tr>
-<td><strong>Dialer</strong></td>
+<td><strong>Dialer</strong> (tap  <i class="fa-fw fas fa-hand-pointer"></i>)</td>
 </tr>
 <tr>
-<td>Speed Dial</td>
+<td>Speed Dial (swipe-down <i class="fa-fw fas fa-angles-down"></i>)</td>
 </tr>
 <tr>
 <td rowspan="3"><img class="normal shimmer" alt="icon-row-3-column-2" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-3-column-2.jpg"></td>
@@ -213,7 +217,7 @@ Similarly, I can assign different actions to an icon depending on whether I tap,
 ![](/secondary-light.jpg){: .light}
 _Secondary Home-screen (left) and App Drawer (right)_
 
-The layout of the other pages prioritises utility over aesthetics. The second home screen, which can be accessed by swiping sideways, has three widgets (daily essentials list, work emails, and music playlist). There is also a secondary dock page (you can swipe to it from the main dock) with more icons and shortcuts, though not as many; as technically, these interactions are two steps away due to initial swiping. Anyway, I have summed up these shortcuts in the table below too.
+The layout of the other pages prioritises utility over aesthetics. The second home screen, which can be accessed by swiping sideways, has three widgets (daily essentials list, work emails, and music playlist). There is also a secondary dock page (you can swipe to it from the main dock) with more icons and shortcuts, though not as many; as technically, these interactions are two steps away due to initial swiping, and so they are not always faster than just searching for the app directly. Instead, this dock focuses on shortcuts that would normally take several taps even after opening the app. These shortcuts are summed up in the table below too.
 
 As for the app drawer, all my apps are neatly organised there, but I almost never scroll through it. I mostly just use Nova Search, which searches everything at once.
 
@@ -294,31 +298,31 @@ anyway.
 
 So, let's get into the list.
 
-### [Musicolet]({{ page.url_playstore_id }}=in.krosbits.musicolet)
+### [Musicolet]({{ page.url_playstore_id }}=in.krosbits.musicolet) <i class="fa-fw fas fa-music"></i>
 As an offline music enjoyer, this app provides me with everything I want, from supporting tons of file formats, playing embedded/time-synchronised lyrics to even generating monthly/yearly recaps. It gives users a crazy amount of customisation options, whether it is the app interface or home-screen/lock-screen/notification widgets, or the super powerful capabilities to organise my local library.
 
 
 And the best part? It is completely offline and doesn't even need internet permission.
 
-### [FX File Explorer]({{ page.url_playstore_id }}=nextapp.fx)<sup>†</sup>
+### [FX File Explorer]({{ page.url_playstore_id }}=nextapp.fx)<sup>†</sup> <i class="fa-fw fas fa-folder-open"></i>
 A rare file app that doesn't contains any advertisement or tracking, and is also feature-rich; what more does one need? Aside from its aesthetically pleasing user interface (UI), it offers handy features such as file sharing, cleaning tools, and advanced stuff like network/cloud access with FX Plus.
 
 It has served me really well over the years, but ever since the Android 11 update, I have lost access to the `Android/data` folder (not the app's fault!).[^ripdataobb]
 
-### [Swiftkey]({{ page.url_playstore_id }}=com.touchtype.swiftkey)
+### [Swiftkey]({{ page.url_playstore_id }}=com.touchtype.swiftkey) <i class="fa-fw fas fa-keyboard"></i>
 Been using it since before Microsoft bought it 😎. While the overall experience is fairly standard and nothing wildly different from other keyboards, there is literally just one feature that has kept me hooked: _transliteration_ (not to be confused with translation). Using this, I can type in English and it automatically converts the text into other languages, so I never have to manually switch keyboards to type different languages.
 
-### [Xodo | PDF Reader and Editor]({{ page.url_playstore_id }}=com.xodo.pdf.reader)
+### [Xodo | PDF Reader and Editor]({{ page.url_playstore_id }}=com.xodo.pdf.reader) <i class="fa-fw fas fa-file-pdf"></i>
 Initially, I installed this app just because it could browse folders and preview thumbnails of all the PDFs inside them. But then I discovered true potential of this app. You could read PDFs in different modes (reading, single-page, double-page), switch colour schemes, toggle horizontal or vertical scrolling and that was just the viewing side.
 
 On the editing side, it had a ton of annotation tools and powerful PDF restructuring features like reordering pages, editing page numbers, merging documents, and my all-time favourites: cropping and compressing PDFs. And all of that was free! No wonder then, that the team eventually _nerfed_ it by putting some of those features behind a paywall in newer versions, which was still fine but they completely ruined the UI as well. So yes, I am staying on `v5.0.22` for life (or at least until it inevitably breaks someday :).
 
-### [All-In-One Calculator]({{ page.url_playstore_id }}=all.in.one.calculator)<sup>†</sup>
+### [All-In-One Calculator]({{ page.url_playstore_id }}=all.in.one.calculator)<sup>†</sup> <i class="fa-fw fas fa-calculator"></i>
 After trying a bunch of calculator apps, this one easily felt like the best. It handled unit conversions, time intervals and even did neat math/geometry stuff like prime checking, and calculating area/perimeter/volumes from sides/angles (and vice versa). But what impressed me the most was its support for up to $$100000$$ digits, as I was successfully able to approximate $$26000!$$. Sadly, they soon reduced its limits to only $$10^{308}$$.
 
-Anyway, they even listened to my feedback and added support for graphing and base conversion, which was pretty cool. So, years later, I finally purchased the lifetime version for all the value it had provided me. And then... they switched to a subscription model asking for ₹1200+ per year (who is paying that for a calculator??) and completely revamped the UI. I thought that, just like Xodo, I would be stuck with an older version (`v2.2.8` this time). But while writing this rant, I double-checked the pricing and saw they have reinstated the lifetime purchase option, which is now at ₹499, while still offering yearly subscription at ₹299. More importantly, I got to restore my purchase! Looks like it is time for me to get used to the new UI. Still, I will really miss the in-calculator dynamic switching between numeric bases :(
+Anyway, they even listened to my feedback and added support for graphing and base conversion, which was pretty cool. So, years later, I finally purchased the lifetime version for all the value it had provided me. And then... they switched to a subscription model asking for ₹1200+ per year (who is paying that for a calculator app??) and completely revamped the UI. I thought that, just like Xodo, I would be stuck with an older version (`v2.2.8` this time). But while writing this rant, I double-checked the pricing and saw they have reinstated the lifetime purchase option, which is now at ₹499, while still offering yearly subscription at ₹299. More importantly, I got to restore my purchase! Looks like it is time for me to get used to the new UI. Still, I will really miss the in-calculator dynamic switching between numeric bases :(
 
-### [HiPER Calc Pro]({{ page.url_playstore_id }}=cz.hipercalc.pro)<sup>†</sup>
+### [HiPER Calc Pro]({{ page.url_playstore_id }}=cz.hipercalc.pro)<sup>†</sup> <i class="fa-fw fas fa-square-root-variable"></i>
 Hands down the best scientific calculator. It had loads of mathematical functions but what really impressed my JEE-conditioned brain was the clean expression mode and the fact that it could compute many integrals. And unlike All-In-One, it could originally calculate $$1000!$$ digit-by-digit!
 Buuut, just like All-In-One, they later cut down the precision to just $$100$$ digits. Still more than enough for normal use (and let's not forget the exponent precision can go up to billions, implying that the app can represent $$10^{10^{10}-1}$$, which is crazy), but I still wonder why they nerfed it.
 
@@ -331,15 +335,15 @@ Then in Class 12, my CS teacher showed us how to convert infix notation to postf
 After that, I went down a rabbit hole. I read an entire CS textbook in two days exploring core ideas, from Boolean algebra and Karnaugh maps to C++ syntax and data structures. Looking back, that phase really feels like a turning point. That's when programming suddenly clicked for me, when I finally crossed the barrier that most beginners struggle with.
 {: .prompt-info}
 
-While I may not use these calculators much nowadays (thanks to Python's numerous libraries and MATLAB's symbolic computing capabilities), I will forever be grateful to these "calculators" for guiding me through my pre-programming days. Also, a shoutout to [Desmos]({{ page.url_playstore_id }}=com.desmos.calculator), which I did not mention in detail due to the increasing length of this post.[^14minutes]
+While I may not use these calculators much nowadays (thanks to Python's numerous libraries and MATLAB's symbolic computing capabilities), I will forever be grateful to these "calculators" for guiding me through my pre-programming days. Also, a shoutout to [Desmos]({{ page.url_playstore_id }}=com.desmos.calculator) <i class="fa-fw fas fa-bezier-curve"></i>, which I did not mention in detail due to the increasing length of this post.[^14minutes]
 
-### [Sesame]({{ page.url_playstore_id }}=ninja.sesame.app.edge)<sup>†</sup>
+### [Sesame]({{ page.url_playstore_id }}=ninja.sesame.app.edge)<sup>†</sup> <i class="fa-brands fa-searchengin"></i>
 Alright, back to apps. Not much to say about this one, it's basically a _universal_ search built into Nova. You can search for apps, settings, shortcuts, contacts, to-do lists, calendar events, and even stuff inside apps, like your YouTube subscriptions/watch later, Spotify playlists, Discord channels, Reddit subreddits and more. Just type, search, and instantly launch whatever you are looking for.
 
 > All this talk about calculators and advanced search optimisation… and you realise it might all become obsolete as AI keeps getting better.
 {: .prompt-warning}
 
-### [Nova Launcher]({{ page.url_playstore_id }}=com.teslacoilsw.launcher&hl=en_IN)<sup>†</sup>
+### [Nova Launcher]({{ page.url_playstore_id }}=com.teslacoilsw.launcher&hl=en_IN)<sup>†</sup> <i class="fa-fw fas fa-anchor"></i>
 What can I say; the GOAT among launchers. It was my first online purchase, hard-earned by scraping together _rewards_[^rewards] for a year, and it still works almost like a charm.
 And if you thought I went overboard with [icons](#icons) shortcuts, that was just a drop in the ocean. Nova gives you so much more! Gestures, integrations, insane levels of customisation for the home screen, app drawer, folders, search, feed, widgets, everything. Seriously, just try it!
 
@@ -357,7 +361,7 @@ Then came an unexpected `v8.1.3` update, which turned out to be a repackaged old
 
 Amid all the chaos, news emerged that Instabridge acquired Nova and would actively maintain it (calm). They started off by fixing bugs,[^bugfixes] but also said they would introduce ads as part of a sustainable business model (PANIC). At least they confirmed that Nova Prime stays ad-free for now (calm).[^novastay]
 
-While these developments are recent, the launcher community has never fully recovered from the gesture navigation feature introduced in Android 9, which made transitions between the Recent Apps screen and the Home screen choppy for third-party launchers.[^ripgestures] As a result of this downgrade, third-party launchers went from being decently popular to becoming a niche option.
+While these developments are recent, the launcher community never fully recovered from the gesture navigation feature introduced in Android 9, which made transitions between the Recent Apps screen and the Home screen choppy for third-party launchers.[^ripgestures] As a result of this downgrade, third-party launchers went from being decently popular to becoming a niche option.
 
 ## End of an Era
 If you noticed, almost every app I talked about, except Musicolet, has gone through some phase where it broke old features.
@@ -367,10 +371,9 @@ If you noticed, almost every app I talked about, except Musicolet, has gone thro
 - some apps were acquired by larger companies that altered their direction and broke earlier promises.
 - some apps shifted to costly subscription models, in order to remain financially viable.
 
-This suggests that my time with this carefully crafted setup is inherently limited. No matter how much effort I invest in it, this gradual decay in quality feels inevitable.
+This suggests that my time with this carefully crafted setup is inherently limited. No matter how much effort I invest in it, this gradual decay in quality feels inevitable. Is this why we can't have nice things?[^nicethings]
 
-Can this "death" be delayed?\
-Maybe the only real way is to support the developers, talk about their apps, and help them stay sustainable. And maybe, just maybe, I have hyped you up enough to try a few of them yourself.\
+Can this "death" be at least delayed? --- Maybe the only real way is to support the developers, talk about their apps, and help them stay sustainable. And maybe, just maybe, I have hyped you up enough to try a few of them yourself.\
 But this assumes delaying their death is even a good thing. Tech will evolve, new tools replace old ones. Maybe this isn't decay, maybe it's just change. And maybe, the next phase will be just as exciting in a different way.
 
 > Coincidentally, today marks 14 years since Nova was launched on the Play Store. I don't know what it is with me and accidentally writing stuff on anniversaries (cough [Knuth]({% post_url 2024-01-10-knuth %}) cough).
@@ -392,3 +395,4 @@ And I am sure Nova Launcher will stick around; if not on our phones, then at lea
 [^novastay]: Instabridge, ["Nova Launcher: An Update"](https://novalauncher.com/nova-is-here-to-stay)
 [^ripgestures]: Malcolm II (Google Support), ["Overview/gesture support for third party launchers?"](https://support.google.com/pixelphone/thread/28359094/overview-gesture-support-for-third-party-launchers)
 [^tomscott]: Tom Scott, ["This Video Has _ Views"]({{ site.url_prefixes.youtube.video }}/BxV14h0kFs0)
+[^nicethings]: Veritasium, ["This is why we can't have nice things"]({{ site.url_prefixes.youtube.video }}/j5v8D-alAKE).
