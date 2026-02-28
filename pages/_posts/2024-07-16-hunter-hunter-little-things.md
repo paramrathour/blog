@@ -219,7 +219,7 @@ _Episodes [32]({{ page.url_fandom_hxh }}/Episode_32_(2011)), [40]({{ page.url_fa
 We were introduced to the concept during the Hisoka vs [Kastro]({{ page.url_fandom_hxh }}/Kastro) fight. From there, we explored puppets of [Tocino]({{ page.url_fandom_hxh }}/Shachmono_Tocino) and Razor. But Morel was the M.V.P., he can not only create a lot of puppets but they are of _higher quality_ than any other puppets seen in the anime. Though quantity-wise, the royal guards are at a completely different level.
 ![](/086-14-105-13.jpg)
 _Episodes [86]({{ page.url_fandom_hxh }}/Episode_86_(2011)), [105]({{ page.url_fandom_hxh }}/Episode_105_(2011))_
-Also, an honourable mention for those puppets not intended for direct fights ft. Bisky and [Pitou]({{ page.url_fandom_hxh }}/Neferpitou).
+Also, shoutout to those puppets not intended for direct combat,s ft. Bisky and [Pitou]({{ page.url_fandom_hxh }}/Neferpitou).
 ### Steal
 ![](/052-18-106-20-135-00.jpg)
 _Episodes [52]({{ page.url_fandom_hxh }}/Episode_52_(2011)), [106]({{ page.url_fandom_hxh }}/Episode_106_(2011)), [135]({{ page.url_fandom_hxh }}/Episode_135_(2011))_
