@@ -116,8 +116,8 @@ Mathematical Fallacies, Flaws, and Flimflam (Edward J. Barbeau)
 : This book (and its [sequel](https://bookstore.ams.org/view?ProductCode=SPEC/74)) encourages readers to find out errors in the seemingly "true proofs" of false statements
 
 #### Collections
-(Almost) Impossible Integrals, Sums, and Series (Cornel Ioan Vălean)
-: For the lovers of challenging math problems. And it has a [sequel](https://link.springer.com/book/10.1007/978-3-031-21262-8) too
+Limits, Series, and Fractional Part Integrals (Ovidiu Furdui)
+: For the lovers of challenging analysis problems, and there are two more books by Cornel Ioan Vălean: [(Almost) Impossible Integrals, Sums, and Series](https://link.springer.com/book/10.1007/978-3-030-02462-8) and its [sequel](https://link.springer.com/book/10.1007/978-3-031-21262-8)
 
 Some more collections of specific topics followed by few general curiosities!
 - _Thirty-three Miniatures: Mathematical and Algorithmic Applications of Linear Algebra (Jiri Matousek)_
@@ -308,8 +308,8 @@ Euler's Gem: The Polyhedron Formula and the Birth of Topology (David S. Richeson
 Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem (Simon Singh)
 : I have discovered a truly marvellous description of this book, but this blog is already too long to contain
 
-The Riemann Hypothesis: A Million Dollar Problem (Roland van der Veen, Jan van de Craats)
-: One of the Millennium Prize Problems, solving it is considered as the hardest way to earn a million dollars
+Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics (John Derbyshire)
+: The definitive story of the Riemann Hypothesis, one of the Millennium Prize Problems, solving it is considered as the hardest way to earn a million dollars
 
 The Golden Ticket: P, NP, and the Search for the Impossible (Lance Fortnow)
 : Another one of the Millennium Prize Problems, whose result can have stunning practical consequences
