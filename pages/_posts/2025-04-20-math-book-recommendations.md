@@ -126,6 +126,7 @@ Some more collections of specific topics followed by few general curiosities!
 - _Ingenuity in Mathematics (Ross Honsberger)_
 - _Mathematical Miniatures (Svetoslav Savchev, Titu Andreescu)_
 
+##### A Historial Angle
 100 Years of Math Milestones (Stephan Ramon Garcia, Steven J. Miller)
 : The centennial collection of important mathematical developments of each year from 1913-2012
 
