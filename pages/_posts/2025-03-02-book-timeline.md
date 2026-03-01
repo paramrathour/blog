@@ -4,6 +4,7 @@ description: "Unveiling my book journey: thoughts and timeline"
 categories: [Books]
 tags: [books, timeline]
 date: 2025-03-02 19:59 +0530
+timeline: true
 ---
 ## Motivation
 After [anime]({% post_url 2023-12-14-anime-timeline %}) and [manga]({% post_url 2023-12-14-manga-timeline %}), I am back with another timeline as I have finally restarted reading books outside of math and manga sphere. 

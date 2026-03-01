@@ -6,7 +6,6 @@ categories: [Computer Science, Programming]
 tags: [latex, computer-science, programming, tutorial, tips, sos]
 date: 2023-12-17 08:21 +0530
 math: true
-pin: true
 ---
 ## History
 While working on his magnum opus, 'The Art of Computer Programming', Donald Knuth was disappointed with the quality of typesetting, which led him to develop $$\TeX$$, a typesetting system intended for creating of beautiful books that contain a lot of mathematics[^texbook]. With Leslie Lamport's modifications, $$\LaTeX$$ was born.

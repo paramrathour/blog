@@ -5,6 +5,7 @@ categories: [Animanga]
 tags: [animanga, anime, timeline]
 date: 2023-12-14 07:59:05 +05:30
 math: true
+timeline: true
 ---
 ## Motivation
 While popular platforms like [Anilist](https://anilist.co/user/wrath3435/animelist) or [MyAnimeList](https://myanimelist.net/animelist/wrath3435) serve as valuable tools for anime tracking, they love to repeat stuff. There are separate entries for each season, part, cour, movie, OVA, ... you name it.
@@ -27,6 +28,13 @@ Choose those dates when
 
 ### The Forgotten Past
 Back in 2018, I didn't use to track these dates. Also while creating this timeline, I realised I have lost some random dates. To handle such cases, I have chosen the last day of the month I likely 'completed' the show.
+
+## The Firsts
+It really depends on what you count as anime. Growing up, I loved watching [Doraemon]({{ site.url_prefixes.myanimelist.anime }}/2471), [Shinchan]({{ site.url_prefixes.myanimelist.anime }}/966), [Ninja Hattori]({{ site.url_prefixes.myanimelist.anime }}/4936), [Kiteretsu]({{ site.url_prefixes.myanimelist.anime }}/6509), and [Perman]({{ site.url_prefixes.myanimelist.anime }}/11595), all in Hindi dubs. I had even seen 20+ Doraemon and Shinchan movies, [some]({{ site.url_prefixes.myanimelist.anime }}/10534) of which still stand out today! Of course, I watched a few Western cartoons too. But for some reason, I always felt more drawn towards the Japanese aesthetic. In 2016, following Ash's journey became my routine with the daily episodes of [Pokémon]({{ site.url_prefixes.myanimelist.anime }}/527)'s Indigo League and Orange League arcs; and, I had planned to continue watching the later arcs of the series.
+
+But then in 2018, a friend randomly recommended [Death Note]({{ site.url_prefixes.myanimelist.anime }}/1535) (English dub) to me. I had no idea what to expect, but I completely trusted the rec and that decision had a huge impact on my life. Its morally complex nature changed the kind of media I consumed and, as a result, shaped the ideas I picked up while watching these "Japanese cartoons".
+
+I think my first proper Japanese dub experience was in 2018 with [Attack on Titan S3]({{ site.url_prefixes.myanimelist.anime }}/35760). I just couldn't wait for the English dub anymore since it was airing about five weeks later than the original episodes. But the first new show I actually started in Japanese from the beginning came much later in 2021 ([ODDTAXI]({{ site.url_prefixes.myanimelist.anime }}/46102)).
 
 ## Anime Grid
 One last thing: Here are my favourite moments from each anime I have watched. Well, not quite all of them, as the number has been rounded down to the nearest perfect square to fit the grid. But don't worry, these are spoiler-free to look at without context.
@@ -119,4 +127,4 @@ Also, here is a tier list, just for fun (with no captions :)
 
 ## External Links
 [^goldenratio]: [The Golden Ratio (Why It Is so Irrational)]({{ site.url_prefixes.youtube.video }}/sj8Sg8qnjOg) by [Numberphile]({{ site.url_prefixes.youtube.home }}/@numberphile)
-[^fixedpoint]: A fixed point happens when the completed Anime's name contains its completion number
+[^fixedpoint]: A fixed point happens when the completed anime's name contains its completion number

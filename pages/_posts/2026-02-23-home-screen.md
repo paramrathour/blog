@@ -1,7 +1,7 @@
 ---
 title: What's on my Smartphone?
 description: My over-engineered home-screen setup, the apps I use, and the end of an era
-tags: [technology, short-read]
+tags: [technology, short-read, tutorial]
 media_subpath: /home-screen/
 image: thumbnail.jpg
 math: true
