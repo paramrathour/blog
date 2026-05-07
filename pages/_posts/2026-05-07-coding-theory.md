@@ -174,6 +174,6 @@ And with that, we have reached the goal of the problem, you now know the best sc
 
 All this will be covered by 11th May, so come back to the same blog. See you soon.
 
-Though there is more to come I hope, with this problem I have ignited enough interest for you to start your own journey with Coding Theory. Also, apologies for the rough draft, I am really short at time at the moment. But I will come back and polish all the little things when I get more time.
+Though there is more to come, I hope with this problem I have ignited enough interest for you to start your own journey with Coding Theory. Also, apologies for the rough draft, I am really short at time at the moment. But I will come back and polish all the little things when I get more time.
 
 <!-- ## Codes for Error Detection and Correction -->
