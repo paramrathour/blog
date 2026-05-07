@@ -7,7 +7,7 @@ math: true
 date: 2026-05-07 16:20 +0530
 ---
 > This post is designed for people with absolutely no idea about coding theory. Refer to
-[introduction](#introduction) and []() section in case you want to skip the basic stuff.
+the [introduction](#introduction) in case you want to skip the basic stuff.
 {: .prompt-tip}
 
 ## Codes for Communication
