@@ -2,7 +2,7 @@
 title: "Coding Theory: A Playful Introduction #SoME5"
 description: "Let's cut through the noise, one bit at a time"
 categories: [Math]
-tags: [math, sos, some]
+tags: [math, computer-science, sos, some]
 date: 2026-05-17 16:20 +0530
 math: true
 ---
@@ -33,7 +33,7 @@ What you developed was a _code_, i.e., a system for transferring _information_ (
 > This shouldn't be confused with the popular term with the same name 'coding' which means writing a computer program i.e., instructions for a computer.
 {: .prompt-warning}
 
-Now, let's back to the problem.
+Now, let's get back to the problem.
 ### Attempt 3 (Frequency Analysis)
 This discovery is great and as a result you want to send $$\textrm{I LOVE CODING THEORY}$$ next, well guess what, it turns out to be $$206$$ blinks, too long :(
 
@@ -89,7 +89,7 @@ _Morse Code Decoding for English letters_
 
 Let's try to decode the text below, I have added appropriate [punctuation](#punctuation) of length $$1$$ dot, $$1$$ dash and $$2$$ dashes to distinguish between symbols, letters, and words respectively
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; overflow-y: hidden;">
 <p>$$\bullet\bullet\,\,\,\,\,\,\bullet-\bullet\bullet\,\,\,-\,-\,-\,\,\,\bullet\bullet\,\bullet-\,\,\,\bullet\,\,\,\,\,\,-\bullet-\bullet\,\,\,-\,-\,-\,\,\,-\bullet\,\bullet\,\,\,\bullet\,\bullet\,\,\,-\bullet\,\,\,-\,-\bullet\,\,\,\,\,\,-\,\,\,\bullet\bullet\,\bullet\,\bullet\,\,\,\bullet\,\,\,-\,-\,-\,\,\,\bullet-\bullet\,\,\,-\bullet-\,-$$</p>
 </div>
 
@@ -170,9 +170,9 @@ Let's try an example $$\textrm{I LOVE}$$ can be encoded as following from lookin
 ![Huffman Code Decoding for English letters](/huffman-code-decoding-dark.svg){: .dark}
 _Huffman Code Decoding for English letters (Tree generated using [Huffman Coding Calculator](https://www.dcode.fr/huffman-tree-compression) by [dCode](https://www.dcode.fr/))_
 
-Notice, already that there are no symbols at internal nodes implying that this code is prefix-free. Now, to decode this our previous message all we need to is start from the root node, and go up or down the branches appropriately, and as soon as we reach a leaf, we stop, that's one letter decoded and then we go back to root node and repeat the process. And, it will work!
+Notice, already that there are no symbols at internal nodes implying that this code is prefix-free. Now, to decode our previous message, all we need to is start from the root node, and go up or down the branches appropriately, and as soon as we reach a leaf, we stop, that's one letter decoded and then we go back to root node and repeat the process. And, it will work!
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$1001001110101011111100001100100001101111011100110001010110011110010001110110001101010$$
 </div>
 
@@ -180,19 +180,21 @@ $$\textrm{I LOVE CODING THEORY}$$ in its entirety requires $$85$$ symbols which 
 
 
 #### Huffman Tree Generation
-Go back to the encoding table and, you will see that the codewords for $$\textrm{E}$$ (and `<space>`) have the shortest length and letters like $$\textrm{Q}$$, $$\textrm{Z}$$ are the longest, in fact more than thrice in length compared to the shortest codewords. This hints to our good old frequency analysis. 
 
+Intuition
+: Go back to the encoding table and, you will see that the codewords for $$\textrm{E}$$ (and `<space>`) have the shortest length and letters like $$\textrm{Q}$$, $$\textrm{Z}$$ are the longest, in fact more than thrice in length compared to the shortest codewords. This hints to our good old frequency analysis. In that analysis, we simply sorted all the frequencies and assigned a Base $1$ codeword based on rankings, which were linear. But, now we are working in Base $2$, so we get one more dimension to work with, and the number of combinations explode (like how we got $30$ codewords with only $4$ symbols in Morse). This significantly reduces the maximum possible length compared to our Base $$1$$ analysis.\
+The second (more important) principle on which Huffman based his algorithm was also similar to our previous discussions. Just how less frequent symbols, got more $$\#$$blinks, even in Huffman Tree, less frequent symbols, get codewords of longer length, which ultimately will mean more $$\#$$blinks if used for communication. And so, this tree generation algorithm, always works to find least frequent symbols first to put those at more depth in tree.
 
 ![Huffman Code Generation](/huffman-code-generation-light.svg){: .light width="600"}
 ![Huffman Code Generation](/huffman-code-generation-dark.svg){: .dark width="600"}
 _Huffman Code Generation for a sentence with six characters ([Image](https://en.wikipedia.org/wiki/File:Huffman_coding_visualisation.svg) by [Cmglee](https://commons.wikimedia.org/wiki/User:Cmglee) licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))_
 
-The tree generation process, can be done for any message that you want to send. There are $$3$$ simple steps
+Now, the tree generation process, can be done for any message that you want to send. There are $$3$$ simple steps
 - (initial step) sort the characters by frequency and put them in a list
 - (repetitive step) merge the least frequent characters into a smol tree (partial tree) and reinsert this tree into the sorted list with the frequency equal to sum of frequency of characters that make up this tree
 - keep doing the repetitive step until we use all the characters and are left with just one tree, the final tree
 
-Ideally, the generated tree depends on sentence to be shared, and so while communicating every message, its generated tree should also be shared, as it will be needed for decoding. But for the purposes of my example, I constructed a general tree which can be used for all messages. This Huffman tree generation uses each letter with their frequency according to the discussed frequency analysis table. You can think of this as using a giant book as the "sentence" in the above tree creation process, since the frequencies of characters in a giant book will roughly match with frequency analysis table. So, we don't need to share this tree, as long as we agree on the frequencies, our tree will be the same, right? Well, there is a little technicality. Let's look at #4 in the tree generation image. What if $$\textrm{A}$$ also had frequency of $$10$$, then we will have a three-way tie between the `<space>`, $$\textrm{A}$$ and $$\textrm{D}$$. We can pick any two of them and continue from there. But each such combination will lead to a different tree. So, if we want to generate the same trees every time, we also need to follow same _convention_ to break these ties, one possible example could be always picking up the "earliest" letter pair and giving an highest priority to `<space>` if it is present. So, as long as we agree on the frequencies and our conventions, our tree will be the same, and we don't need to send it everything.
+Ideally, the generated tree depends on sentence to be shared, and so while communicating every message, its generated tree should also be shared, as it will be needed for decoding. But for the purposes of my example, I constructed a general tree which can be used for all messages. This Huffman tree generation uses each letter with their frequency according to the discussed frequency analysis table. You can think of this as using a giant book as the "sentence" in the above tree creation process, since the frequencies of characters in a giant book will roughly match with frequency analysis table. So, we don't need to share this tree, as long as we agree on the frequencies, our tree will be the same, right? Well, there is a little technicality. Let's look at 4 in the tree generation image. What if $$\textrm{A}$$ also had frequency of $$10$$, then we will have a three-way tie between the `<space>`, $$\textrm{A}$$ and $$\textrm{D}$$. We can pick any two of them and continue from there. But each such combination will lead to a different tree. So, if we want to generate the same trees every time, we also need to follow same _convention_ to break these ties, one possible example could be always picking up the "earliest" letter pair and giving the highest priority to `<space>` if it is present. So, as long as we agree on the frequencies and our conventions, our tree will be the same, and we don't need to send it everything.
 {: .prompt-info}
 
 ## Comparison of Schemes
@@ -220,7 +222,7 @@ Here, our encoded message consists of blinks and three levels of _pauses_ as dis
 
 We can calculate the total time taken, by calculating time taken by each part independently and summing them together like below
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$
 \begin{align}
 t &= \text{time spent blinking }+\text{pause within letters }+\text{pause between letters }+\text{pause between words}
@@ -230,7 +232,7 @@ $$
 
 So, the total time taken by our 2<sup>nd</sup> attempt $t_2$ for any sending any collection of words is given by 
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$
 \begin{align}
 t_2 &= \underbrace{\text{#blinks}\cdot½}_{\text{time spent blinking}} + \underbrace{(\text{#blinks}-\text{#letters})\cdot½}_{\text{pause within letters}} + \underbrace{(\text{#letters}-\text{#words})\cdot1½}_{\text{pause between letters}} + \underbrace{(\text{#words}-1)\cdot3}_{\text{pause between words}}
@@ -241,7 +243,7 @@ $$
 Try to pause and understand how this formula works maybe using our example, I have already split it into parts so that it is easy to derive. A key hint is to first try to calculate the time for a single letter, then a single word and then finally a collection of word, if you are able to correctly solve for single letter, you have already completed halt the job, the last half is just about recognising the pattern and using it for next calculations.\
 Now, getting the value for the message $\textrm{I LOVE CODING THEORY}$ is a matter of trivial substitution into this formula.
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$
 \begin{align*}
 t_2 &= \underbrace{\text{206}\cdot½}_{\text{time spent blinking}} + \underbrace{(\text{206}-\text{17})\cdot½}_{\text{pause within letters}} + \underbrace{(\text{17}-\text{4})\cdot1½}_{\text{pause between letters}} + \underbrace{(\text{4}-1)\cdot3}_{\text{pause between words}}\\
@@ -253,7 +255,7 @@ $$
 ### Attempt 3 (Base $$1$$ + Frequency Analysis)
 Notice, the structure of our encoded message in this and previous attempt is the same (Base $$1$$). The only difference between this and previous attempt is that now, $$\#$$blinks for every letter is according to their frequency, so the total time spent blinking ($$\#$$blinks) may change, but rest of our analysis, will still work, as a result, the same formula works!
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$
 \begin{align}
 t_3 &= \underbrace{\text{#blinks}\cdot½}_{\text{time spent blinking}} + \underbrace{(\text{#blinks}-\text{#letters})\cdot½}_{\text{pause within letters}} + \underbrace{(\text{#letters}-\text{#words})\cdot1½}_{\text{pause between letters}} + \underbrace{(\text{#words}-1)\cdot3}_{\text{pause between words}}
@@ -263,7 +265,7 @@ $$
 
 Now, let's try substituting values into it
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$
 \begin{align*}
 t_3 &= \underbrace{\text{138}\cdot½}_{\text{time spent blinking}} + \underbrace{(\text{138}-\text{17})\cdot½}_{\text{pause within letters}} + \underbrace{(\text{17}-\text{4})\cdot1½}_{\text{pause between letters}} + \underbrace{(\text{4}-1)\cdot3}_{\text{pause between words}}\\
@@ -284,7 +286,7 @@ Even, this analysis is similar, let's breakdown a message encoded using Morse an
 Now, can you write down the formula just by using previous formulae? Think about it!
 All we did which thinking about this Base $$2$$ method was adding another symbol (dash) to our Base $$1$$'s blink (dot). So, only $$\#$$blinks part in the formula needs updation and there we have it
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$
 \begin{align}
 t_4 &= \underbrace{\text{#dots}\cdot½+\text{#dashes}\cdot1½}_{\text{time spent blinking}} + \underbrace{((\text{#dots}+\text{#dashes})-\text{#letters})\cdot½}_{\text{pause within letters}} + \underbrace{(\text{#letters}-\text{#words})\cdot1½}_{\text{pause between letters}} + \underbrace{(\text{#words}-1)\cdot3}_{\text{pause between words}}
@@ -295,7 +297,7 @@ $$
 Notice, the 'time spent blinking' and 'pause within letters', have different multiplication factors to $$\#$$dashes, this is because a dash blinks for longer time than a dot, but they both count as only one blink, one is short blink and another is long blink. So, the two $$\#$$blinks terms in our previous formula were used for different purposes, which is why I had kept the formula as it is instead of simplifying it further, which can later cause confusion, if we tried generalising that formula.
 So, the time taken is...
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$
 \begin{align*}
 t_4 &= \underbrace{\text{25}\cdot½+\text{22}\cdot1½}_{\text{time spent blinking}} + \underbrace{((\text{25}+\text{22})-\text{17})\cdot½}_{\text{pause within letters}} + \underbrace{(\text{17}-\text{4})\cdot1½}_{\text{pause between letters}} + \underbrace{(\text{4}-1)\cdot3}_{\text{pause between words}}\\
@@ -315,7 +317,7 @@ $$
 
 Now for ASCII, this means
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$
 \begin{equation}
 \begin{aligned}[b]
@@ -399,7 +401,7 @@ Would you believe me if I said missed a very important point in our analysis? Th
 
 Well, let's go through our codes again, and try to decode our original message but here the fourth bit has mistankely as $0$ instead of $1$.
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$100100{\color{orangered}{0}}110101011111100001100100001101111011100110001010110011110010001110110001101010$$
 </div>
 
@@ -407,7 +409,7 @@ $$100100{\color{orangered}{0}}11010101111110000110010000110111101110011000101011
 ![Huffman Code Decoding for English letters](/huffman-code-decoding-dark.svg){: .dark}
 _Huffman Code Decoding for English letters_
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$\underbrace{1001}_{\textrm{I}}\underbrace{00{\color{orangered}{0}}1}_{\textrm{R}}\underbrace{101010}_{\textrm{Y}}\underbrace{111111}_{\textrm{M}}\underbrace{00001}_{\textrm{C}}\underbrace{1001}_{\textrm{I}}\underbrace{00001101111011100110001010110011110010001110110001101010}_{\textrm{CODING THEORY}}$$
 </div>
 
@@ -415,7 +417,7 @@ Decoding it using the Huffman tree, we get the message as $\text{I}{\color{orang
 
 As ASCII is fixed-length, if just one bit was corrupted then it will only have an effect on the $8$ bits that contain it, so max one character will be different. So, if we had received
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$010010{\color{orangered}{1}}100100000010011000100111101010110010001010010000001000011010011110100010001001001010011100100011100100000010101000100100001000101010011110101001001011001$$
 </div>
 
@@ -423,7 +425,7 @@ then it gets decoded as ${\color{orangered}\text{K}}\text{ LOVE CODING THEORY}$.
 
 And, for Morse
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$0\,0\,\,\,\,\,\,0\,1\,0\,0\,\,\,{\color{orangered}{0}}\,1\,1\,\,\,0\,0\,0\,1\,\,\,0\,\,\,\,\,\,1\,0\,1\,0\,\,\,1\,1\,1\,\,\,1\,0\,0\,\,\,0\,0\,\,\,1\,0\,\,\,1\,1\,0\,\,\,\,\,\,1\,\,\,0\,0\,0\,0\,\,\,0\,\,\,1\,1\,1\,\,\,0\,1\,0\,\,\,1\,0\,1\,1$$
 </div>
 
@@ -474,7 +476,7 @@ Though there is a lot more to be said, especially for _Channel Coding_ and _Cryp
 If you have read all of my ramble, I genuinely thank you. Apologies for the abysmal grammar and poor writing. I wasn't able to work on it as much as I wanted to. Still, I will get back and tidy this up (once the event finishes). And with that I finally take leave ✌️
 
 ## References
-[^code]: This beautiful problem from the the book [Code: The Hidden Language of Computer Hardware and Software](https://www.codehiddenlanguage.com/) by [Charles Petzold](https://www.charlespetzold.com/) inspired me to build ideas on top of it to create this blog post with my own narrative.
+[^code]: This beautiful problem from the the book [Code: The Hidden Language of Computer Hardware and Software](https://www.codehiddenlanguage.com/) by [Charles Petzold](https://www.charlespetzold.com/) inspired me to build ideas on top of it and create this blog post with my own narrative.
 [^reducible]: [Huffman Codes: An Information Theory Perspective]({{ site.url_prefixes.youtube.video }}/B3y0RsVCyrw) by [Reducible](https://www.youtube.com/@Reducible)
 [^glitch]: Glitch text generated using [Glitch Text Generator](https://coddy.tech/tools/glitch-text-generator) -- [Coddy](https://coddy.tech/)
 [^utf8]: [Character Encodings and UTF-8]({{ site.url_prefixes.youtube.video }}/MijmeoH9LT4) by [Computerphile](https://www.youtube.com/@Computerphile)
