@@ -4,7 +4,7 @@ title: "𝕺𝖗𝖇: 𝕺𝖓 𝖙𝖍𝖊 𝕸𝖔𝖛𝖊𝖒𝖊𝖓𝖙𝖘
 anime_code: 52215
 composer: Kensuke Ushio
 composer_code: 34079
-video_id: Rd_Cb6uWoSI
+video_id: dI5Ne-UBp_Q
 year: 2024
 ---
 I can describe Ushio's works in one word --- [MADNESS]({{ site.url_prefixes.youtube.video }}/w_I1MWCTkyQ). His experimental way of incorporating non-standard musical instruments, such as 
