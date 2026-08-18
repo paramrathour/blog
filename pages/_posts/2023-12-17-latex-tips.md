@@ -88,10 +88,12 @@ I will wrap this up by showcasing some cool $$\LaTeX$$ applications with source 
 ### Math
 #### Givens Rotation
 
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$ { G(i,j,\theta )={\begin{bmatrix}1&\cdots &0&\cdots &0&\cdots &0\\\vdots &\ddots &\vdots &&\vdots &&\vdots \\0&\cdots &\cos{\theta}&\cdots &-\sin{\theta}&\cdots &0\\\vdots &&\vdots &\ddots &\vdots &&\vdots \\0&\cdots &\sin{\theta}&\cdots &\cos{\theta}&\cdots &0\\\vdots &&\vdots &&\vdots &\ddots &\vdots \\0&\cdots &0&\cdots &0&\cdots &1\end{bmatrix}} } $$
 
 <!-- <p style="text-align: center;">\( G(i,j,\theta )\mathbf{x}\) represents a counter-clockwise rotation of the vector \(\mathbf{x}\) in the \((i,j)\) plane by \(\theta\) radians</p> -->
 <p style="text-align: center;">Apply \( G(i,j,\theta )\) to rotate a vector \( \mathbf{x} \) in the \((i,j)\) plane by \(\theta\) radians (counter-clockwise)</p>
+</div>
 
 {% assign temp_post = site.latex | where: 'slug', 'givens-rotation' | first %}
 ```latex
@@ -100,7 +102,9 @@ $$ { G(i,j,\theta )={\begin{bmatrix}1&\cdots &0&\cdots &0&\cdots &0\\\vdots &\dd
 
 #### A remarkable formula of Ramanujan
 
+<div style="overflow-x: auto; overflow-y: hidden;">
 $$ \sqrt{\frac{\pi e}{2}}= \cfrac{1}{1+{\cfrac{1}{1+{\cfrac{2}{1+{\cfrac{3}{1+{ {\cfrac{4}{1+{_{\ddots }}} }}}}}}}}} + \left\{1 + \dfrac{1}{1\cdot3}+\dfrac{1}{1\cdot3\cdot5}+\dfrac{1}{1\cdot3\cdot5\cdot7}+\dfrac{1}{1\cdot3\cdot5\cdot7\cdot9}+\cdots\right\} $$
+</div>
 
 {% assign temp_post = site.latex | where: 'slug', 'a-remarkable-formula-of-ramanujan' | first %}
 ```latex
