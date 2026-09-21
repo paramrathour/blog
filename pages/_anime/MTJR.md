@@ -13,4 +13,7 @@ This cour feels like a setup for the next half, just like the first cour of S1. 
 Excited to know what happens next.\
 \
 Season 2 Part 2: Nanahoshi and Norn-nee episodes were PEAK.\
-While I will continue to watch the series for the above moments, I have lost patience with some characters. Now, it feels like 'those' situations were purposefully created so that we get more ecchi.
+While I will continue to watch the series for the above moments, I have lost patience with some characters. Now, it feels like 'those' situations were purposefully created so that we get more ecchi.\
+\
+Season 3 Part 1: I was mistaken, this is not really a redemption story.\
+The _uncut_ OPs are back!!
