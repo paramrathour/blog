@@ -50,12 +50,12 @@ Then I started by rewriting my [CS101 tips]({% post_url 2022-04-08-cs101-tips %}
 Well, get ready for a time skip, if you thought I would be churning out blog posts now that I had everything setup, then oh boy, were you wrong. By now, I had became a ...
 
 ... slave to originality
-: There were so many ideas that I ditched because someone else had already done an amazing job on it, and I felt like I can barely improve upon it. Examples include the [self-help](https://shreyasnadkarni.medium.com/)ish stuff and the [philosophical deep dives](https://ksr.onl/blog/) made by my friends and also, the surprisingly intuitive and exciting math [articles](https://www.science4all.org/articles/) and [videos](https://www.youtube.com/playlist?list=PLkahZjV5wKe-Z1RP3ZiYwe8JSAolmqF9M)/[playlists](https://www.youtube.com/playlist?list=PLsdeQ7TnWVm_EQG1rmb34ZBYe5ohrkL3t) available on the internet.\
-Even for posts that looked generic, I gave them a unique twist to set them apart from the rest.
+: There were so many ideas that I ditched because someone else had already done an amazing job on it, and I felt like I can barely improve upon it. Examples include the [self-help](https://shreyasnadkarni.medium.com/)ish stuff and the [philosophical deep dives](https://ksr.onl/blog/) made by my friends and also, the surprisingly intuitive and exciting [math](https://hidden-phenomena.com/)/[cs](https://nicholas.carlini.com/writing/2020/digital-logic-game-of-life.html)/[science](https://www.science4all.org/articles/) articles and [videos](https://www.youtube.com/playlist?list=PLkahZjV5wKe-Z1RP3ZiYwe8JSAolmqF9M)/[playlists](https://www.youtube.com/playlist?list=PLsdeQ7TnWVm_EQG1rmb34ZBYe5ohrkL3t) available on the internet.\
+Even for posts that looked generic, I have given them a unique twist to set them apart from the rest.
 
 ... slave to perfection
 : So many of my ideas just rot in the draft-stage as it requires a truckload of time and effort to polish them into blogs comparable to the quality with the rest of the site. Even after publishing them, I only popularise them after some time has elapsed. This allows me to share it with a smaller set of people and get feedback.\
-Though, the biggest bottleneck is undoubtedly generating graphics; my obsession with creating perfectly vectorised (or otherwise lossless) images that are compatible with both [light and dark modes]({% post_url 2023-12-17-latex-tips %}/#code-highlighting-using-minted) leads to unimaginable levels of time waste. Such as the next image, which was improvised by our artist [aishik](https://nathaishik.github.io/). Check out his [art](https://www.instagram.com/nathaishik/)!
+Though, the biggest bottleneck is undoubtedly generating graphics; my obsession with creating perfectly vectorised (or otherwise lossless) images that are compatible with both [light and dark modes]({% post_url 2023-12-17-latex-tips %}/#code-highlighting-using-minted) leads to unimaginable levels of time waste. Such as the next image, which was improvised by our artist [aishik](https://nathaishik.github.io/). Check out his [art](https://www.instagram.com/aishikart/)!
 
 > When will I be free? 🌊
 {: .prompt-info}
@@ -66,7 +66,7 @@ Though, the biggest bottleneck is undoubtedly generating graphics; my obsession 
 
 Slowly but steadily, I got going with a quick and dirty trick of recycling my own content from other [courses]({% post_url 2024-01-10-knuth %})/[quizzes]({% post_url 2024-05-27-anime-soundtracks %})/[reviews]({% post_url 2024-06-09-cse-minor %})/[tips]({% post_url 2023-12-17-latex-tips %}). But even then, something felt off; I thought it lacked a personal touch, stuff that matters to me even if it doesn't really mean anything to anyone else (like this post ;). And with that realisation, I started working on ambitious projects such as [Hunter × Hunter]({% post_url 2024-07-16-hunter-hunter-little-things %}) and [Philosophy in Anime]({% post_url 2024-08-12-philosophy-in-anime %}).
 
-> Even though those posts brought in a ton of traffic to the site, I just really enjoyed going back and rereading them myself; finding mistakes and refining them. That's when I realised, for me to feel truly satisfied, I need to design blogs that I would enjoy reading as an audience myself.
+> Even though those posts brought in a ton of traffic to the site, I just really enjoyed going back and rereading them myself; finding mistakes and refining them. That's when I realised, for me to feel truly satisfied, I need to design blogs that _I would enjoy reading as an audience myself_.
 {: .prompt-tip}
 
 ## Two Paths

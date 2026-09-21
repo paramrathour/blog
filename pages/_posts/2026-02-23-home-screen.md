@@ -37,13 +37,18 @@ Widgets
 At first glance, the striking contrast of black and white might feel intense for some. Other than that, it may just look like a regular home screen. But thanks to Nova Launcher, it is actually heavily customised so that an unhealthy number of tasks are just one interaction away.
 
 #### Widgets
+![](/widgets.jpg)
+_My main Home-Screen Widget_
+
 Starting simple, the main widget shows the time, date, day, week number, upcoming alarm/event, temperature (high/low/feels like), and a short weather summary. With a single tap on respective areas of the widget, I can open the clock, calendar, weather app, or even toggle locations to check the weather for different cities.
+
+The second widget just shows the battery percentage, and clicking on it opens the battery settings.
 
 #### Icons
 ![](/icons/home-screen.jpg)
 _My Home-Screen icons (with main Dock)_
 
-Similarly, I can assign different actions to an icon depending on whether I tap, swipe up, or swipe down on it. These actions can be as simple as opening an app, folder, or they can trigger app-specific shortcuts for advanced usage. I have set up each of the above 15 icons, and the table below shows what happens when I swipe up, tap, or swipe down (in that order) on each one starting from the _dock_ apps (bottommost row) and moving upward.
+Similarly, I can assign different actions to an icon depending on whether I tap, swipe up, or swipe down on it. These actions can be as simple as opening an app, folder, or they can trigger app-specific shortcuts for advanced usage. I have set up actions for each of the above 15 icons, and the table below shows what happens when I _swipe up_, _tap_, or _swipe down_ (in that order) on each one starting from the _dock_ apps (bottommost row) and moving upward.
 
 > On the surface, 45 shortcuts $$(15 \times 3)$$ sounds like way too much to remember. But here's the deal: the shortcuts are not random. In fact, they are designed to be intuitive.\
 For example, tap the <i class="fa-fw fas fa-camera"></i> icon and the camera opens. Swipe up? Gallery. Swipe down? Text scanner. Same with the <i class="fa-fw fas fa-calculator"></i> icon; I can launch a regular calculator, a scientific one, or even a graphing calculator just based on how I interact with it.
@@ -67,7 +72,7 @@ For example, tap the <i class="fa-fw fas fa-camera"></i> icon and the camera ope
 </tr>
 <tr>
 <td rowspan="3"><img class="normal shimmer" alt="icon-row-3-column-2" src="{{ site.cdn }}/{{ page.media_subpath }}/icons/home-screen/row-3-column-2.jpg"></td>
-<td>&nbsp;</td>
+<td>Translate (Live Translation)</td>
 </tr>
 <tr>
 <td><strong>Messages</strong></td>
@@ -217,7 +222,7 @@ For example, tap the <i class="fa-fw fas fa-camera"></i> icon and the camera ope
 ![](/secondary-light.jpg){: .light}
 _Secondary Home-screen (left) and App Drawer (right)_
 
-The layout of the other pages prioritises utility over aesthetics. The second home screen, which can be accessed by swiping sideways, has three widgets (daily essentials list, work emails, and music playlist). There is also a secondary dock page (you can swipe to it from the main dock) with more icons and shortcuts, though not as many; as technically, these interactions are two steps away due to initial swiping, and so they are not always faster than just searching for the app directly. Instead, this dock focuses on shortcuts that would normally take several taps even after opening the app. These shortcuts are summed up in the table below too.
+The layout of the other pages prioritises utility over aesthetics. The second home screen, which can be accessed by swiping sideways, has three widgets (daily essentials list, work emails, and music playlist). There is also a secondary dock page (swipe to it from the main dock) with more icons and shortcuts, though not as many; as technically, these interactions are two steps away due to initial swiping, and so they are not always faster than just searching for the app directly. Instead, this dock focuses on shortcuts that would normally take several taps even after opening the app. These shortcuts are summed up in the table below too.
 
 As for the app drawer, all my apps are neatly organised there, but I almost never scroll through it. I mostly just use Nova Search, which searches everything at once.
 
@@ -292,9 +297,7 @@ _My secondary-Screen icons (with alternate Dock)_
 
 Now, let's come to the actual reason I wanted to write this blog; to showcase some great apps that I have stuck with since almost a decade that might help others too. You will notice that I tend to lean more towards third-party apps than pre-installed ones, and there are two simple reasons for that.
 
-Firstly, such apps offer greater adaptability to the setup, so I can keep the same workflow even if I switch phones. Secondly, they are usually way  to change home-screen, app drawar, folders, search, feed, etc. I simply recommend you try it out.more feature-rich than the default s 
-anyway.
-
+Firstly, such apps offer greater adaptability to the setup, so I can keep the same workflow even if I switch phones. Secondly, they are usually way more feature-rich than the defaults anyway.
 
 So, let's get into the list.
 
@@ -315,7 +318,7 @@ Been using it since before Microsoft bought it 😎. While the overall experienc
 ### [Xodo | PDF Reader and Editor]({{ page.url_playstore_id }}=com.xodo.pdf.reader) <i class="fa-fw fas fa-file-pdf"></i>
 Initially, I installed this app just because it could browse folders and preview thumbnails of all the PDFs inside them. But then I discovered true potential of this app. You could read PDFs in different modes (reading, single-page, double-page), switch colour schemes, toggle horizontal or vertical scrolling and that was just the viewing side.
 
-On the editing side, it had a ton of annotation tools and powerful PDF restructuring features like reordering pages, editing page numbers, merging documents, and my all-time favourites: cropping and compressing PDFs. And all of that was free! No wonder then, that the team eventually _nerfed_ it by putting some of those features behind a paywall in newer versions, which was still fine but they completely ruined the UI as well. So yes, I am staying on `v5.0.22` for life (or at least until it inevitably breaks someday :).
+On the editing side, it had a ton of annotation tools and powerful PDF restructuring features like reordering pages, editing page numbers, merging documents, and my all-time favourites: _cropping and compressing PDFs_. And all of that was free! No wonder then, that the team eventually _nerfed_ it by putting some of those features behind a paywall in newer versions, which was still fine but they completely ruined the UI as well. So yes, I am staying on `v5.0.22` for life (or at least until it inevitably breaks someday :).
 
 ### [All-In-One Calculator]({{ page.url_playstore_id }}=all.in.one.calculator)<sup>†</sup> <i class="fa-fw fas fa-calculator"></i>
 After trying a bunch of calculator apps, this one easily felt like the best. It handled unit conversions, time intervals and even did neat math/geometry stuff like prime checking, and calculating area/perimeter/volumes from sides/angles (and vice versa). But what impressed me the most was its support for up to $$100000$$ digits, as I was successfully able to approximate $$26000!$$. Sadly, they soon reduced its limits to only $$10^{308}$$.
@@ -324,7 +327,7 @@ Anyway, they even listened to my feedback and added support for graphing and bas
 
 ### [HiPER Calc Pro]({{ page.url_playstore_id }}=cz.hipercalc.pro)<sup>†</sup> <i class="fa-fw fas fa-square-root-variable"></i>
 Hands down the best scientific calculator. It had loads of mathematical functions but what really impressed my JEE-conditioned brain was the clean expression mode and the fact that it could compute many integrals. And unlike All-In-One, it could originally calculate $$1000!$$ digit-by-digit!
-Buuut, just like All-In-One, they later cut down the precision to just $$100$$ digits. Still more than enough for normal use (and let's not forget the exponent precision can go up to billions, implying that the app can represent $$10^{10^{10}-1}$$, which is crazy), but I still wonder why they nerfed it.
+Buuut, just like All-In-One, they later cut down the precision to just $$100$$ digits. Still more than enough for normal use (and let's not forget the exponent precision can go up to billions, implying that the app can represent $$10^{10^{10}-1}$$, which is crazy), but I still wonder why all these calculator apps kept nerfing themselves.
 
 > Initially, the app had a few themes and the expression mode was locked for paid members. After my immature rant, the developers did something beautiful: they let users choose between a fully ad-free but slightly restricted version, or a fully functional version with ads. That's the kind of choice consumers rarely get anymore. And, so I had to buy their paid version to support them.
 {: .prompt-tip}
@@ -379,20 +382,24 @@ But this assumes delaying their death is even a good thing. Tech will evolve, ne
 > Coincidentally, today marks 14 years since Nova was launched on the Play Store. I don't know what it is with me and accidentally writing stuff on anniversaries (cough [Knuth]({% post_url 2024-01-10-knuth %}) cough).
 {: .prompt-info}
 
-I wanted to end with something cliché like "Long Live Nova," but the truth is that the golden era: where I proudly flexed Android's customization prowess, is fading. Taking inspiration from Tom Scott's monologue[^tomscott]:
+I wanted to end with something cliché like "Long Live Nova," but the truth is that the golden era: where I proudly flexed Android's customization prowess, is fading.
+First companies started locking bootloaders,[^bootloading] and now even sideloading is getting harder,[^sideloading] partly because you can't keep powerful features just for power users without malicious actors abusing them to harm average users. And it's not just Android either; just look at how many products have been [Killed by Google](https://killedbygoogle.com/), from YouTube Messages to Conversational Actions, and most recently even the Tenor API was sent to Google Graveyard.
+Taking inspiration from Tom Scott's monologue[^tomscott]:
 > These apps will die, and their features won't come back; eventually, Android will break too; and so will everything else. Entropy will get us all in the end. But, that doesn't mean we shouldn't build things anyway. Just because something is going to break one day doesn't mean it can't have an effect that lasts into the future.
 
-And I am sure Nova Launcher will stick around; if not on our phones, then at least in our hearts.
+And I am sure Nova Launcher will stick around; if not on our phones, then at least in our hearts 🫶.
 
 ## Footnotes
 
 [^14minutes]: Well, there's another reason :) let's see if you can figure out why I don't want to make this post any longer.
 [^ripdataobb]: u/AD-LB (Reddit), ["On Android R, no app can let you see what's inside 'Android' folder anymore"](https://www.reddit.com/r/androidapps/comments/gdwztw/on_android_r_no_app_can_let_you_see_whats_inside/)
 [^rewards]: In case you are wondering, yes, I bought all my apps using rewards. It took yeaaarss! 😅
-[^foundermessage]: Kevin Barry, [And thanks for all the Tempeh](https://teslacoilapps.com/nova/solong.html)
+[^foundermessage]: Kevin Barry, ["And thanks for all the Tempeh"](https://teslacoilapps.com/nova/solong.html)
 [^unexpectedupdate]: Brady Snyder, [Android Authority](https://www.androidauthority.com/nova-launcher-update-3611853/) and [Google Support](https://support.google.com/googleplay/android-developer/answer/11926878)
 [^bugfixes]: u/MorgothRB (Reddit), ["Update 81018 (8.2.8) is out"](https://www.reddit.com/r/NovaLauncher/comments/1qmx7ix/update_81018_828_is_out/)
 [^novastay]: Instabridge, ["Nova Launcher: An Update"](https://novalauncher.com/nova-is-here-to-stay)
 [^ripgestures]: Malcolm II (Google Support), ["Overview/gesture support for third party launchers?"](https://support.google.com/pixelphone/thread/28359094/overview-gesture-support-for-third-party-launchers)
 [^tomscott]: Tom Scott, ["This Video Has _ Views"]({{ site.url_prefixes.youtube.video }}/BxV14h0kFs0)
 [^nicethings]: Veritasium, ["This is why we can't have nice things"]({{ site.url_prefixes.youtube.video }}/j5v8D-alAKE).
+[^bootloading]: Jeffrey Ogodogun (Inquisitive Universe), ["Bootloader Unlocking Is Going Extinct"](https://inquisitiveuniverse.com/2025/09/12/bootloader-unlocking-is-going-extinct/)
+[^sideloading]: Hamlin Rozario (XDA), ["Google's new Android sideloading rules could undermine the OS' biggest strength"](https://www.xda-developers.com/googles-new-android-sideloading-rules-could-undermine-biggest-strength/)
