@@ -332,7 +332,7 @@ The purpose of this blog was to highlight through anime, the idea of thinking mo
 [^vinlandsagawiki]: [Vinland Saga Wiki -- Fandom](https://vinlandsaga.fandom.com/wiki/)
 [^vinlandblog]: Actually, I am planning to write a dedicated Vinland Saga blog in the near future! Stay tuned! ;)
 [^fatewiki]: [Fate Wiki -- Fandom](https://typemoon.fandom.com/wiki/)
-[^pingpongaleczandxr]: [Ping Pong The Animation: A Thematic Overview -- Aleczandxr](https://youtu.be/dlUwDA1SlyI)
+[^pingpongaleczandxr]: [Ping Pong The Animation: A Thematic Overview -- Aleczandxr]({{ site.url_prefixes.youtube.video }}/dlUwDA1SlyI)
 [^psychopasswiki]: [Psycho-Pass Wiki -- Fandom](https://psychopass.fandom.com/wiki/)
 [^shinsekaiyoriwiki]: [From the New World Wiki -- Fandom](https://shinsekaiyori.fandom.com/wiki/Shin_Sekai_Yori_Wiki)
 [^deathparadewiki]: [Death Parade Wiki -- Fandom](https://death-parade.fandom.com/wiki/)

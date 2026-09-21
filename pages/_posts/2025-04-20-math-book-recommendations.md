@@ -186,7 +186,7 @@ And more!
 #### Logic
 - _Can You Outsmart an Economist?: 100+ Puzzles to Train Your Brain (Steven E. Landsburg)_
 - _The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs on __Gödel's incompleteness theorems__ (Raymond M. Smullyan)_
-- _To Mock a Mockingbird and Other Logic Puzzles in __Lambda Calculus__: The Inside Story of Bletchley Park (Raymond M. Smullyan)_
+- _To Mock a Mockingbird and Other Logic Puzzles in __Combinatory Logic__: The Inside Story of Bletchley Park (Raymond M. Smullyan)_
 - _Games for Your Mind – The History and Future of Logic Puzzles (Jason Rosenhouse)_
 
 #### Probability 
@@ -214,6 +214,7 @@ A Beautiful Math: John Nash, Game Theory, and the Modern Quest for a Code of Nat
 The Story of Proof: Logic and the History of Mathematics (John Stillwell)
 : An unconventional biography, not of an individual, but of a concept, tracing its significant historical milestones in the development of mathematics
 
+#### Miniatures
 No time to read full biographies? Here's a collection of short ~~and sweet~~ stories
 
 An Episodic History of Mathematics: Mathematical Culture through Problem Solving (Steven G. Krantz)

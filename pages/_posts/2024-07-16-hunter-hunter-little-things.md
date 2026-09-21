@@ -97,7 +97,7 @@ We see his <i>magic</i> in action, right from his first appearance. Clearly, his
 #### Bloodlust
 ![](/007-020-027-028.jpg)
 _Episodes [7]({{ page.url_fandom_hxh }}/Episode_7_(2011)), [20]({{ page.url_fandom_hxh }}/Episode_20_(2011)), [27]({{ page.url_fandom_hxh }}/Episode_27_(2011)), [28]({{ page.url_fandom_hxh }}/Episode_28_(2011))_
-After stage 2 of the exam, Satotz and [Menchi]({{ page.url_fandom_hxh }}/Menchi) notices Hisoka's bloodlust and called it an outburst of negative **aura** giving us direct term to refer to for future displays of bloodlust. The animation team also made it easy to recognise such moments by using a unique visual style. This development culminates into [Neferpitou]({{ page.url_fandom_hxh }}/Neferpitou)'s vicious aura.
+After stage 2 of the exam, Satotz and [Menchi]({{ page.url_fandom_hxh }}/Menchi) notices Hisoka's bloodlust and called it an outburst of negative **aura** giving us direct term to refer to for future displays of bloodlust. The animation team also made it easy to recognise such moments by using a unique artstyle. This development culminates into [Neferpitou]({{ page.url_fandom_hxh }}/Neferpitou)'s vicious aura.
 ![](/086-20-56.jpg)
 _Episode [86]({{ page.url_fandom_hxh }}/Episode_86_(2011))_
 #### [Zebro]({{ page.url_fandom_hxh }}/Zebro)

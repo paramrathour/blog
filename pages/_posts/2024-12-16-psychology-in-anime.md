@@ -85,7 +85,7 @@ Alright, I hear you. The next anime will look realistic as well.
 ### Rainbow: Criminal Seven of Compound Two Cell Six
 ![](/rainbow-criminal-seven-of-compound-two-cell-six.jpg)
 
-[Rainbow]({{ site.url_prefixes.myanimelist.anime }}/6114) is a coming-of-age story of six teenagers who were arrested for serious crimes and tossed up into the harsh environment of a reformatory, where they are stripped off their humanity. It is in these conditions, with the help of _Sakuragi_, that the boys grow into men, as the story shines in its strongest moments and showcases their _beautiful bond of friendship_. While the anime has its flaws, the most prominent being the portrayal of characters as either entirely good or evil; but, apart from that it consistently leans towards realism over lofty idealism.
+[Rainbow]({{ site.url_prefixes.myanimelist.anime }}/6114) is a coming-of-age story of six teenagers who were arrested for serious crimes and tossed up into the harsh environment of a reformatory, where they are stripped off their humanity. It is in these conditions, with the help of _Sakuragi_, that the _boys grow into men_, as the story shines in its strongest moments and showcases their _beautiful bond of friendship_. While the anime has its flaws, the most prominent being the portrayal of characters as either entirely good or evil; but, apart from that it consistently leans towards realism over lofty idealism.
 ### Welcome to the N.H.K.
 ![](/welcome-to-the-nhk.jpg)
 

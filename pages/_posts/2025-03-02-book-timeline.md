@@ -8,7 +8,7 @@ timeline: true
 ---
 ## Motivation
 After [anime]({% post_url 2023-12-14-anime-timeline %}) and [manga]({% post_url 2023-12-14-manga-timeline %}), I am back with another timeline as I have finally restarted reading books outside of math and manga sphere. 
-Even though I recently created a [goodreads](https://www.goodreads.com/wrath3435) account, it has simply too much clutter and unnecessary stuff. Like having separate entries for every books of the same series and the obsession with ratings. Here, I keep things minimalistic.
+Even though I recently created a [goodreads](https://www.goodreads.com/wrath3435) and a [storygraph](https://app.thestorygraph.com/profile/wrath3435) account, they have simply too much clutter and unnecessary stuff. Like having separate entries for every books of the same series and the obsession with ratings. Here, I keep things minimalistic.
 
 ## More Repetitive Stuff
 Before you dive in, here are a few things to know. Since it's mostly repetitive, I won't go over it all again here. Check out [the other timeline]({% post_url 2023-12-14-anime-timeline %}) for more details!
